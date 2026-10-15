@@ -1,0 +1,96 @@
+{
+  "created_utc": "2026-10-14T19:39:09.578957+00:00",
+  "seed": 42,
+  "hardware_profile": {
+    "batch_size": 64,
+    "epochs_head": 12,
+    "epochs_ft": 15,
+    "patience": 5
+  },
+  "img_size": 224,
+  "cache_short_side": 256,
+  "banner_cropped_px": 20,
+  "normalisation": {
+    "mean": [
+      0.485,
+      0.456,
+      0.406
+    ],
+    "std": [
+      0.229,
+      0.224,
+      0.225
+    ]
+  },
+  "num_classes": 30,
+  "split_sizes": {
+    "train": 3334,
+    "val": 3333,
+    "test": 3333
+  },
+  "experiments": [
+    {
+      "name": "exp1_frozen_head",
+      "trainable": "head",
+      "lr_head": 0.001,
+      "lr_backbone": 0.0,
+      "epochs": 12,
+      "class_weighted": false
+    },
+    {
+      "name": "exp2_finetune_layer4",
+      "trainable": "layer4",
+      "lr_head": 0.001,
+      "lr_backbone": 0.0001,
+      "epochs": 15,
+      "class_weighted": false
+    },
+    {
+      "name": "exp3_finetune_layer4_weighted",
+      "trainable": "layer4",
+      "lr_head": 0.001,
+      "lr_backbone": 0.0001,
+      "epochs": 15,
+      "class_weighted": true
+    }
+  ],
+  "experiments_run": [
+    "exp1_frozen_head",
+    "exp2_finetune_layer4",
+    "exp3_finetune_layer4_weighted"
+  ],
+  "selected_experiment": "exp2_finetune_layer4",
+  "selection_rule": "highest validation macro-F1",
+  "baseline_validation_metrics": {
+    "majority_class": {
+      "accuracy": 0.21992199219921993,
+      "macro_precision": 0.0073307330733073306,
+      "macro_recall": 0.03333333333333333,
+      "macro_f1": 0.012018363666174783,
+      "weighted_precision": 0.04836568265287375,
+      "weighted_recall": 0.21992199219921993,
+      "weighted_f1": 0.07929307441319636
+    },
+    "pixel_logreg": {
+      "accuracy": 0.26042604260426044,
+      "macro_precision": 0.2607103418604016,
+      "macro_recall": 0.20657414048068456,
+      "macro_f1": 0.22452806445792034,
+      "weighted_precision": 0.2619997428054654,
+      "weighted_recall": 0.26042604260426044,
+      "weighted_f1": 0.25739677825189866
+    }
+  },
+  "environment": {
+    "python": "3.13.15",
+    "torch": "2.11.0+cu130",
+    "torchvision": "0.26.0+cu130",
+    "numpy": "2.1.3",
+    "pandas": "2.2.3",
+    "sklearn": "1.6.1",
+    "pillow": "11.3.0",
+    "device": "cuda",
+    "gpu": "Tesla T4",
+    "platform": "Linux-6.6.122+-x86_64-with-glibc2.39"
+  }
+}

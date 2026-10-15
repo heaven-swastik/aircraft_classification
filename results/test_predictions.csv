@@ -1,0 +1,3334 @@
+image_id,true_label,true_name,pred_label,pred_name,confidence,correct
+1514522,4,Boeing,4,Boeing,0.989141,True
+0747566,4,Boeing,4,Boeing,0.95082027,True
+1008575,4,Boeing,4,Boeing,0.9347155,True
+0717480,4,Boeing,4,Boeing,0.7812068,True
+0991569,4,Boeing,12,Douglas Aircraft Company,0.53820246,False
+1446335,4,Boeing,12,Douglas Aircraft Company,0.6351188,False
+1345732,4,Boeing,4,Boeing,0.9134758,True
+0064932,4,Boeing,12,Douglas Aircraft Company,0.5741293,False
+1453508,4,Boeing,4,Boeing,0.92211103,True
+0536515,4,Boeing,13,Embraer,0.64444816,False
+0809560,4,Boeing,4,Boeing,0.99447083,True
+0812092,4,Boeing,4,Boeing,0.97865695,True
+0979377,4,Boeing,4,Boeing,0.99527955,True
+0062765,4,Boeing,4,Boeing,0.8718,True
+1191359,4,Boeing,4,Boeing,0.66794515,True
+0894381,4,Boeing,4,Boeing,0.96796775,True
+0574359,4,Boeing,4,Boeing,0.9679987,True
+0447936,4,Boeing,4,Boeing,0.88477796,True
+0658110,4,Boeing,4,Boeing,0.86988074,True
+0725155,4,Boeing,12,Douglas Aircraft Company,0.57515264,False
+0691159,4,Boeing,1,Airbus,0.5845348,False
+1707891,4,Boeing,4,Boeing,0.83420634,True
+1338874,4,Boeing,12,Douglas Aircraft Company,0.8866038,False
+0812908,4,Boeing,4,Boeing,0.89838356,True
+1187784,4,Boeing,4,Boeing,0.5756239,True
+0895165,4,Boeing,4,Boeing,0.66322845,True
+0197342,4,Boeing,4,Boeing,0.9363847,True
+0789828,4,Boeing,4,Boeing,0.93222874,True
+0602227,4,Boeing,4,Boeing,0.4616204,True
+2127935,4,Boeing,4,Boeing,0.7997876,True
+0869739,4,Boeing,4,Boeing,0.46978402,True
+0939480,4,Boeing,4,Boeing,0.6369593,True
+0537688,4,Boeing,19,Lockheed Corporation,0.47005695,False
+0116175,4,Boeing,4,Boeing,0.4491242,True
+0704269,4,Boeing,21,McDonnell Douglas,0.37070954,False
+1192237,4,Boeing,21,McDonnell Douglas,0.6688009,False
+1169900,4,Boeing,21,McDonnell Douglas,0.6359043,False
+0328235,4,Boeing,21,McDonnell Douglas,0.745737,False
+0923507,4,Boeing,27,Tupolev,0.38022253,False
+0306187,4,Boeing,4,Boeing,0.9889465,True
+0907384,4,Boeing,21,McDonnell Douglas,0.5291674,False
+0064005,4,Boeing,4,Boeing,0.8187006,True
+0907370,4,Boeing,21,McDonnell Douglas,0.5946215,False
+1337431,4,Boeing,4,Boeing,0.7798883,True
+0061581,4,Boeing,4,Boeing,0.64321005,True
+1338360,4,Boeing,21,McDonnell Douglas,0.8793719,False
+2208641,4,Boeing,27,Tupolev,0.5571988,False
+0218041,4,Boeing,4,Boeing,0.74189013,True
+0907433,4,Boeing,4,Boeing,0.96791893,True
+0694478,4,Boeing,4,Boeing,0.91891223,True
+0699286,4,Boeing,4,Boeing,0.43602294,True
+1713236,4,Boeing,4,Boeing,0.891089,True
+1047756,4,Boeing,21,McDonnell Douglas,0.7414928,False
+0256039,4,Boeing,4,Boeing,0.7262881,True
+2021695,4,Boeing,21,McDonnell Douglas,0.6708862,False
+0907405,4,Boeing,4,Boeing,0.74312603,True
+0724783,4,Boeing,27,Tupolev,0.4056286,False
+1215395,4,Boeing,4,Boeing,0.72794986,True
+0920409,4,Boeing,21,McDonnell Douglas,0.6244881,False
+1833887,4,Boeing,21,McDonnell Douglas,0.23874027,False
+0713927,4,Boeing,4,Boeing,0.75764453,True
+0538261,4,Boeing,27,Tupolev,0.2843591,False
+0109655,4,Boeing,21,McDonnell Douglas,0.4848857,False
+1639641,4,Boeing,19,Lockheed Corporation,0.636754,False
+0457894,4,Boeing,21,McDonnell Douglas,0.7065595,False
+0846103,4,Boeing,4,Boeing,0.7352816,True
+0227058,4,Boeing,4,Boeing,0.9341078,True
+0950275,4,Boeing,4,Boeing,0.9008504,True
+0114122,4,Boeing,4,Boeing,0.94195735,True
+1754503,4,Boeing,4,Boeing,0.99998295,True
+0127648,4,Boeing,4,Boeing,0.9788507,True
+0225218,4,Boeing,4,Boeing,0.9903914,True
+1713238,4,Boeing,4,Boeing,0.99963176,True
+1295799,4,Boeing,4,Boeing,0.87492985,True
+1455998,4,Boeing,4,Boeing,0.5833812,True
+1102089,4,Boeing,4,Boeing,0.9853182,True
+0067619,4,Boeing,4,Boeing,0.9971124,True
+0713752,4,Boeing,4,Boeing,0.9999347,True
+1361876,4,Boeing,4,Boeing,0.9998504,True
+0704268,4,Boeing,4,Boeing,0.99531823,True
+0494478,4,Boeing,4,Boeing,0.99362826,True
+1398436,4,Boeing,4,Boeing,0.99840015,True
+0037512,4,Boeing,13,Embraer,0.35346538,False
+0698787,4,Boeing,4,Boeing,0.9958449,True
+0875303,4,Boeing,4,Boeing,0.96502745,True
+1831096,4,Boeing,4,Boeing,0.99831665,True
+1565290,4,Boeing,6,British Aerospace,0.7685903,False
+1297843,4,Boeing,4,Boeing,0.9998074,True
+0694480,4,Boeing,4,Boeing,0.54109967,True
+2054409,4,Boeing,4,Boeing,0.9957703,True
+1860176,4,Boeing,4,Boeing,0.9997769,True
+0075050,4,Boeing,4,Boeing,0.9936878,True
+1110805,4,Boeing,4,Boeing,0.9847889,True
+0702845,4,Boeing,4,Boeing,0.7433356,True
+1471735,4,Boeing,4,Boeing,0.9927858,True
+1395798,4,Boeing,4,Boeing,0.9848787,True
+0880593,4,Boeing,4,Boeing,0.8669991,True
+0062679,4,Boeing,4,Boeing,0.9873241,True
+0198440,4,Boeing,4,Boeing,0.6762687,True
+1258401,4,Boeing,4,Boeing,0.9254355,True
+0448049,4,Boeing,4,Boeing,0.9991873,True
+0357873,4,Boeing,4,Boeing,0.9781903,True
+1196360,4,Boeing,4,Boeing,0.9937982,True
+0218033,4,Boeing,4,Boeing,0.69407266,True
+0395652,4,Boeing,4,Boeing,0.9981756,True
+1320676,4,Boeing,4,Boeing,0.9914653,True
+1100234,4,Boeing,4,Boeing,0.86530024,True
+2067870,4,Boeing,4,Boeing,0.99623775,True
+0681541,4,Boeing,4,Boeing,0.9643192,True
+0133440,4,Boeing,4,Boeing,0.967421,True
+0218801,4,Boeing,4,Boeing,0.99222165,True
+1298958,4,Boeing,4,Boeing,0.999721,True
+0746112,4,Boeing,4,Boeing,0.9999579,True
+0953559,4,Boeing,4,Boeing,0.86120415,True
+0545210,4,Boeing,4,Boeing,0.9083927,True
+1043473,4,Boeing,4,Boeing,0.7850361,True
+0894189,4,Boeing,4,Boeing,0.9153496,True
+0447745,4,Boeing,4,Boeing,0.9946043,True
+1682001,4,Boeing,4,Boeing,0.9800587,True
+0522856,4,Boeing,4,Boeing,0.980995,True
+1456004,4,Boeing,4,Boeing,0.99884135,True
+0460770,4,Boeing,4,Boeing,0.99625045,True
+1115297,4,Boeing,4,Boeing,0.9997323,True
+0653804,4,Boeing,4,Boeing,0.9774344,True
+2221342,4,Boeing,4,Boeing,0.98127216,True
+1363673,4,Boeing,4,Boeing,0.9981299,True
+1352205,4,Boeing,4,Boeing,0.98964256,True
+0882609,4,Boeing,4,Boeing,0.9923354,True
+1446516,4,Boeing,4,Boeing,0.9911664,True
+1615914,4,Boeing,4,Boeing,0.9978849,True
+1958758,4,Boeing,4,Boeing,0.97023743,True
+1810855,4,Boeing,4,Boeing,0.9689192,True
+2126017,4,Boeing,13,Embraer,0.27272,False
+1891967,4,Boeing,4,Boeing,0.9951132,True
+0076843,4,Boeing,4,Boeing,0.9980567,True
+1119094,4,Boeing,4,Boeing,0.8933052,True
+1606542,4,Boeing,4,Boeing,0.99332124,True
+0923504,4,Boeing,4,Boeing,0.9983569,True
+1080160,4,Boeing,4,Boeing,0.99926454,True
+0979665,4,Boeing,4,Boeing,0.9998336,True
+1483195,4,Boeing,4,Boeing,0.9990754,True
+2217839,4,Boeing,4,Boeing,0.95193344,True
+0075752,4,Boeing,4,Boeing,0.9926434,True
+0807961,4,Boeing,4,Boeing,0.99521893,True
+0195013,4,Boeing,4,Boeing,0.8496799,True
+0682201,4,Boeing,4,Boeing,0.8736758,True
+1163484,4,Boeing,4,Boeing,0.9992884,True
+0063284,4,Boeing,4,Boeing,0.98489165,True
+1506226,4,Boeing,4,Boeing,0.9606851,True
+0973082,4,Boeing,4,Boeing,0.75570554,True
+0176136,4,Boeing,4,Boeing,0.9745634,True
+1163792,4,Boeing,4,Boeing,0.8422094,True
+0237107,4,Boeing,4,Boeing,0.5178412,True
+0523207,4,Boeing,4,Boeing,0.990476,True
+2007890,4,Boeing,4,Boeing,0.9376137,True
+0066410,4,Boeing,4,Boeing,0.99860173,True
+0558343,4,Boeing,4,Boeing,0.9945363,True
+0218042,4,Boeing,4,Boeing,0.32753885,True
+1382601,4,Boeing,4,Boeing,0.8204946,True
+0482804,4,Boeing,4,Boeing,0.927634,True
+1115400,4,Boeing,4,Boeing,0.9708693,True
+1696061,4,Boeing,4,Boeing,0.9965713,True
+1559372,4,Boeing,4,Boeing,0.97819066,True
+1879889,4,Boeing,4,Boeing,0.99070835,True
+1237623,4,Boeing,4,Boeing,0.9996119,True
+0851302,4,Boeing,4,Boeing,0.99709356,True
+0072369,4,Boeing,4,Boeing,0.8839425,True
+1783685,4,Boeing,4,Boeing,0.9963349,True
+1149871,4,Boeing,4,Boeing,0.99361753,True
+1110779,4,Boeing,4,Boeing,0.99942017,True
+1267074,4,Boeing,4,Boeing,0.9982718,True
+1224910,4,Boeing,4,Boeing,0.9992472,True
+0361471,4,Boeing,4,Boeing,0.9995914,True
+0944257,4,Boeing,4,Boeing,0.9842312,True
+1336460,4,Boeing,4,Boeing,0.999931,True
+1736209,4,Boeing,4,Boeing,0.77997184,True
+2002331,4,Boeing,4,Boeing,0.9994479,True
+0876440,4,Boeing,4,Boeing,0.95436186,True
+0522417,4,Boeing,4,Boeing,0.99523216,True
+0894188,4,Boeing,4,Boeing,0.9633884,True
+1599381,4,Boeing,4,Boeing,0.8672571,True
+0097111,4,Boeing,4,Boeing,0.99088717,True
+0974734,4,Boeing,4,Boeing,0.91023326,True
+1572350,4,Boeing,4,Boeing,0.9998785,True
+1548404,4,Boeing,4,Boeing,0.49798495,True
+1377012,4,Boeing,4,Boeing,0.9879126,True
+0175746,4,Boeing,4,Boeing,0.8562529,True
+1372809,4,Boeing,4,Boeing,0.9960867,True
+1358066,4,Boeing,4,Boeing,0.9822411,True
+1545325,4,Boeing,4,Boeing,0.99085677,True
+2031384,4,Boeing,4,Boeing,0.98730755,True
+1842045,4,Boeing,4,Boeing,0.99774796,True
+1577681,4,Boeing,4,Boeing,0.9994772,True
+1340279,4,Boeing,4,Boeing,0.97792655,True
+1163793,4,Boeing,4,Boeing,0.9971614,True
+0944247,4,Boeing,4,Boeing,0.9993093,True
+2132361,4,Boeing,4,Boeing,0.9266215,True
+1476642,4,Boeing,4,Boeing,0.9966018,True
+1376842,4,Boeing,4,Boeing,0.7857022,True
+1423426,4,Boeing,4,Boeing,0.8794969,True
+0890396,4,Boeing,1,Airbus,0.805192,False
+0259167,4,Boeing,1,Airbus,0.52331334,False
+1078482,4,Boeing,4,Boeing,0.668322,True
+1129244,4,Boeing,4,Boeing,0.99841857,True
+1268068,4,Boeing,4,Boeing,0.9913878,True
+2128746,4,Boeing,4,Boeing,0.99250644,True
+0755282,4,Boeing,4,Boeing,0.9757647,True
+1398987,4,Boeing,4,Boeing,0.99991965,True
+0675711,4,Boeing,1,Airbus,0.4910105,False
+0104601,4,Boeing,4,Boeing,0.9680784,True
+1650662,4,Boeing,4,Boeing,0.9982765,True
+1087920,4,Boeing,4,Boeing,0.9990983,True
+0669870,4,Boeing,4,Boeing,0.9541378,True
+1244625,4,Boeing,1,Airbus,0.568995,False
+2031421,4,Boeing,4,Boeing,0.759765,True
+0192625,4,Boeing,4,Boeing,0.9800412,True
+1418231,4,Boeing,4,Boeing,0.9276546,True
+1561990,4,Boeing,4,Boeing,0.93946165,True
+0097578,4,Boeing,4,Boeing,0.99996686,True
+0931601,4,Boeing,4,Boeing,0.9999497,True
+1237650,4,Boeing,4,Boeing,0.9994624,True
+1857204,4,Boeing,4,Boeing,0.99752027,True
+1361693,4,Boeing,4,Boeing,0.99336433,True
+0450740,4,Boeing,4,Boeing,0.9983413,True
+1429846,4,Boeing,4,Boeing,0.86085755,True
+2260617,4,Boeing,4,Boeing,0.25110883,True
+1842040,4,Boeing,4,Boeing,0.99893934,True
+0730798,4,Boeing,4,Boeing,0.8365084,True
+2263029,4,Boeing,4,Boeing,0.95134443,True
+1212753,4,Boeing,4,Boeing,0.9990376,True
+0635825,4,Boeing,4,Boeing,0.90785307,True
+1758619,4,Boeing,4,Boeing,0.9987797,True
+2094229,4,Boeing,4,Boeing,0.80262756,True
+1950707,4,Boeing,4,Boeing,0.98721784,True
+0681537,4,Boeing,4,Boeing,0.941323,True
+1927317,4,Boeing,4,Boeing,0.99824905,True
+0618966,4,Boeing,4,Boeing,0.8751921,True
+1454446,4,Boeing,4,Boeing,0.7536792,True
+0225227,4,Boeing,4,Boeing,0.958085,True
+2227525,4,Boeing,13,Embraer,0.5138412,False
+1876022,4,Boeing,4,Boeing,0.67915314,True
+1551279,4,Boeing,4,Boeing,0.9938839,True
+1709124,4,Boeing,4,Boeing,0.9951755,True
+1143441,4,Boeing,4,Boeing,0.9224652,True
+2223909,4,Boeing,4,Boeing,0.9423006,True
+1192642,4,Boeing,4,Boeing,0.6063378,True
+1139751,4,Boeing,4,Boeing,0.69248295,True
+0336540,4,Boeing,4,Boeing,0.97745174,True
+1238449,4,Boeing,1,Airbus,0.7771158,False
+1393634,4,Boeing,4,Boeing,0.9912117,True
+1790921,4,Boeing,4,Boeing,0.9726461,True
+2054442,4,Boeing,4,Boeing,0.9932428,True
+0522857,4,Boeing,4,Boeing,0.93428266,True
+0673596,4,Boeing,4,Boeing,0.98359674,True
+1736223,4,Boeing,4,Boeing,0.9936021,True
+1548400,4,Boeing,4,Boeing,0.7210585,True
+0308863,4,Boeing,4,Boeing,0.9931375,True
+2038532,4,Boeing,4,Boeing,0.98086846,True
+2106086,4,Boeing,4,Boeing,0.87894636,True
+1510253,4,Boeing,1,Airbus,0.82657933,False
+0770474,4,Boeing,4,Boeing,0.92228144,True
+1550106,4,Boeing,4,Boeing,0.97986364,True
+2250798,4,Boeing,13,Embraer,0.55305004,False
+1852007,4,Boeing,4,Boeing,0.9640158,True
+1884738,4,Boeing,4,Boeing,0.9101513,True
+1946040,4,Boeing,4,Boeing,0.4873065,True
+2236183,4,Boeing,4,Boeing,0.99786574,True
+1261350,4,Boeing,4,Boeing,0.96131426,True
+1085719,4,Boeing,4,Boeing,0.93613654,True
+0257552,4,Boeing,4,Boeing,0.73892564,True
+1142906,4,Boeing,4,Boeing,0.97145194,True
+1318450,4,Boeing,4,Boeing,0.5676168,True
+2229397,4,Boeing,4,Boeing,0.9989994,True
+0391437,4,Boeing,4,Boeing,0.9993345,True
+0325574,4,Boeing,4,Boeing,0.97682583,True
+0147057,4,Boeing,4,Boeing,0.8432794,True
+1931271,4,Boeing,4,Boeing,0.97462815,True
+1899099,4,Boeing,4,Boeing,0.97320276,True
+1935750,4,Boeing,4,Boeing,0.96443385,True
+0457841,4,Boeing,4,Boeing,0.89240175,True
+1337849,4,Boeing,13,Embraer,0.64156055,False
+2195493,4,Boeing,4,Boeing,0.8540337,True
+2147231,4,Boeing,4,Boeing,0.9265133,True
+1616720,4,Boeing,4,Boeing,0.9980027,True
+2067982,4,Boeing,4,Boeing,0.99727005,True
+1459210,4,Boeing,4,Boeing,0.8532277,True
+1403158,4,Boeing,4,Boeing,0.9645456,True
+0074246,4,Boeing,4,Boeing,0.999228,True
+1355815,4,Boeing,4,Boeing,0.5348946,True
+1146021,4,Boeing,4,Boeing,0.9151509,True
+1538844,4,Boeing,4,Boeing,0.84018874,True
+2236964,4,Boeing,4,Boeing,0.9994155,True
+1421021,4,Boeing,13,Embraer,0.37200272,False
+0973167,4,Boeing,4,Boeing,0.99839455,True
+2198761,4,Boeing,4,Boeing,0.9687621,True
+2207626,4,Boeing,4,Boeing,0.9417045,True
+1881962,4,Boeing,4,Boeing,0.96052855,True
+1535044,4,Boeing,4,Boeing,0.93812555,True
+1016570,4,Boeing,1,Airbus,0.78906566,False
+0857549,4,Boeing,4,Boeing,0.9966922,True
+1398526,4,Boeing,4,Boeing,0.9914473,True
+1668558,4,Boeing,4,Boeing,0.9930368,True
+1291783,4,Boeing,4,Boeing,0.9978403,True
+0987802,4,Boeing,4,Boeing,0.9876276,True
+0305545,4,Boeing,4,Boeing,0.9909881,True
+1879110,4,Boeing,4,Boeing,0.9925364,True
+0218852,4,Boeing,4,Boeing,0.9296928,True
+0582863,4,Boeing,4,Boeing,0.94519824,True
+1356890,4,Boeing,4,Boeing,0.96218324,True
+1771959,4,Boeing,4,Boeing,0.25063407,True
+1768538,4,Boeing,4,Boeing,0.99545586,True
+0701628,4,Boeing,4,Boeing,0.99987423,True
+2191957,4,Boeing,4,Boeing,0.84891236,True
+0522819,4,Boeing,4,Boeing,0.9916768,True
+1251519,4,Boeing,4,Boeing,0.9762157,True
+1577934,4,Boeing,4,Boeing,0.7556709,True
+1419049,4,Boeing,4,Boeing,0.93971676,True
+0174054,4,Boeing,4,Boeing,0.90193975,True
+0514744,4,Boeing,4,Boeing,0.9994935,True
+1354835,4,Boeing,21,McDonnell Douglas,0.4947982,False
+2238661,4,Boeing,4,Boeing,0.87004423,True
+1795553,4,Boeing,4,Boeing,0.99956626,True
+0275806,4,Boeing,4,Boeing,0.98055905,True
+1529574,4,Boeing,1,Airbus,0.5046464,False
+0496901,4,Boeing,4,Boeing,0.9973302,True
+1133684,4,Boeing,4,Boeing,0.9986041,True
+1662032,4,Boeing,4,Boeing,0.8917184,True
+0467798,4,Boeing,4,Boeing,0.9869184,True
+1365786,4,Boeing,1,Airbus,0.9374905,False
+2145082,4,Boeing,4,Boeing,0.9584479,True
+2218546,4,Boeing,4,Boeing,0.99183214,True
+2133249,4,Boeing,4,Boeing,0.99546367,True
+2230427,4,Boeing,4,Boeing,0.98123187,True
+2217964,4,Boeing,4,Boeing,0.2966525,True
+1821602,4,Boeing,4,Boeing,0.8471664,True
+0136486,4,Boeing,1,Airbus,0.9010088,False
+0338531,4,Boeing,4,Boeing,0.78740704,True
+1626629,4,Boeing,1,Airbus,0.85610646,False
+1415611,4,Boeing,19,Lockheed Corporation,0.6479831,False
+1013534,4,Boeing,4,Boeing,0.8960256,True
+0851311,4,Boeing,4,Boeing,0.9573336,True
+1041645,4,Boeing,19,Lockheed Corporation,0.62617046,False
+0814397,4,Boeing,4,Boeing,0.9659462,True
+1292533,4,Boeing,4,Boeing,0.85106033,True
+1009765,4,Boeing,1,Airbus,0.37906224,False
+0705084,4,Boeing,4,Boeing,0.95584744,True
+0062223,4,Boeing,4,Boeing,0.97167385,True
+1427673,4,Boeing,4,Boeing,0.9396942,True
+0127505,4,Boeing,4,Boeing,0.4939079,True
+0149352,4,Boeing,12,Douglas Aircraft Company,0.8728561,False
+0188405,4,Boeing,4,Boeing,0.57398003,True
+2162684,4,Boeing,4,Boeing,0.80308473,True
+0540389,4,Boeing,1,Airbus,0.5521108,False
+0485231,4,Boeing,4,Boeing,0.75545,True
+0980549,4,Boeing,4,Boeing,0.9750522,True
+0641196,4,Boeing,19,Lockheed Corporation,0.34036082,False
+0901513,4,Boeing,4,Boeing,0.9834077,True
+0677586,4,Boeing,4,Boeing,0.95862377,True
+0155579,4,Boeing,21,McDonnell Douglas,0.58216465,False
+0396525,4,Boeing,1,Airbus,0.6299266,False
+0598112,4,Boeing,12,Douglas Aircraft Company,0.43221915,False
+0783900,4,Boeing,4,Boeing,0.85186833,True
+1231746,4,Boeing,4,Boeing,0.5054804,True
+2167150,4,Boeing,4,Boeing,0.6551109,True
+0104828,4,Boeing,4,Boeing,0.99691856,True
+0733462,4,Boeing,4,Boeing,0.9235419,True
+0618964,4,Boeing,4,Boeing,0.99626005,True
+2226313,4,Boeing,23,Piper,0.3082773,False
+1237674,4,Boeing,4,Boeing,0.7364252,True
+1707900,4,Boeing,4,Boeing,0.92405343,True
+1320257,4,Boeing,4,Boeing,0.59889036,True
+0687392,4,Boeing,21,McDonnell Douglas,0.77973604,False
+0869743,4,Boeing,4,Boeing,0.73882335,True
+1645747,4,Boeing,4,Boeing,0.94244516,True
+1340195,4,Boeing,4,Boeing,0.50395584,True
+1292378,4,Boeing,4,Boeing,0.97080123,True
+0836147,4,Boeing,4,Boeing,0.9154319,True
+0812094,4,Boeing,4,Boeing,0.99262977,True
+0540023,4,Boeing,4,Boeing,0.9604122,True
+0115565,4,Boeing,1,Airbus,0.72613823,False
+0636590,4,Boeing,21,McDonnell Douglas,0.7274833,False
+0989831,4,Boeing,4,Boeing,0.99689144,True
+1739526,4,Boeing,4,Boeing,0.803778,True
+1402021,4,Boeing,4,Boeing,0.9998274,True
+1627935,4,Boeing,1,Airbus,0.4494909,False
+0064890,4,Boeing,1,Airbus,0.71782094,False
+1513616,4,Boeing,1,Airbus,0.96460354,False
+0702839,4,Boeing,4,Boeing,0.9636971,True
+1519194,4,Boeing,4,Boeing,0.9990814,True
+1624193,4,Boeing,4,Boeing,0.54640204,True
+1116410,4,Boeing,4,Boeing,0.5461455,True
+0964344,4,Boeing,4,Boeing,0.94802237,True
+0396535,4,Boeing,1,Airbus,0.69215745,False
+1351594,4,Boeing,4,Boeing,0.98610896,True
+0885277,4,Boeing,4,Boeing,0.9167752,True
+0065286,4,Boeing,1,Airbus,0.64931816,False
+1896036,4,Boeing,1,Airbus,0.6202012,False
+0725997,4,Boeing,4,Boeing,0.97548735,True
+0482823,4,Boeing,4,Boeing,0.58893996,True
+0939547,4,Boeing,4,Boeing,0.8611334,True
+0143388,4,Boeing,1,Airbus,0.563178,False
+0183641,4,Boeing,4,Boeing,0.6126818,True
+0487369,4,Boeing,4,Boeing,0.90508574,True
+1161004,4,Boeing,4,Boeing,0.99484926,True
+0894166,4,Boeing,4,Boeing,0.96911913,True
+1137626,4,Boeing,4,Boeing,0.99961936,True
+1409250,4,Boeing,4,Boeing,0.75716466,True
+0727357,4,Boeing,4,Boeing,0.99960047,True
+0426810,4,Boeing,4,Boeing,0.5526816,True
+0946798,4,Boeing,4,Boeing,0.9360447,True
+0693511,4,Boeing,4,Boeing,0.9578944,True
+1469918,4,Boeing,4,Boeing,0.9805038,True
+0751008,4,Boeing,4,Boeing,0.75395197,True
+1329664,4,Boeing,4,Boeing,0.9992361,True
+0880576,4,Boeing,4,Boeing,0.9937662,True
+1663953,4,Boeing,4,Boeing,0.9976661,True
+0181737,4,Boeing,4,Boeing,0.8920056,True
+0894385,4,Boeing,4,Boeing,0.800655,True
+0063295,4,Boeing,4,Boeing,0.894495,True
+0959346,4,Boeing,4,Boeing,0.982357,True
+1106454,4,Boeing,4,Boeing,0.84626955,True
+0066420,4,Boeing,4,Boeing,0.6775008,True
+1145204,4,Boeing,4,Boeing,0.8199233,True
+1305520,4,Boeing,4,Boeing,0.99975556,True
+0064924,4,Boeing,4,Boeing,0.86565936,True
+1864991,4,Boeing,4,Boeing,0.9788284,True
+0948344,4,Boeing,4,Boeing,0.9911131,True
+1149068,4,Boeing,4,Boeing,0.51712584,True
+1619901,4,Boeing,4,Boeing,0.83163697,True
+1124247,4,Boeing,4,Boeing,0.99378043,True
+1647303,4,Boeing,4,Boeing,0.9971004,True
+1836113,4,Boeing,1,Airbus,0.99736315,False
+0181726,4,Boeing,4,Boeing,0.92101353,True
+1922915,4,Boeing,4,Boeing,0.97656643,True
+1572354,4,Boeing,4,Boeing,0.55768794,True
+1375148,4,Boeing,4,Boeing,0.75215226,True
+1244348,4,Boeing,1,Airbus,0.7861845,False
+2233262,4,Boeing,4,Boeing,0.9971527,True
+0946093,4,Boeing,4,Boeing,0.92113197,True
+1527503,4,Boeing,4,Boeing,0.9848529,True
+0062769,4,Boeing,4,Boeing,0.9174103,True
+0929568,4,Boeing,19,Lockheed Corporation,0.5704748,False
+0458628,4,Boeing,4,Boeing,0.9906116,True
+1860132,4,Boeing,4,Boeing,0.9447094,True
+1663372,4,Boeing,4,Boeing,0.9287519,True
+1336043,4,Boeing,1,Airbus,0.5193784,False
+0688083,4,Boeing,4,Boeing,0.9676483,True
+0989281,4,Boeing,4,Boeing,0.49518275,True
+0062672,4,Boeing,4,Boeing,0.9768528,True
+2102584,4,Boeing,4,Boeing,0.8310575,True
+1564952,4,Boeing,4,Boeing,0.9674297,True
+0894240,4,Boeing,4,Boeing,0.9998907,True
+1796764,4,Boeing,1,Airbus,0.93810636,False
+2230119,4,Boeing,4,Boeing,0.7819252,True
+1450008,4,Boeing,4,Boeing,0.9671103,True
+1650652,4,Boeing,4,Boeing,0.53558874,True
+1818227,4,Boeing,4,Boeing,0.3816507,True
+2094829,4,Boeing,4,Boeing,0.8144079,True
+1505652,4,Boeing,4,Boeing,0.79253644,True
+2119978,4,Boeing,4,Boeing,0.8531574,True
+1237717,4,Boeing,4,Boeing,0.99889565,True
+0967862,4,Boeing,4,Boeing,0.9988066,True
+0175817,4,Boeing,4,Boeing,0.6748868,True
+1623096,4,Boeing,4,Boeing,0.94969815,True
+1313993,4,Boeing,1,Airbus,0.9949478,False
+0973263,4,Boeing,4,Boeing,0.99799514,True
+1160955,4,Boeing,4,Boeing,0.82522786,True
+0678976,4,Boeing,1,Airbus,0.97789896,False
+1124487,4,Boeing,1,Airbus,0.75002164,False
+0973098,4,Boeing,4,Boeing,0.8596224,True
+1704745,4,Boeing,1,Airbus,0.610436,False
+1298901,4,Boeing,4,Boeing,0.88332397,True
+2263603,4,Boeing,4,Boeing,0.8198154,True
+1237861,4,Boeing,4,Boeing,0.8129222,True
+0740882,4,Boeing,4,Boeing,0.9966839,True
+0488869,4,Boeing,4,Boeing,0.8953057,True
+1000413,4,Boeing,4,Boeing,0.9720972,True
+0174942,4,Boeing,1,Airbus,0.6348501,False
+0166974,4,Boeing,12,Douglas Aircraft Company,0.46066955,False
+1017810,4,Boeing,1,Airbus,0.7693821,False
+0075760,4,Boeing,4,Boeing,0.5407557,True
+0376937,4,Boeing,21,McDonnell Douglas,0.54547584,False
+1447274,4,Boeing,4,Boeing,0.91076595,True
+1673067,4,Boeing,26,Supermarine,0.40846077,False
+0056323,4,Boeing,4,Boeing,0.830475,True
+1380492,4,Boeing,4,Boeing,0.5765141,True
+1123364,4,Boeing,4,Boeing,0.4443293,True
+0749479,4,Boeing,4,Boeing,0.8710138,True
+0990829,4,Boeing,1,Airbus,0.9387856,False
+0296937,4,Boeing,4,Boeing,0.97631776,True
+1366112,4,Boeing,4,Boeing,0.99819463,True
+2119983,4,Boeing,21,McDonnell Douglas,0.66989535,False
+1815692,4,Boeing,4,Boeing,0.9610986,True
+0325676,4,Boeing,16,Fokker,0.3035386,False
+1365500,4,Boeing,4,Boeing,0.79048395,True
+1200651,4,Boeing,4,Boeing,0.9572815,True
+1173016,4,Boeing,4,Boeing,0.9559555,True
+1623903,4,Boeing,4,Boeing,0.9527613,True
+2031403,4,Boeing,4,Boeing,0.7183975,True
+0134598,4,Boeing,4,Boeing,0.9541153,True
+1550890,4,Boeing,4,Boeing,0.8698965,True
+2137126,4,Boeing,4,Boeing,0.7370008,True
+1338255,4,Boeing,4,Boeing,0.99185854,True
+0957893,4,Boeing,4,Boeing,0.9985683,True
+2199948,4,Boeing,4,Boeing,0.97338253,True
+0709566,4,Boeing,4,Boeing,0.852108,True
+0914475,4,Boeing,21,McDonnell Douglas,0.6716109,False
+1375987,4,Boeing,4,Boeing,0.97120833,True
+1471690,4,Boeing,4,Boeing,0.9945353,True
+2140530,4,Boeing,4,Boeing,0.89414763,True
+1630526,4,Boeing,4,Boeing,0.9871564,True
+1938051,4,Boeing,1,Airbus,0.54192597,False
+1519381,4,Boeing,4,Boeing,0.9936056,True
+1152153,4,Boeing,1,Airbus,0.54587555,False
+1568750,4,Boeing,21,McDonnell Douglas,0.7833088,False
+0594827,4,Boeing,4,Boeing,0.9862986,True
+1463774,4,Boeing,1,Airbus,0.71351117,False
+0469653,4,Boeing,4,Boeing,0.8643056,True
+0950442,4,Boeing,4,Boeing,0.9971976,True
+2127992,4,Boeing,4,Boeing,0.6270449,True
+1416312,4,Boeing,4,Boeing,0.9728708,True
+0158891,4,Boeing,4,Boeing,0.9577318,True
+0522873,4,Boeing,4,Boeing,0.9838419,True
+0257029,4,Boeing,4,Boeing,0.9891958,True
+1892614,4,Boeing,4,Boeing,0.8738529,True
+0386937,4,Boeing,1,Airbus,0.54860485,False
+0130597,4,Boeing,21,McDonnell Douglas,0.7645308,False
+2002363,4,Boeing,4,Boeing,0.9960711,True
+0708642,4,Boeing,4,Boeing,0.9166684,True
+0477671,4,Boeing,4,Boeing,0.86712265,True
+1774577,4,Boeing,4,Boeing,0.6115818,True
+0205784,4,Boeing,4,Boeing,0.9480382,True
+1245209,4,Boeing,4,Boeing,0.9685642,True
+0744907,4,Boeing,4,Boeing,0.9969643,True
+2026733,4,Boeing,4,Boeing,0.9988643,True
+1935709,4,Boeing,4,Boeing,0.88279706,True
+0487319,4,Boeing,4,Boeing,0.99590635,True
+1798594,4,Boeing,4,Boeing,0.67365336,True
+0147029,4,Boeing,4,Boeing,0.8303314,True
+0658065,4,Boeing,4,Boeing,0.88343316,True
+0237109,4,Boeing,13,Embraer,0.9709326,False
+0907375,4,Boeing,4,Boeing,0.97715014,True
+0955450,4,Boeing,4,Boeing,0.9195066,True
+0115066,4,Boeing,1,Airbus,0.9731049,False
+0457808,4,Boeing,4,Boeing,0.8306139,True
+1736099,4,Boeing,4,Boeing,0.99261415,True
+0311183,4,Boeing,4,Boeing,0.9791175,True
+1375367,4,Boeing,4,Boeing,0.8250683,True
+0529781,4,Boeing,4,Boeing,0.9805355,True
+0063055,4,Boeing,1,Airbus,0.82803786,False
+0730739,4,Boeing,4,Boeing,0.98939717,True
+1355824,4,Boeing,4,Boeing,0.9409951,True
+0476348,4,Boeing,13,Embraer,0.4004189,False
+1292174,4,Boeing,4,Boeing,0.95507544,True
+1355224,4,Boeing,4,Boeing,0.88995826,True
+1318171,4,Boeing,4,Boeing,0.8181789,True
+1564408,4,Boeing,4,Boeing,0.6014222,True
+0187247,4,Boeing,4,Boeing,0.8982245,True
+1230274,4,Boeing,4,Boeing,0.99286544,True
+1381995,4,Boeing,4,Boeing,0.50447255,True
+0894313,4,Boeing,4,Boeing,0.6799166,True
+1564822,4,Boeing,4,Boeing,0.9878028,True
+0907407,4,Boeing,4,Boeing,0.99895775,True
+0490174,4,Boeing,4,Boeing,0.9392132,True
+2221715,4,Boeing,1,Airbus,0.94344074,False
+0204622,4,Boeing,4,Boeing,0.9426382,True
+0492495,4,Boeing,1,Airbus,0.6950028,False
+0127496,4,Boeing,4,Boeing,0.6560539,True
+1876024,4,Boeing,4,Boeing,0.51803297,True
+0901358,4,Boeing,4,Boeing,0.9997551,True
+0939563,4,Boeing,4,Boeing,0.9899449,True
+0570746,4,Boeing,4,Boeing,0.9999614,True
+1191062,4,Boeing,4,Boeing,0.99092126,True
+1112644,4,Boeing,4,Boeing,0.9965173,True
+1313184,4,Boeing,4,Boeing,0.9718478,True
+1662018,4,Boeing,4,Boeing,0.8963749,True
+1561406,4,Boeing,4,Boeing,0.66980696,True
+2066993,4,Boeing,4,Boeing,0.96681976,True
+1530082,4,Boeing,4,Boeing,0.91314656,True
+1856979,4,Boeing,4,Boeing,0.93413466,True
+1665263,4,Boeing,4,Boeing,0.54395074,True
+1876023,4,Boeing,13,Embraer,0.6880115,False
+0783932,4,Boeing,4,Boeing,0.99804366,True
+0985425,4,Boeing,4,Boeing,0.9966252,True
+0558232,4,Boeing,1,Airbus,0.67985684,False
+1634276,4,Boeing,4,Boeing,0.96834165,True
+0367941,4,Boeing,1,Airbus,0.57679313,False
+1992339,4,Boeing,4,Boeing,0.85325617,True
+1366758,4,Boeing,4,Boeing,0.9665513,True
+2101703,4,Boeing,4,Boeing,0.9049283,True
+0256997,4,Boeing,4,Boeing,0.9194982,True
+0066423,4,Boeing,4,Boeing,0.8867981,True
+1146228,4,Boeing,4,Boeing,0.89538187,True
+0851325,4,Boeing,4,Boeing,0.99831367,True
+1474094,4,Boeing,4,Boeing,0.98884493,True
+0863693,4,Boeing,1,Airbus,0.91632897,False
+1364162,4,Boeing,4,Boeing,0.97255534,True
+1053316,4,Boeing,4,Boeing,0.8082856,True
+1298911,4,Boeing,4,Boeing,0.99849296,True
+1636534,4,Boeing,1,Airbus,0.83760864,False
+0985290,4,Boeing,4,Boeing,0.78537166,True
+2243382,4,Boeing,4,Boeing,0.963411,True
+0127032,4,Boeing,4,Boeing,0.98581344,True
+0176131,4,Boeing,4,Boeing,0.9573806,True
+1506812,4,Boeing,4,Boeing,0.9786281,True
+2026511,4,Boeing,4,Boeing,0.9250436,True
+0467448,4,Boeing,4,Boeing,0.9991647,True
+2024757,4,Boeing,4,Boeing,0.9769083,True
+2131508,4,Boeing,4,Boeing,0.97041816,True
+2171175,4,Boeing,4,Boeing,0.999305,True
+1232270,4,Boeing,4,Boeing,0.9945293,True
+1363578,4,Boeing,4,Boeing,0.98462427,True
+1349689,4,Boeing,4,Boeing,0.99075294,True
+1906071,4,Boeing,4,Boeing,0.99858993,True
+2082475,4,Boeing,4,Boeing,0.99531305,True
+1635235,4,Boeing,1,Airbus,0.30392024,False
+0255294,4,Boeing,4,Boeing,0.22422649,True
+1861593,4,Boeing,4,Boeing,0.9996226,True
+1539768,4,Boeing,4,Boeing,0.93548214,True
+1520426,4,Boeing,4,Boeing,0.5632062,True
+1127995,4,Boeing,4,Boeing,0.99719965,True
+0225221,4,Boeing,4,Boeing,0.9674041,True
+1271552,4,Boeing,4,Boeing,0.9993461,True
+0981955,4,Boeing,4,Boeing,0.99847394,True
+0087248,4,Boeing,4,Boeing,0.9953133,True
+0940358,4,Boeing,4,Boeing,0.92820376,True
+2259027,4,Boeing,4,Boeing,0.98892885,True
+2021838,4,Boeing,4,Boeing,0.9894705,True
+0905077,4,Boeing,4,Boeing,0.9339403,True
+0867007,4,Boeing,4,Boeing,0.71684074,True
+2054456,4,Boeing,4,Boeing,0.97562045,True
+2209439,4,Boeing,4,Boeing,0.99679667,True
+0097107,4,Boeing,4,Boeing,0.8759249,True
+1921655,4,Boeing,4,Boeing,0.9365495,True
+0174925,4,Boeing,12,Douglas Aircraft Company,0.95080316,False
+2080693,4,Boeing,4,Boeing,0.99611276,True
+2215391,4,Boeing,4,Boeing,0.9982174,True
+1587526,4,Boeing,4,Boeing,0.82133484,True
+0894406,4,Boeing,4,Boeing,0.93023807,True
+0305715,4,Boeing,1,Airbus,0.98102325,False
+0543862,4,Boeing,1,Airbus,0.5855456,False
+1258139,4,Boeing,1,Airbus,0.7357034,False
+1088532,4,Boeing,4,Boeing,0.4958521,True
+1458705,4,Boeing,4,Boeing,0.8872833,True
+1145215,4,Boeing,4,Boeing,0.96016467,True
+1325459,4,Boeing,1,Airbus,0.6272156,False
+1700645,4,Boeing,4,Boeing,0.97872955,True
+1930685,4,Boeing,4,Boeing,0.9979005,True
+0894021,4,Boeing,4,Boeing,0.76489216,True
+0275909,4,Boeing,1,Airbus,0.929188,False
+1448175,4,Boeing,4,Boeing,0.9006871,True
+2221641,4,Boeing,1,Airbus,0.6263145,False
+0890198,4,Boeing,4,Boeing,0.992269,True
+1472187,4,Boeing,4,Boeing,0.9453785,True
+1692543,4,Boeing,4,Boeing,0.9905708,True
+1842168,4,Boeing,4,Boeing,0.9946167,True
+0136489,4,Boeing,4,Boeing,0.8031704,True
+1615623,4,Boeing,4,Boeing,0.9483535,True
+0846180,4,Boeing,4,Boeing,0.99292725,True
+0445392,4,Boeing,4,Boeing,0.9961265,True
+1530788,4,Boeing,19,Lockheed Corporation,0.19603857,False
+0361566,4,Boeing,4,Boeing,0.92504424,True
+1534012,4,Boeing,4,Boeing,0.93721473,True
+0941858,4,Boeing,1,Airbus,0.9978739,False
+1956397,4,Boeing,4,Boeing,0.8211221,True
+1376815,4,Boeing,4,Boeing,0.9831467,True
+2060563,4,Boeing,4,Boeing,0.6928138,True
+0637452,4,Boeing,1,Airbus,0.833603,False
+1823530,4,Boeing,4,Boeing,0.9795719,True
+0885092,4,Boeing,4,Boeing,0.81550825,True
+2083822,4,Boeing,4,Boeing,0.9863213,True
+2226247,4,Boeing,4,Boeing,0.87315035,True
+1860127,4,Boeing,4,Boeing,0.83775103,True
+1551732,4,Boeing,1,Airbus,0.73811054,False
+2094475,4,Boeing,4,Boeing,0.9887671,True
+1398649,4,Boeing,4,Boeing,0.91708624,True
+2251121,4,Boeing,4,Boeing,0.57196456,True
+1418226,4,Boeing,4,Boeing,0.7179634,True
+1379395,4,Boeing,4,Boeing,0.9975562,True
+1179713,4,Boeing,1,Airbus,0.494602,False
+2243952,4,Boeing,1,Airbus,0.6094459,False
+1997314,4,Boeing,4,Boeing,0.9656835,True
+1718901,4,Boeing,4,Boeing,0.9451399,True
+1818832,4,Boeing,4,Boeing,0.99138874,True
+1728005,4,Boeing,4,Boeing,0.8368223,True
+1870557,4,Boeing,1,Airbus,0.79491925,False
+1105732,4,Boeing,4,Boeing,0.8537937,True
+0846636,4,Boeing,4,Boeing,0.8334485,True
+1914684,4,Boeing,4,Boeing,0.87245965,True
+1700930,4,Boeing,4,Boeing,0.94587916,True
+2035598,4,Boeing,4,Boeing,0.98686546,True
+1630525,4,Boeing,4,Boeing,0.99044305,True
+1984373,4,Boeing,1,Airbus,0.7415883,False
+1230443,4,Boeing,4,Boeing,0.97281975,True
+1603124,4,Boeing,4,Boeing,0.90725917,True
+2225263,4,Boeing,4,Boeing,0.9815547,True
+2026614,4,Boeing,4,Boeing,0.9688393,True
+1919891,4,Boeing,4,Boeing,0.932701,True
+1760948,4,Boeing,4,Boeing,0.95680946,True
+2234645,4,Boeing,4,Boeing,0.86360836,True
+1161624,1,Airbus,1,Airbus,0.99982965,True
+0454802,1,Airbus,1,Airbus,0.8288406,True
+0063105,1,Airbus,1,Airbus,0.99473876,True
+1135502,1,Airbus,1,Airbus,0.51162785,True
+0680027,1,Airbus,1,Airbus,0.50380474,True
+1879887,1,Airbus,1,Airbus,0.8432421,True
+0675845,1,Airbus,1,Airbus,0.9619178,True
+0434370,1,Airbus,4,Boeing,0.91982037,False
+0104832,1,Airbus,1,Airbus,0.70020723,True
+0203220,1,Airbus,1,Airbus,0.9974452,True
+1511271,1,Airbus,1,Airbus,0.995235,True
+1447577,1,Airbus,1,Airbus,0.6316136,True
+0901367,1,Airbus,1,Airbus,0.99296474,True
+0923710,1,Airbus,1,Airbus,0.6684385,True
+0064072,1,Airbus,1,Airbus,0.9748957,True
+0931107,1,Airbus,1,Airbus,0.96102196,True
+0763193,1,Airbus,1,Airbus,0.98427504,True
+0091354,1,Airbus,4,Boeing,0.98683804,False
+1608203,1,Airbus,1,Airbus,0.99678576,True
+0924311,1,Airbus,4,Boeing,0.6822696,False
+1031476,1,Airbus,1,Airbus,0.8637197,True
+0894382,1,Airbus,1,Airbus,0.9973706,True
+0066532,1,Airbus,1,Airbus,0.61782926,True
+0065780,1,Airbus,1,Airbus,0.99598074,True
+0995410,1,Airbus,1,Airbus,0.97848856,True
+1429799,1,Airbus,1,Airbus,0.9782707,True
+2175626,1,Airbus,1,Airbus,0.56716794,True
+0487371,1,Airbus,1,Airbus,0.8385917,True
+0171397,1,Airbus,4,Boeing,0.69310206,False
+1230196,1,Airbus,1,Airbus,0.6865997,True
+1517855,1,Airbus,4,Boeing,0.8802197,False
+0063096,1,Airbus,4,Boeing,0.7392415,False
+0187226,1,Airbus,1,Airbus,0.60866416,True
+2259299,1,Airbus,1,Airbus,0.64993507,True
+0368357,1,Airbus,1,Airbus,0.7220798,True
+1277988,1,Airbus,4,Boeing,0.9352181,False
+1797113,1,Airbus,4,Boeing,0.91015685,False
+1154647,1,Airbus,12,Douglas Aircraft Company,0.5865256,False
+0383679,1,Airbus,4,Boeing,0.97948956,False
+0947462,1,Airbus,1,Airbus,0.97824085,True
+0894387,1,Airbus,4,Boeing,0.9269858,False
+0869735,1,Airbus,4,Boeing,0.62019694,False
+0062719,1,Airbus,1,Airbus,0.997889,True
+0467411,1,Airbus,1,Airbus,0.8679857,True
+1695905,1,Airbus,4,Boeing,0.4065757,False
+0115062,1,Airbus,1,Airbus,0.9556145,True
+0699302,1,Airbus,1,Airbus,0.93885493,True
+0136480,1,Airbus,1,Airbus,0.6893491,True
+0174858,1,Airbus,4,Boeing,0.51694983,False
+1149969,1,Airbus,1,Airbus,0.7247792,True
+0894203,1,Airbus,1,Airbus,0.9937691,True
+0454743,1,Airbus,1,Airbus,0.9676715,True
+0926148,1,Airbus,4,Boeing,0.79929763,False
+1223291,1,Airbus,1,Airbus,0.9547989,True
+0934703,1,Airbus,1,Airbus,0.6052239,True
+1539455,1,Airbus,1,Airbus,0.9926993,True
+0123340,1,Airbus,4,Boeing,0.9812577,False
+0525862,1,Airbus,1,Airbus,0.99176663,True
+0201677,1,Airbus,1,Airbus,0.8745473,True
+0104855,1,Airbus,1,Airbus,0.9597261,True
+0668306,1,Airbus,4,Boeing,0.89092267,False
+1200647,1,Airbus,1,Airbus,0.849531,True
+0367786,1,Airbus,1,Airbus,0.9927341,True
+0978286,1,Airbus,1,Airbus,0.92635983,True
+1195650,1,Airbus,1,Airbus,0.99072766,True
+0903308,1,Airbus,4,Boeing,0.63931066,False
+2168374,1,Airbus,1,Airbus,0.99959105,True
+1113895,1,Airbus,4,Boeing,0.8542051,False
+1535566,1,Airbus,4,Boeing,0.6355125,False
+1910729,1,Airbus,1,Airbus,0.9857912,True
+1663628,1,Airbus,1,Airbus,0.6348923,True
+2239589,1,Airbus,1,Airbus,0.9898868,True
+1707575,1,Airbus,1,Airbus,0.93187135,True
+1552592,1,Airbus,4,Boeing,0.94399756,False
+1882508,1,Airbus,1,Airbus,0.7895615,True
+1393354,1,Airbus,1,Airbus,0.99798656,True
+1927186,1,Airbus,1,Airbus,0.9320142,True
+1813838,1,Airbus,1,Airbus,0.9941783,True
+0864663,1,Airbus,1,Airbus,0.9411531,True
+2164953,1,Airbus,1,Airbus,0.9984968,True
+2173639,1,Airbus,1,Airbus,0.8251257,True
+1335573,1,Airbus,13,Embraer,0.67429715,False
+1222822,1,Airbus,1,Airbus,0.6967338,True
+1055199,1,Airbus,4,Boeing,0.61962783,False
+2033184,1,Airbus,1,Airbus,0.78707385,True
+1723838,1,Airbus,1,Airbus,0.9985656,True
+1093247,1,Airbus,4,Boeing,0.3908223,False
+1185069,1,Airbus,1,Airbus,0.94705075,True
+0527682,1,Airbus,1,Airbus,0.61264145,True
+1069925,1,Airbus,1,Airbus,0.5827336,True
+0695327,1,Airbus,1,Airbus,0.9811569,True
+1252026,1,Airbus,1,Airbus,0.9920224,True
+1537100,1,Airbus,1,Airbus,0.8218671,True
+1055149,1,Airbus,1,Airbus,0.55506086,True
+0923888,1,Airbus,13,Embraer,0.5477648,False
+1242658,1,Airbus,13,Embraer,0.6396811,False
+1570498,1,Airbus,4,Boeing,0.8755585,False
+1807932,1,Airbus,1,Airbus,0.9417229,True
+0939541,1,Airbus,1,Airbus,0.997022,True
+1810937,1,Airbus,1,Airbus,0.99960583,True
+1092270,1,Airbus,1,Airbus,0.99993503,True
+1871273,1,Airbus,4,Boeing,0.6066148,False
+1714240,1,Airbus,1,Airbus,0.5436912,True
+0198104,1,Airbus,4,Boeing,0.75617653,False
+1966096,1,Airbus,1,Airbus,0.99657273,True
+1358664,1,Airbus,1,Airbus,0.9653356,True
+0701751,1,Airbus,1,Airbus,0.9528812,True
+2171602,1,Airbus,1,Airbus,0.9983412,True
+2183458,1,Airbus,1,Airbus,0.98851424,True
+1591976,1,Airbus,12,Douglas Aircraft Company,0.45551682,False
+1178011,1,Airbus,1,Airbus,0.9999763,True
+0957883,1,Airbus,1,Airbus,0.9983903,True
+2192006,1,Airbus,1,Airbus,0.9938287,True
+1691816,1,Airbus,1,Airbus,0.72629035,True
+1898311,1,Airbus,1,Airbus,0.9924533,True
+0847415,1,Airbus,4,Boeing,0.97135824,False
+1351643,1,Airbus,4,Boeing,0.64219224,False
+0649605,1,Airbus,4,Boeing,0.7079019,False
+2058107,1,Airbus,1,Airbus,0.84448045,True
+0454592,1,Airbus,13,Embraer,0.48667762,False
+1172324,1,Airbus,1,Airbus,0.847906,True
+1281985,1,Airbus,4,Boeing,0.7572734,False
+2173352,1,Airbus,4,Boeing,0.79041785,False
+1940832,1,Airbus,1,Airbus,0.87264544,True
+1288222,1,Airbus,1,Airbus,0.7102157,True
+1838645,1,Airbus,1,Airbus,0.99073505,True
+2246817,1,Airbus,1,Airbus,0.9609996,True
+1903505,1,Airbus,1,Airbus,0.683407,True
+0383395,1,Airbus,1,Airbus,0.5588411,True
+1222076,1,Airbus,1,Airbus,0.9990839,True
+0959262,1,Airbus,1,Airbus,0.9971079,True
+1169718,1,Airbus,1,Airbus,0.9341712,True
+2170860,1,Airbus,4,Boeing,0.7435074,False
+1396941,1,Airbus,13,Embraer,0.7800811,False
+1109377,1,Airbus,1,Airbus,0.9418259,True
+1597449,1,Airbus,13,Embraer,0.2635621,False
+1211309,1,Airbus,1,Airbus,0.9701914,True
+0412223,1,Airbus,4,Boeing,0.5400701,False
+0894324,1,Airbus,1,Airbus,0.994118,True
+1739566,1,Airbus,1,Airbus,0.92476875,True
+1551668,1,Airbus,1,Airbus,0.50863653,True
+1458698,1,Airbus,1,Airbus,0.94552577,True
+0067618,1,Airbus,4,Boeing,0.9709843,False
+1876402,1,Airbus,1,Airbus,0.78738195,True
+1139750,1,Airbus,1,Airbus,0.61426985,True
+1471543,1,Airbus,1,Airbus,0.9957989,True
+0784484,1,Airbus,1,Airbus,0.9943778,True
+0668444,1,Airbus,4,Boeing,0.45719573,False
+1659448,1,Airbus,1,Airbus,0.77408135,True
+0523219,1,Airbus,1,Airbus,0.84169006,True
+0676942,1,Airbus,1,Airbus,0.9666327,True
+1470663,1,Airbus,1,Airbus,0.82238007,True
+0225210,1,Airbus,1,Airbus,0.98103,True
+1885833,1,Airbus,4,Boeing,0.8024893,False
+0957899,1,Airbus,1,Airbus,0.98955244,True
+2186944,1,Airbus,1,Airbus,0.64991254,True
+2211026,1,Airbus,1,Airbus,0.9666392,True
+0361109,1,Airbus,1,Airbus,0.9984906,True
+1662015,1,Airbus,1,Airbus,0.98039836,True
+0699565,1,Airbus,1,Airbus,0.9677231,True
+0688076,1,Airbus,1,Airbus,0.8440835,True
+1768872,1,Airbus,1,Airbus,0.76316345,True
+0716437,1,Airbus,1,Airbus,0.9980117,True
+1878567,1,Airbus,13,Embraer,0.68091136,False
+0802263,1,Airbus,4,Boeing,0.5775335,False
+1036863,1,Airbus,4,Boeing,0.95158863,False
+1555884,1,Airbus,4,Boeing,0.43196383,False
+0447769,1,Airbus,1,Airbus,0.9542823,True
+0936133,1,Airbus,4,Boeing,0.729159,False
+1461862,1,Airbus,1,Airbus,0.445914,True
+0862739,1,Airbus,1,Airbus,0.7495533,True
+0083150,1,Airbus,1,Airbus,0.91504407,True
+1559373,1,Airbus,1,Airbus,0.70554227,True
+0182727,1,Airbus,1,Airbus,0.86760014,True
+1526019,1,Airbus,4,Boeing,0.7117047,False
+1921311,1,Airbus,4,Boeing,0.5731679,False
+2245660,1,Airbus,1,Airbus,0.907054,True
+1496971,1,Airbus,1,Airbus,0.94724023,True
+2191945,1,Airbus,1,Airbus,0.93844074,True
+0136472,1,Airbus,4,Boeing,0.8889881,False
+1231168,1,Airbus,4,Boeing,0.87320936,False
+1222601,1,Airbus,1,Airbus,0.66853184,True
+1327939,1,Airbus,1,Airbus,0.8148677,True
+1019107,1,Airbus,1,Airbus,0.5604549,True
+2194912,1,Airbus,1,Airbus,0.927739,True
+2069707,1,Airbus,1,Airbus,0.92319125,True
+1469738,1,Airbus,16,Fokker,0.49514055,False
+0740504,1,Airbus,1,Airbus,0.88420767,True
+0181710,1,Airbus,1,Airbus,0.8035167,True
+1129148,1,Airbus,4,Boeing,0.8841002,False
+2006296,1,Airbus,1,Airbus,0.93865055,True
+1366856,1,Airbus,4,Boeing,0.8658069,False
+0361611,1,Airbus,1,Airbus,0.986679,True
+1218624,1,Airbus,1,Airbus,0.7847363,True
+1611219,1,Airbus,4,Boeing,0.6222138,False
+1107447,1,Airbus,1,Airbus,0.6229474,True
+1886463,1,Airbus,8,Cessna,0.25581548,False
+0498140,1,Airbus,4,Boeing,0.98493737,False
+0740884,1,Airbus,4,Boeing,0.8388868,False
+0863885,1,Airbus,4,Boeing,0.84599286,False
+1600343,1,Airbus,1,Airbus,0.9292227,True
+1855382,1,Airbus,1,Airbus,0.7229055,True
+2175403,1,Airbus,1,Airbus,0.99703526,True
+1856980,1,Airbus,1,Airbus,0.8392738,True
+2084801,1,Airbus,1,Airbus,0.9998909,True
+1143133,1,Airbus,1,Airbus,0.97851974,True
+1459418,1,Airbus,4,Boeing,0.55134076,False
+0786219,1,Airbus,1,Airbus,0.85489106,True
+1935749,1,Airbus,1,Airbus,0.98500776,True
+2239290,1,Airbus,1,Airbus,0.9899832,True
+1682813,1,Airbus,1,Airbus,0.47146258,True
+2120035,1,Airbus,1,Airbus,0.9997876,True
+0723567,1,Airbus,1,Airbus,0.678733,True
+2147399,1,Airbus,1,Airbus,0.5015909,True
+2207935,1,Airbus,1,Airbus,0.9998542,True
+1413316,1,Airbus,4,Boeing,0.9166681,False
+0324845,1,Airbus,1,Airbus,0.8787359,True
+1945458,1,Airbus,4,Boeing,0.8158287,False
+0457837,1,Airbus,1,Airbus,0.9991086,True
+1810201,1,Airbus,1,Airbus,0.998481,True
+1884889,1,Airbus,1,Airbus,0.99997544,True
+1253455,1,Airbus,1,Airbus,0.9994474,True
+1550643,1,Airbus,1,Airbus,0.8439038,True
+0337277,1,Airbus,1,Airbus,0.8020589,True
+1193361,1,Airbus,4,Boeing,0.5112269,False
+1240501,1,Airbus,1,Airbus,0.75875026,True
+1106412,1,Airbus,4,Boeing,0.79016036,False
+0744228,1,Airbus,1,Airbus,0.98416454,True
+0350198,1,Airbus,1,Airbus,0.8028612,True
+2026736,1,Airbus,1,Airbus,0.90732294,True
+0067863,1,Airbus,21,McDonnell Douglas,0.5093724,False
+1884741,1,Airbus,1,Airbus,0.9884062,True
+2208639,1,Airbus,1,Airbus,0.9899401,True
+1547722,1,Airbus,1,Airbus,0.9976642,True
+1925949,1,Airbus,1,Airbus,0.9978732,True
+0328368,1,Airbus,1,Airbus,0.87851423,True
+1396726,1,Airbus,1,Airbus,0.93395984,True
+1894690,1,Airbus,1,Airbus,0.4156065,True
+1985096,1,Airbus,1,Airbus,0.9763739,True
+1966252,1,Airbus,1,Airbus,0.852422,True
+1283779,1,Airbus,4,Boeing,0.83444756,False
+2140540,1,Airbus,1,Airbus,0.82346255,True
+0065291,1,Airbus,4,Boeing,0.9785945,False
+2225269,1,Airbus,1,Airbus,0.85590136,True
+1500991,1,Airbus,1,Airbus,0.9966978,True
+1320344,1,Airbus,1,Airbus,0.99861383,True
+0249916,1,Airbus,1,Airbus,0.9015489,True
+1604652,1,Airbus,21,McDonnell Douglas,0.7677745,False
+0487330,1,Airbus,1,Airbus,0.9434882,True
+1952115,1,Airbus,1,Airbus,0.9854231,True
+1910575,1,Airbus,1,Airbus,0.9970036,True
+2234653,1,Airbus,4,Boeing,0.7807698,False
+1616511,1,Airbus,1,Airbus,0.79718524,True
+2120031,1,Airbus,1,Airbus,0.91114515,True
+1427275,1,Airbus,4,Boeing,0.54764915,False
+1149067,1,Airbus,1,Airbus,0.94223267,True
+0460482,1,Airbus,21,McDonnell Douglas,0.48710632,False
+0819081,1,Airbus,1,Airbus,0.5932473,True
+0517745,1,Airbus,1,Airbus,0.78621364,True
+2103081,1,Airbus,1,Airbus,0.9999788,True
+1855285,1,Airbus,4,Boeing,0.7200825,False
+1591877,1,Airbus,1,Airbus,0.9977272,True
+1037982,1,Airbus,1,Airbus,0.99836355,True
+2250823,1,Airbus,1,Airbus,0.9673259,True
+1952832,1,Airbus,1,Airbus,0.9229859,True
+0846181,1,Airbus,1,Airbus,0.7547766,True
+0056782,1,Airbus,1,Airbus,0.9914967,True
+0553601,1,Airbus,1,Airbus,0.99441683,True
+0188372,1,Airbus,1,Airbus,0.6183986,True
+0842387,1,Airbus,4,Boeing,0.608758,False
+0136468,1,Airbus,12,Douglas Aircraft Company,0.69181806,False
+0346400,1,Airbus,1,Airbus,0.9997627,True
+0719790,1,Airbus,1,Airbus,0.99690396,True
+0950119,1,Airbus,1,Airbus,0.95183915,True
+0862199,1,Airbus,1,Airbus,0.8987596,True
+0437571,1,Airbus,21,McDonnell Douglas,0.7210561,False
+0458627,1,Airbus,1,Airbus,0.99934584,True
+1383088,1,Airbus,1,Airbus,0.9999807,True
+1634020,1,Airbus,1,Airbus,0.99997246,True
+0445601,1,Airbus,1,Airbus,0.9989197,True
+1732551,1,Airbus,1,Airbus,0.9988875,True
+1054022,1,Airbus,1,Airbus,0.97638863,True
+0944357,1,Airbus,4,Boeing,0.62321347,False
+1764565,1,Airbus,1,Airbus,0.99961334,True
+1097486,1,Airbus,1,Airbus,0.9334133,True
+0995290,1,Airbus,1,Airbus,0.99777716,True
+0658059,1,Airbus,4,Boeing,0.791675,False
+1278085,1,Airbus,1,Airbus,0.99984777,True
+1602273,1,Airbus,1,Airbus,0.9999733,True
+1543509,1,Airbus,1,Airbus,0.9263968,True
+0852822,1,Airbus,1,Airbus,0.99369544,True
+0350851,1,Airbus,1,Airbus,0.989806,True
+0115074,1,Airbus,1,Airbus,0.7715534,True
+0710667,1,Airbus,4,Boeing,0.49862602,False
+0155576,1,Airbus,4,Boeing,0.82600415,False
+0842399,1,Airbus,1,Airbus,0.6074345,True
+0064930,1,Airbus,1,Airbus,0.8758086,True
+0939501,1,Airbus,1,Airbus,0.811728,True
+0721177,1,Airbus,1,Airbus,0.89332056,True
+0143336,1,Airbus,1,Airbus,0.9179734,True
+2061742,1,Airbus,1,Airbus,0.98022616,True
+1469768,1,Airbus,1,Airbus,0.93822503,True
+1122585,1,Airbus,1,Airbus,0.7508342,True
+0558237,1,Airbus,1,Airbus,0.9231908,True
+0283609,1,Airbus,4,Boeing,0.43735996,False
+2235586,1,Airbus,4,Boeing,0.59195954,False
+1718898,1,Airbus,1,Airbus,0.9907947,True
+0143338,1,Airbus,4,Boeing,0.57062674,False
+1891293,1,Airbus,1,Airbus,0.9984137,True
+0906211,1,Airbus,1,Airbus,0.9989956,True
+2215390,1,Airbus,1,Airbus,0.88014895,True
+1075856,1,Airbus,1,Airbus,0.44484317,True
+1112645,1,Airbus,1,Airbus,0.99932766,True
+1774584,1,Airbus,1,Airbus,0.9591635,True
+0072869,1,Airbus,4,Boeing,0.6911975,False
+1373938,1,Airbus,1,Airbus,0.5049852,True
+0422938,1,Airbus,4,Boeing,0.4395652,False
+1589412,1,Airbus,1,Airbus,0.83489114,True
+0447935,1,Airbus,1,Airbus,0.9864747,True
+1094693,1,Airbus,1,Airbus,0.85573345,True
+1250249,1,Airbus,1,Airbus,0.9892932,True
+0949944,1,Airbus,4,Boeing,0.771961,False
+1290785,1,Airbus,1,Airbus,0.98070323,True
+0973041,1,Airbus,1,Airbus,0.9911739,True
+1750520,1,Airbus,1,Airbus,0.8981812,True
+0494477,1,Airbus,1,Airbus,0.43402007,True
+1250523,1,Airbus,1,Airbus,0.9999784,True
+0214193,1,Airbus,1,Airbus,0.5341457,True
+1194421,1,Airbus,4,Boeing,0.5965671,False
+2170875,1,Airbus,1,Airbus,0.98871404,True
+1950557,1,Airbus,4,Boeing,0.89438885,False
+1951612,1,Airbus,4,Boeing,0.8818112,False
+2154733,1,Airbus,1,Airbus,0.85615844,True
+0803688,1,Airbus,1,Airbus,0.9595152,True
+2054362,1,Airbus,1,Airbus,0.9997693,True
+0727657,1,Airbus,1,Airbus,0.99591833,True
+2081083,1,Airbus,1,Airbus,0.99996424,True
+2084805,1,Airbus,1,Airbus,0.9998932,True
+1298374,1,Airbus,1,Airbus,0.58020365,True
+1205178,1,Airbus,1,Airbus,0.9458932,True
+1241522,1,Airbus,1,Airbus,0.9705268,True
+1325220,1,Airbus,1,Airbus,0.99934584,True
+1240315,1,Airbus,1,Airbus,0.99829656,True
+2047539,1,Airbus,4,Boeing,0.5930339,False
+0936094,1,Airbus,4,Boeing,0.42428035,False
+1698608,1,Airbus,1,Airbus,0.99925905,True
+1205272,1,Airbus,1,Airbus,0.99369,True
+1358180,1,Airbus,1,Airbus,0.99928963,True
+1469692,1,Airbus,1,Airbus,0.9803155,True
+0727647,1,Airbus,1,Airbus,0.9991042,True
+1331448,1,Airbus,1,Airbus,0.9968958,True
+0967566,1,Airbus,1,Airbus,0.99737984,True
+1308386,1,Airbus,1,Airbus,0.9988242,True
+1110734,1,Airbus,1,Airbus,0.5708778,True
+2193516,1,Airbus,1,Airbus,0.9999274,True
+0807071,1,Airbus,1,Airbus,0.99508494,True
+0633233,1,Airbus,1,Airbus,0.9910025,True
+0704984,1,Airbus,1,Airbus,0.94459486,True
+0927368,1,Airbus,1,Airbus,0.7929429,True
+1119079,1,Airbus,1,Airbus,0.65548354,True
+1514251,1,Airbus,1,Airbus,0.9891773,True
+1110733,1,Airbus,12,Douglas Aircraft Company,0.34576976,False
+0959085,1,Airbus,1,Airbus,0.6317821,True
+2029900,1,Airbus,1,Airbus,0.86384296,True
+1291233,1,Airbus,1,Airbus,0.9338478,True
+2177828,1,Airbus,1,Airbus,0.98106074,True
+0488533,1,Airbus,4,Boeing,0.769514,False
+1847505,1,Airbus,1,Airbus,0.99204445,True
+1231196,1,Airbus,1,Airbus,0.9974221,True
+1661601,1,Airbus,1,Airbus,0.5282115,True
+1346446,1,Airbus,8,Cessna,0.5479521,False
+1842173,1,Airbus,4,Boeing,0.58570236,False
+2264249,1,Airbus,1,Airbus,0.55973613,True
+1885942,1,Airbus,1,Airbus,0.29628503,True
+1373275,1,Airbus,1,Airbus,0.89248854,True
+1624887,1,Airbus,1,Airbus,0.8642807,True
+1587527,1,Airbus,1,Airbus,0.97435015,True
+0770351,1,Airbus,1,Airbus,0.9828432,True
+1699455,1,Airbus,1,Airbus,0.95868164,True
+2130085,1,Airbus,21,McDonnell Douglas,0.7454915,False
+0230833,1,Airbus,4,Boeing,0.67770433,False
+1794927,1,Airbus,1,Airbus,0.8473547,True
+2212521,1,Airbus,1,Airbus,0.9843462,True
+1009039,1,Airbus,1,Airbus,0.6620718,True
+1260329,1,Airbus,21,McDonnell Douglas,0.63257855,False
+0683548,1,Airbus,1,Airbus,0.97945595,True
+0458635,1,Airbus,1,Airbus,0.9742468,True
+1691545,1,Airbus,1,Airbus,0.7627985,True
+0710665,1,Airbus,1,Airbus,0.987069,True
+1567288,1,Airbus,1,Airbus,0.91051775,True
+0821375,1,Airbus,1,Airbus,0.69617367,True
+1820323,1,Airbus,1,Airbus,0.9991738,True
+1508910,1,Airbus,1,Airbus,0.99943644,True
+1201556,1,Airbus,1,Airbus,0.9932295,True
+2040834,1,Airbus,4,Boeing,0.86340934,False
+0478341,1,Airbus,1,Airbus,0.57408583,True
+0464756,1,Airbus,12,Douglas Aircraft Company,0.9818725,False
+1615560,1,Airbus,1,Airbus,0.99858534,True
+1573406,1,Airbus,1,Airbus,0.8143681,True
+0199985,1,Airbus,1,Airbus,0.96408534,True
+1617066,1,Airbus,4,Boeing,0.9086094,False
+1941697,1,Airbus,4,Boeing,0.7059099,False
+1788036,1,Airbus,4,Boeing,0.79883313,False
+2046831,1,Airbus,1,Airbus,0.91186625,True
+1055151,1,Airbus,4,Boeing,0.7120534,False
+1757833,1,Airbus,1,Airbus,0.7531468,True
+1836183,1,Airbus,4,Boeing,0.79478943,False
+2054198,1,Airbus,1,Airbus,0.9994068,True
+1647304,1,Airbus,1,Airbus,0.7281673,True
+1718618,1,Airbus,4,Boeing,0.9722872,False
+2210073,1,Airbus,4,Boeing,0.9708086,False
+2131734,1,Airbus,4,Boeing,0.7427746,False
+2115336,1,Airbus,1,Airbus,0.75695413,True
+2084810,1,Airbus,1,Airbus,0.9775713,True
+2234610,1,Airbus,1,Airbus,0.90845364,True
+1195232,1,Airbus,1,Airbus,0.7540582,True
+2257341,1,Airbus,1,Airbus,0.9985347,True
+1921950,1,Airbus,4,Boeing,0.77975464,False
+1951063,1,Airbus,1,Airbus,0.98530954,True
+1990751,1,Airbus,4,Boeing,0.9620686,False
+1379570,1,Airbus,19,Lockheed Corporation,0.44365558,False
+2247793,1,Airbus,1,Airbus,0.76993906,True
+1811111,1,Airbus,7,Canadair,0.6665682,False
+2188600,1,Airbus,4,Boeing,0.5711654,False
+1987428,1,Airbus,1,Airbus,0.37728393,True
+1941845,1,Airbus,4,Boeing,0.72664124,False
+1456849,1,Airbus,12,Douglas Aircraft Company,0.3087442,False
+2087371,1,Airbus,1,Airbus,0.5574397,True
+2122835,1,Airbus,1,Airbus,0.9867508,True
+0977324,1,Airbus,8,Cessna,0.2954923,False
+2199048,1,Airbus,4,Boeing,0.54555625,False
+2251118,1,Airbus,1,Airbus,0.979761,True
+1979068,1,Airbus,1,Airbus,0.6323881,True
+0995392,0,ATR,0,ATR,0.9026889,True
+0523021,0,ATR,0,ATR,0.9828536,True
+0967960,0,ATR,0,ATR,0.94299984,True
+1801880,0,ATR,0,ATR,0.7891126,True
+1220586,0,ATR,25,Saab,0.4176575,False
+0386931,0,ATR,29,de Havilland,0.65893626,False
+1429835,0,ATR,29,de Havilland,0.7159484,False
+1346448,0,ATR,0,ATR,0.9556661,True
+0822346,0,ATR,0,ATR,0.8071395,True
+1054467,0,ATR,0,ATR,0.8265579,True
+0800867,0,ATR,2,Antonov,0.6702569,False
+0114437,0,ATR,0,ATR,0.4075994,True
+1570251,0,ATR,6,British Aerospace,0.67451876,False
+0130601,0,ATR,11,Dornier,0.7587025,False
+0693418,0,ATR,0,ATR,0.69236946,True
+1459209,0,ATR,0,ATR,0.91906375,True
+1377098,0,ATR,0,ATR,0.9072313,True
+0730742,0,ATR,0,ATR,0.31476697,True
+0702843,0,ATR,4,Boeing,0.48340717,False
+1149116,0,ATR,4,Boeing,0.86200017,False
+1023312,0,ATR,0,ATR,0.86608344,True
+1218546,0,ATR,0,ATR,0.9796689,True
+0311117,0,ATR,0,ATR,0.7888033,True
+1926943,0,ATR,29,de Havilland,0.6506513,False
+1277981,0,ATR,0,ATR,0.8605169,True
+0337958,0,ATR,29,de Havilland,0.7901863,False
+0858701,0,ATR,0,ATR,0.9661708,True
+1121149,0,ATR,0,ATR,0.84105545,True
+2097905,0,ATR,0,ATR,0.43447673,True
+2176403,0,ATR,0,ATR,0.8992232,True
+1548487,0,ATR,0,ATR,0.9264948,True
+0066977,0,ATR,0,ATR,0.94501424,True
+0977357,0,ATR,0,ATR,0.9442203,True
+0907304,0,ATR,0,ATR,0.6542972,True
+2072271,0,ATR,0,ATR,0.52474385,True
+1842068,0,ATR,0,ATR,0.9657996,True
+0109458,0,ATR,0,ATR,0.8749758,True
+0921924,0,ATR,0,ATR,0.41765612,True
+1253449,0,ATR,16,Fokker,0.63090825,False
+0302719,0,ATR,0,ATR,0.62462723,True
+1471166,0,ATR,0,ATR,0.9945746,True
+1901216,0,ATR,1,Airbus,0.54855025,False
+1113454,0,ATR,0,ATR,0.93102306,True
+0155611,0,ATR,0,ATR,0.7108169,True
+1912972,0,ATR,0,ATR,0.97305346,True
+1629114,0,ATR,0,ATR,0.9920474,True
+1381988,0,ATR,0,ATR,0.950097,True
+1318533,0,ATR,0,ATR,0.77701926,True
+2196365,0,ATR,0,ATR,0.9954668,True
+2125186,0,ATR,0,ATR,0.98464346,True
+2184062,0,ATR,29,de Havilland,0.59982014,False
+0136180,0,ATR,0,ATR,0.87188894,True
+1004978,0,ATR,0,ATR,0.71255034,True
+0931109,0,ATR,0,ATR,0.87193877,True
+2191964,0,ATR,29,de Havilland,0.29228052,False
+1323666,0,ATR,0,ATR,0.9616151,True
+0483586,0,ATR,0,ATR,0.4497296,True
+1022616,0,ATR,0,ATR,0.6999132,True
+0688078,0,ATR,0,ATR,0.9579106,True
+1222169,0,ATR,0,ATR,0.9483287,True
+0193711,0,ATR,0,ATR,0.60585076,True
+0177480,0,ATR,0,ATR,0.9004623,True
+1358696,0,ATR,0,ATR,0.70981336,True
+1950558,0,ATR,0,ATR,0.64569587,True
+0683605,0,ATR,16,Fokker,0.34753922,False
+2218547,0,ATR,0,ATR,0.59456176,True
+0182732,0,ATR,0,ATR,0.38956025,True
+1525661,2,Antonov,2,Antonov,0.97217685,True
+0103329,2,Antonov,4,Boeing,0.6582175,False
+1144556,2,Antonov,2,Antonov,0.9738424,True
+0737315,2,Antonov,2,Antonov,0.58162254,True
+0767799,2,Antonov,2,Antonov,0.9683309,True
+0592094,2,Antonov,2,Antonov,0.8184055,True
+0490170,2,Antonov,2,Antonov,0.86692256,True
+1335478,2,Antonov,2,Antonov,0.8676138,True
+1691785,2,Antonov,3,Beechcraft,0.5707424,False
+0894379,2,Antonov,0,ATR,0.5039877,False
+0755283,2,Antonov,2,Antonov,0.71307033,True
+0918727,2,Antonov,2,Antonov,0.9730863,True
+0812906,2,Antonov,19,Lockheed Corporation,0.20807289,False
+0811680,2,Antonov,29,de Havilland,0.46015444,False
+0987259,2,Antonov,2,Antonov,0.3604314,True
+1119088,2,Antonov,2,Antonov,0.99231356,True
+0878583,2,Antonov,2,Antonov,0.88558394,True
+1018992,2,Antonov,2,Antonov,0.94832116,True
+0756079,2,Antonov,2,Antonov,0.96300304,True
+1273373,2,Antonov,2,Antonov,0.65475345,True
+1639639,2,Antonov,19,Lockheed Corporation,0.38497505,False
+1314034,2,Antonov,2,Antonov,0.5836875,True
+1332980,2,Antonov,2,Antonov,0.37498644,True
+0738255,2,Antonov,29,de Havilland,0.93833,False
+0645934,2,Antonov,2,Antonov,0.71012986,True
+0988940,2,Antonov,2,Antonov,0.9559759,True
+0483241,2,Antonov,2,Antonov,0.92337614,True
+1581651,2,Antonov,2,Antonov,0.97520626,True
+0582373,2,Antonov,2,Antonov,0.9116833,True
+0737371,2,Antonov,19,Lockheed Corporation,0.44586805,False
+0582376,2,Antonov,2,Antonov,0.8391215,True
+1448054,2,Antonov,2,Antonov,0.79656357,True
+0814904,2,Antonov,2,Antonov,0.86243546,True
+0934710,6,British Aerospace,6,British Aerospace,0.9949367,True
+0979639,6,British Aerospace,6,British Aerospace,0.8850102,True
+0435276,6,British Aerospace,6,British Aerospace,0.9454,True
+0959053,6,British Aerospace,6,British Aerospace,0.8194895,True
+1660306,6,British Aerospace,6,British Aerospace,0.9538539,True
+2004307,6,British Aerospace,6,British Aerospace,0.9994479,True
+0894309,6,British Aerospace,6,British Aerospace,0.9258407,True
+0920416,6,British Aerospace,6,British Aerospace,0.8836886,True
+1407338,6,British Aerospace,0,ATR,0.4366149,False
+1492329,6,British Aerospace,6,British Aerospace,0.9854344,True
+1746124,6,British Aerospace,6,British Aerospace,0.9785709,True
+1631127,6,British Aerospace,6,British Aerospace,0.6788555,True
+1782057,6,British Aerospace,6,British Aerospace,0.93372774,True
+1407337,6,British Aerospace,11,Dornier,0.8040436,False
+1913801,6,British Aerospace,6,British Aerospace,0.99723,True
+1926379,6,British Aerospace,6,British Aerospace,0.8194289,True
+0562110,6,British Aerospace,6,British Aerospace,0.992241,True
+0257376,6,British Aerospace,6,British Aerospace,0.7125577,True
+0923557,6,British Aerospace,6,British Aerospace,0.9207108,True
+0702871,6,British Aerospace,6,British Aerospace,0.9541506,True
+1538840,6,British Aerospace,6,British Aerospace,0.9872279,True
+0977327,6,British Aerospace,6,British Aerospace,0.6398427,True
+1531908,6,British Aerospace,6,British Aerospace,0.99833906,True
+1738905,6,British Aerospace,6,British Aerospace,0.7039134,True
+0895456,6,British Aerospace,6,British Aerospace,0.9995598,True
+1607357,6,British Aerospace,6,British Aerospace,0.9848605,True
+0418706,6,British Aerospace,4,Boeing,0.6168419,False
+0894325,6,British Aerospace,6,British Aerospace,0.754597,True
+0136140,6,British Aerospace,17,Gulfstream Aerospace,0.34678024,False
+0967804,6,British Aerospace,6,British Aerospace,0.99207777,True
+2053595,6,British Aerospace,6,British Aerospace,0.65280694,True
+2031402,6,British Aerospace,6,British Aerospace,0.97858024,True
+0582368,6,British Aerospace,6,British Aerospace,0.98285735,True
+1631130,6,British Aerospace,6,British Aerospace,0.9901315,True
+0324852,6,British Aerospace,6,British Aerospace,0.5993407,True
+1950528,6,British Aerospace,6,British Aerospace,0.60825133,True
+1288673,6,British Aerospace,0,ATR,0.7144532,False
+1417568,6,British Aerospace,6,British Aerospace,0.9282499,True
+0963962,6,British Aerospace,6,British Aerospace,0.8342184,True
+1486401,6,British Aerospace,6,British Aerospace,0.9920752,True
+0094398,6,British Aerospace,6,British Aerospace,0.53325915,True
+0586973,6,British Aerospace,6,British Aerospace,0.62761366,True
+1740617,6,British Aerospace,6,British Aerospace,0.9969445,True
+1008176,6,British Aerospace,6,British Aerospace,0.2614773,True
+0136185,6,British Aerospace,4,Boeing,0.54585737,False
+2147406,6,British Aerospace,6,British Aerospace,0.9836369,True
+1415721,6,British Aerospace,6,British Aerospace,0.99911386,True
+0894206,6,British Aerospace,6,British Aerospace,0.98309326,True
+1407350,6,British Aerospace,6,British Aerospace,0.4752704,True
+0356192,6,British Aerospace,6,British Aerospace,0.6719471,True
+2007883,6,British Aerospace,6,British Aerospace,0.99924076,True
+0076782,6,British Aerospace,4,Boeing,0.4624243,False
+0799585,6,British Aerospace,6,British Aerospace,0.9976913,True
+1941995,6,British Aerospace,6,British Aerospace,0.5275388,True
+1259710,6,British Aerospace,6,British Aerospace,0.90644056,True
+1637445,6,British Aerospace,17,Gulfstream Aerospace,0.39859137,False
+2107214,6,British Aerospace,4,Boeing,0.30815017,False
+1414866,6,British Aerospace,4,Boeing,0.5658791,False
+0814348,6,British Aerospace,6,British Aerospace,0.5045517,True
+0808883,6,British Aerospace,6,British Aerospace,0.98586816,True
+1966243,6,British Aerospace,21,McDonnell Douglas,0.2712948,False
+1103334,6,British Aerospace,6,British Aerospace,0.97974944,True
+0694269,6,British Aerospace,6,British Aerospace,0.78829765,True
+1152152,6,British Aerospace,4,Boeing,0.5668837,False
+1169470,6,British Aerospace,17,Gulfstream Aerospace,0.90242267,False
+0462061,6,British Aerospace,6,British Aerospace,0.90443516,True
+1312740,6,British Aerospace,6,British Aerospace,0.9583622,True
+0683604,6,British Aerospace,1,Airbus,0.3416341,False
+0917345,6,British Aerospace,6,British Aerospace,0.579846,True
+2072230,6,British Aerospace,15,Fairchild,0.21410532,False
+1158578,6,British Aerospace,6,British Aerospace,0.95716345,True
+1025167,6,British Aerospace,8,Cessna,0.5394174,False
+1272007,6,British Aerospace,6,British Aerospace,0.9337789,True
+1419958,6,British Aerospace,6,British Aerospace,0.96084815,True
+1627449,6,British Aerospace,8,Cessna,0.5138364,False
+2143407,6,British Aerospace,6,British Aerospace,0.403396,True
+1688324,6,British Aerospace,6,British Aerospace,0.99795204,True
+1655409,6,British Aerospace,1,Airbus,0.46968573,False
+0913417,6,British Aerospace,6,British Aerospace,0.99811566,True
+1903393,6,British Aerospace,7,Canadair,0.43942475,False
+1069041,6,British Aerospace,6,British Aerospace,0.96691674,True
+1784216,6,British Aerospace,6,British Aerospace,0.31008568,True
+1047313,6,British Aerospace,6,British Aerospace,0.9879902,True
+0525265,6,British Aerospace,6,British Aerospace,0.28652793,True
+1801417,6,British Aerospace,6,British Aerospace,0.961797,True
+0753360,6,British Aerospace,6,British Aerospace,0.6890643,True
+2186370,6,British Aerospace,13,Embraer,0.8626421,False
+1358537,6,British Aerospace,6,British Aerospace,0.9214815,True
+0297025,6,British Aerospace,3,Beechcraft,0.36001644,False
+1340322,6,British Aerospace,6,British Aerospace,0.8819571,True
+0697871,6,British Aerospace,6,British Aerospace,0.4552716,True
+0713916,6,British Aerospace,6,British Aerospace,0.85762215,True
+1535637,6,British Aerospace,6,British Aerospace,0.93849856,True
+1527350,6,British Aerospace,6,British Aerospace,0.6729781,True
+2171063,6,British Aerospace,6,British Aerospace,0.95620865,True
+1545981,6,British Aerospace,6,British Aerospace,0.46701398,True
+0939614,6,British Aerospace,5,Bombardier Aerospace,0.29537904,False
+1014363,6,British Aerospace,8,Cessna,0.7488649,False
+0677428,6,British Aerospace,6,British Aerospace,0.79514766,True
+1670149,6,British Aerospace,6,British Aerospace,0.6312725,True
+0495198,3,Beechcraft,3,Beechcraft,0.86620796,True
+1776868,3,Beechcraft,3,Beechcraft,0.9310589,True
+0935361,3,Beechcraft,3,Beechcraft,0.4956492,True
+0457849,3,Beechcraft,3,Beechcraft,0.8887701,True
+1094607,3,Beechcraft,3,Beechcraft,0.9850558,True
+0175726,3,Beechcraft,3,Beechcraft,0.47549334,True
+0337963,3,Beechcraft,3,Beechcraft,0.9517915,True
+0127621,3,Beechcraft,3,Beechcraft,0.9335164,True
+0457880,3,Beechcraft,3,Beechcraft,0.9284603,True
+0362870,3,Beechcraft,3,Beechcraft,0.6638298,True
+0091357,3,Beechcraft,3,Beechcraft,0.95305586,True
+0306188,3,Beechcraft,3,Beechcraft,0.5864069,True
+0126154,3,Beechcraft,3,Beechcraft,0.2761551,True
+0082497,3,Beechcraft,7,Canadair,0.3511184,False
+0067035,3,Beechcraft,3,Beechcraft,0.96347815,True
+0457881,3,Beechcraft,3,Beechcraft,0.99605954,True
+0337959,3,Beechcraft,3,Beechcraft,0.8952161,True
+0302935,3,Beechcraft,3,Beechcraft,0.36089414,True
+0263496,3,Beechcraft,3,Beechcraft,0.6679291,True
+1341837,3,Beechcraft,13,Embraer,0.70310307,False
+1592286,3,Beechcraft,8,Cessna,0.9000224,False
+1767102,3,Beechcraft,3,Beechcraft,0.33978313,True
+1355218,3,Beechcraft,3,Beechcraft,0.8594336,True
+1337523,3,Beechcraft,3,Beechcraft,0.82564294,True
+1415430,3,Beechcraft,13,Embraer,0.49306375,False
+0770350,3,Beechcraft,3,Beechcraft,0.42483056,True
+0730396,3,Beechcraft,3,Beechcraft,0.81380373,True
+1312418,3,Beechcraft,3,Beechcraft,0.76429963,True
+1036862,3,Beechcraft,13,Embraer,0.45088252,False
+0227120,3,Beechcraft,13,Embraer,0.95291543,False
+0592099,3,Beechcraft,13,Embraer,0.50643533,False
+0396119,3,Beechcraft,3,Beechcraft,0.80513096,True
+1129974,3,Beechcraft,3,Beechcraft,0.97858894,True
+0181728,4,Boeing,4,Boeing,0.8918542,True
+0525841,4,Boeing,21,McDonnell Douglas,0.8374629,False
+1474933,4,Boeing,27,Tupolev,0.38734213,False
+2039044,4,Boeing,21,McDonnell Douglas,0.37210318,False
+1474064,4,Boeing,4,Boeing,0.6470399,True
+1146068,4,Boeing,21,McDonnell Douglas,0.62542546,False
+0176115,4,Boeing,21,McDonnell Douglas,0.9737994,False
+1838535,4,Boeing,4,Boeing,0.3021994,True
+0445395,4,Boeing,4,Boeing,0.7952036,True
+0435287,4,Boeing,4,Boeing,0.57646275,True
+1092246,4,Boeing,4,Boeing,0.6681164,True
+1088602,4,Boeing,4,Boeing,0.7002662,True
+0918624,4,Boeing,21,McDonnell Douglas,0.9869306,False
+0061136,4,Boeing,4,Boeing,0.78266764,True
+1535190,4,Boeing,4,Boeing,0.64576566,True
+0165200,4,Boeing,21,McDonnell Douglas,0.9079697,False
+2175632,4,Boeing,21,McDonnell Douglas,0.80505526,False
+1379290,4,Boeing,4,Boeing,0.7785233,True
+0706180,4,Boeing,21,McDonnell Douglas,0.6381082,False
+0885552,4,Boeing,4,Boeing,0.6612812,True
+1914874,4,Boeing,21,McDonnell Douglas,0.8405483,False
+1341384,4,Boeing,21,McDonnell Douglas,0.8928908,False
+1102466,4,Boeing,4,Boeing,0.7263015,True
+0799590,4,Boeing,21,McDonnell Douglas,0.5077507,False
+1984367,4,Boeing,4,Boeing,0.97106636,True
+0574356,4,Boeing,21,McDonnell Douglas,0.6471405,False
+0302020,4,Boeing,21,McDonnell Douglas,0.7244815,False
+0708637,4,Boeing,21,McDonnell Douglas,0.55322915,False
+1000107,4,Boeing,4,Boeing,0.9758472,True
+0383871,4,Boeing,21,McDonnell Douglas,0.5733389,False
+0239583,4,Boeing,21,McDonnell Douglas,0.8811746,False
+2245398,4,Boeing,21,McDonnell Douglas,0.5431112,False
+0315569,4,Boeing,21,McDonnell Douglas,0.763707,False
+1053968,4,Boeing,21,McDonnell Douglas,0.93242216,False
+1202350,19,Lockheed Corporation,19,Lockheed Corporation,0.9946392,True
+0736232,19,Lockheed Corporation,19,Lockheed Corporation,0.998801,True
+0963485,19,Lockheed Corporation,19,Lockheed Corporation,0.98513466,True
+1246917,19,Lockheed Corporation,19,Lockheed Corporation,0.6347076,True
+1244362,19,Lockheed Corporation,19,Lockheed Corporation,0.7291333,True
+1586062,19,Lockheed Corporation,8,Cessna,0.5079484,False
+1593383,19,Lockheed Corporation,4,Boeing,0.28264928,False
+0759282,19,Lockheed Corporation,19,Lockheed Corporation,0.9980107,True
+0774763,19,Lockheed Corporation,19,Lockheed Corporation,0.8345367,True
+1869952,19,Lockheed Corporation,19,Lockheed Corporation,0.8082621,True
+1331516,19,Lockheed Corporation,19,Lockheed Corporation,0.73173076,True
+1564407,19,Lockheed Corporation,19,Lockheed Corporation,0.98783326,True
+1621666,19,Lockheed Corporation,19,Lockheed Corporation,0.9927555,True
+2110996,19,Lockheed Corporation,19,Lockheed Corporation,0.7681799,True
+0911010,19,Lockheed Corporation,19,Lockheed Corporation,0.95232433,True
+0326603,19,Lockheed Corporation,19,Lockheed Corporation,0.74308723,True
+0547019,19,Lockheed Corporation,19,Lockheed Corporation,0.9615058,True
+0773394,19,Lockheed Corporation,19,Lockheed Corporation,0.9926762,True
+2228007,19,Lockheed Corporation,19,Lockheed Corporation,0.50266534,True
+0755464,19,Lockheed Corporation,19,Lockheed Corporation,0.9644962,True
+0851299,19,Lockheed Corporation,19,Lockheed Corporation,0.9388864,True
+2175630,19,Lockheed Corporation,19,Lockheed Corporation,0.9590133,True
+0773399,19,Lockheed Corporation,19,Lockheed Corporation,0.97440255,True
+1762100,19,Lockheed Corporation,19,Lockheed Corporation,0.8448579,True
+2139346,19,Lockheed Corporation,19,Lockheed Corporation,0.74270314,True
+0875337,19,Lockheed Corporation,19,Lockheed Corporation,0.980249,True
+0681901,19,Lockheed Corporation,19,Lockheed Corporation,0.8870858,True
+0464476,19,Lockheed Corporation,19,Lockheed Corporation,0.61478007,True
+1564427,19,Lockheed Corporation,19,Lockheed Corporation,0.95252246,True
+1304098,19,Lockheed Corporation,19,Lockheed Corporation,0.9893986,True
+1144110,19,Lockheed Corporation,19,Lockheed Corporation,0.984277,True
+0883341,19,Lockheed Corporation,2,Antonov,0.62243056,False
+1256472,19,Lockheed Corporation,19,Lockheed Corporation,0.98059744,True
+0683550,12,Douglas Aircraft Company,12,Douglas Aircraft Company,0.88461727,True
+1785637,12,Douglas Aircraft Company,12,Douglas Aircraft Company,0.78373396,True
+0618973,12,Douglas Aircraft Company,12,Douglas Aircraft Company,0.98746115,True
+1345223,12,Douglas Aircraft Company,12,Douglas Aircraft Company,0.9972287,True
+0870655,12,Douglas Aircraft Company,12,Douglas Aircraft Company,0.99299145,True
+1147907,12,Douglas Aircraft Company,4,Boeing,0.9649466,False
+1222772,12,Douglas Aircraft Company,12,Douglas Aircraft Company,0.77669203,True
+1149069,12,Douglas Aircraft Company,12,Douglas Aircraft Company,0.96233004,True
+0441014,12,Douglas Aircraft Company,12,Douglas Aircraft Company,0.9969975,True
+1745957,12,Douglas Aircraft Company,12,Douglas Aircraft Company,0.9665953,True
+0458771,12,Douglas Aircraft Company,1,Airbus,0.340025,False
+0773538,12,Douglas Aircraft Company,12,Douglas Aircraft Company,0.9999908,True
+1404441,12,Douglas Aircraft Company,12,Douglas Aircraft Company,0.38431346,True
+1044764,12,Douglas Aircraft Company,12,Douglas Aircraft Company,0.8006187,True
+1102454,12,Douglas Aircraft Company,12,Douglas Aircraft Company,0.9666091,True
+0879882,12,Douglas Aircraft Company,12,Douglas Aircraft Company,0.9999069,True
+1639640,12,Douglas Aircraft Company,17,Gulfstream Aerospace,0.33841977,False
+0730690,12,Douglas Aircraft Company,12,Douglas Aircraft Company,0.92147315,True
+0068811,12,Douglas Aircraft Company,4,Boeing,0.8010498,False
+0457908,12,Douglas Aircraft Company,12,Douglas Aircraft Company,0.9973362,True
+0952726,12,Douglas Aircraft Company,4,Boeing,0.33116254,False
+0961452,12,Douglas Aircraft Company,12,Douglas Aircraft Company,0.9027759,True
+1592586,12,Douglas Aircraft Company,10,Dassault Aviation,0.6213475,False
+0944161,12,Douglas Aircraft Company,12,Douglas Aircraft Company,0.9999207,True
+0551411,12,Douglas Aircraft Company,12,Douglas Aircraft Company,0.99320674,True
+1538889,12,Douglas Aircraft Company,12,Douglas Aircraft Company,0.4467718,True
+1869320,12,Douglas Aircraft Company,12,Douglas Aircraft Company,0.9945872,True
+1446336,12,Douglas Aircraft Company,12,Douglas Aircraft Company,0.5795127,True
+1237817,12,Douglas Aircraft Company,12,Douglas Aircraft Company,0.6790204,True
+0879888,12,Douglas Aircraft Company,12,Douglas Aircraft Company,0.99377584,True
+2169306,12,Douglas Aircraft Company,12,Douglas Aircraft Company,0.66740817,True
+1028184,12,Douglas Aircraft Company,12,Douglas Aircraft Company,0.9255769,True
+1089013,12,Douglas Aircraft Company,12,Douglas Aircraft Company,0.9599295,True
+1636446,7,Canadair,7,Canadair,0.9720097,True
+1696057,7,Canadair,7,Canadair,0.98629236,True
+0916246,7,Canadair,7,Canadair,0.9954932,True
+2183366,7,Canadair,7,Canadair,0.88251615,True
+0650211,7,Canadair,7,Canadair,0.6702299,True
+0880309,7,Canadair,7,Canadair,0.98882186,True
+0065406,7,Canadair,21,McDonnell Douglas,0.46049282,False
+0181723,7,Canadair,7,Canadair,0.7896825,True
+2231271,7,Canadair,7,Canadair,0.25928625,True
+0958484,7,Canadair,7,Canadair,0.9040862,True
+0977248,7,Canadair,7,Canadair,0.5889548,True
+2198151,7,Canadair,13,Embraer,0.5311652,False
+1060226,7,Canadair,7,Canadair,0.989135,True
+0487363,7,Canadair,7,Canadair,0.8557985,True
+1426707,7,Canadair,7,Canadair,0.6328692,True
+0227144,7,Canadair,7,Canadair,0.60515046,True
+1531909,7,Canadair,7,Canadair,0.9603646,True
+1921769,7,Canadair,7,Canadair,0.6678704,True
+1182683,7,Canadair,4,Boeing,0.71232826,False
+0841712,7,Canadair,1,Airbus,0.5620606,False
+0922754,7,Canadair,7,Canadair,0.99892956,True
+0701629,7,Canadair,4,Boeing,0.6642791,False
+0866582,7,Canadair,7,Canadair,0.9796586,True
+1601262,7,Canadair,7,Canadair,0.52683884,True
+1288668,7,Canadair,7,Canadair,0.67086226,True
+1299978,7,Canadair,7,Canadair,0.99486226,True
+0928613,7,Canadair,7,Canadair,0.9995291,True
+0225469,7,Canadair,7,Canadair,0.97605735,True
+0523111,7,Canadair,7,Canadair,0.96046925,True
+0895892,7,Canadair,7,Canadair,0.95966816,True
+0907437,7,Canadair,7,Canadair,0.9625837,True
+1990014,7,Canadair,7,Canadair,0.9915276,True
+1742638,7,Canadair,7,Canadair,0.7293318,True
+1414836,7,Canadair,7,Canadair,0.6597769,True
+1246713,7,Canadair,7,Canadair,0.9663921,True
+1698615,7,Canadair,7,Canadair,0.9954301,True
+1387820,7,Canadair,7,Canadair,0.8935587,True
+1109944,7,Canadair,7,Canadair,0.9913573,True
+1473973,7,Canadair,7,Canadair,0.44600073,True
+0243476,7,Canadair,7,Canadair,0.87776685,True
+0383407,7,Canadair,4,Boeing,0.50249684,False
+1206458,7,Canadair,7,Canadair,0.9713381,True
+1608287,7,Canadair,7,Canadair,0.74733824,True
+1240500,7,Canadair,7,Canadair,0.9721016,True
+2124891,7,Canadair,7,Canadair,0.88378274,True
+0386926,7,Canadair,7,Canadair,0.816934,True
+0312400,7,Canadair,7,Canadair,0.89904445,True
+0490833,7,Canadair,21,McDonnell Douglas,0.48090518,False
+0354453,7,Canadair,7,Canadair,0.98835725,True
+0361101,7,Canadair,7,Canadair,0.8007705,True
+2123149,7,Canadair,7,Canadair,0.9708457,True
+1100466,7,Canadair,7,Canadair,0.99027526,True
+0988559,7,Canadair,4,Boeing,0.5166461,False
+0209760,7,Canadair,13,Embraer,0.8023613,False
+0521261,7,Canadair,4,Boeing,0.6580598,False
+1692500,7,Canadair,7,Canadair,0.9312954,True
+2239753,7,Canadair,5,Bombardier Aerospace,0.72481644,False
+1759327,7,Canadair,7,Canadair,0.8673287,True
+1152155,7,Canadair,7,Canadair,0.415322,True
+1717925,7,Canadair,7,Canadair,0.75863224,True
+0328525,7,Canadair,7,Canadair,0.7740992,True
+1426526,7,Canadair,13,Embraer,0.63736945,False
+1982724,7,Canadair,7,Canadair,0.899823,True
+0914134,7,Canadair,7,Canadair,0.6509787,True
+1001818,7,Canadair,7,Canadair,0.42132348,True
+0550295,7,Canadair,13,Embraer,0.5043484,False
+0312421,7,Canadair,7,Canadair,0.97357464,True
+1956504,7,Canadair,21,McDonnell Douglas,0.45771462,False
+2167369,7,Canadair,7,Canadair,0.9521161,True
+1358472,7,Canadair,7,Canadair,0.99609876,True
+1873333,7,Canadair,7,Canadair,0.7474132,True
+1053558,7,Canadair,7,Canadair,0.99413955,True
+1155014,7,Canadair,21,McDonnell Douglas,0.5370251,False
+2200403,7,Canadair,7,Canadair,0.7330847,True
+2076551,7,Canadair,7,Canadair,0.5405935,True
+1088809,7,Canadair,7,Canadair,0.9361192,True
+1259151,7,Canadair,21,McDonnell Douglas,0.7019048,False
+1727705,7,Canadair,7,Canadair,0.89848876,True
+1393350,7,Canadair,7,Canadair,0.9940181,True
+2194210,7,Canadair,7,Canadair,0.9113237,True
+1258559,7,Canadair,7,Canadair,0.88554853,True
+2176477,7,Canadair,21,McDonnell Douglas,0.78126323,False
+1401606,7,Canadair,21,McDonnell Douglas,0.46002704,False
+1163812,7,Canadair,21,McDonnell Douglas,0.57681197,False
+1457541,7,Canadair,7,Canadair,0.9354398,True
+1364804,7,Canadair,7,Canadair,0.9060792,True
+1255844,7,Canadair,7,Canadair,0.84390295,True
+1464135,7,Canadair,7,Canadair,0.22721557,True
+1869389,7,Canadair,13,Embraer,0.6276824,False
+1806584,7,Canadair,7,Canadair,0.99365634,True
+1834899,7,Canadair,7,Canadair,0.43534544,True
+1975737,7,Canadair,7,Canadair,0.9654575,True
+1810935,7,Canadair,7,Canadair,0.84201425,True
+1540396,7,Canadair,4,Boeing,0.80334693,False
+1221335,7,Canadair,7,Canadair,0.76583225,True
+1719924,7,Canadair,17,Gulfstream Aerospace,0.37369362,False
+1292386,7,Canadair,7,Canadair,0.9962598,True
+1283646,7,Canadair,7,Canadair,0.8674392,True
+1861815,7,Canadair,16,Fokker,0.55963856,False
+1483143,7,Canadair,7,Canadair,0.9653188,True
+1605923,8,Cessna,8,Cessna,0.8442255,True
+1560636,8,Cessna,8,Cessna,0.9692787,True
+1396258,8,Cessna,8,Cessna,0.9979836,True
+2172533,8,Cessna,8,Cessna,0.43792364,True
+1726922,8,Cessna,8,Cessna,0.40811616,True
+1892613,8,Cessna,1,Airbus,0.30056915,False
+1956487,8,Cessna,8,Cessna,0.9465704,True
+1217074,8,Cessna,8,Cessna,0.9706317,True
+1658851,8,Cessna,8,Cessna,0.9747499,True
+1829871,8,Cessna,8,Cessna,0.97372663,True
+0744300,8,Cessna,8,Cessna,0.51797056,True
+1194001,8,Cessna,8,Cessna,0.81424147,True
+1324595,8,Cessna,8,Cessna,0.36825645,True
+2111679,8,Cessna,8,Cessna,0.9151575,True
+1093290,8,Cessna,8,Cessna,0.97619575,True
+1125994,8,Cessna,8,Cessna,0.36221614,True
+1731827,8,Cessna,8,Cessna,0.93488216,True
+1283206,8,Cessna,8,Cessna,0.8595541,True
+2072892,8,Cessna,9,Cirrus Aircraft,0.8164104,False
+1955377,8,Cessna,8,Cessna,0.85251474,True
+1357987,8,Cessna,8,Cessna,0.9998227,True
+1170071,8,Cessna,8,Cessna,0.9615557,True
+2240083,8,Cessna,9,Cirrus Aircraft,0.6273791,False
+1928115,8,Cessna,8,Cessna,0.9311077,True
+1164982,8,Cessna,8,Cessna,0.9476592,True
+1623632,8,Cessna,8,Cessna,0.99803346,True
+1495768,8,Cessna,8,Cessna,0.7123616,True
+1690728,8,Cessna,8,Cessna,0.8433272,True
+0779327,8,Cessna,8,Cessna,0.2491431,True
+1395799,8,Cessna,8,Cessna,0.97838485,True
+0544844,8,Cessna,8,Cessna,0.97345406,True
+1703860,8,Cessna,8,Cessna,0.9818233,True
+1103400,8,Cessna,8,Cessna,0.9978557,True
+2204066,8,Cessna,8,Cessna,0.9212107,True
+1606037,8,Cessna,8,Cessna,0.92248356,True
+2259451,8,Cessna,8,Cessna,0.51021886,True
+1526601,8,Cessna,8,Cessna,0.5957797,True
+1217071,8,Cessna,23,Piper,0.36656326,False
+1259623,8,Cessna,8,Cessna,0.803583,True
+1308317,8,Cessna,8,Cessna,0.48612353,True
+1525673,8,Cessna,8,Cessna,0.92369276,True
+1158363,8,Cessna,8,Cessna,0.9957444,True
+0979612,8,Cessna,8,Cessna,0.9176147,True
+2111853,8,Cessna,29,de Havilland,0.38901597,False
+1510644,8,Cessna,8,Cessna,0.9488583,True
+2100018,8,Cessna,12,Douglas Aircraft Company,0.5182404,False
+0492475,8,Cessna,8,Cessna,0.9993761,True
+1969049,8,Cessna,29,de Havilland,0.23811133,False
+0078400,8,Cessna,8,Cessna,0.99614537,True
+1337428,8,Cessna,8,Cessna,0.9870657,True
+2239587,8,Cessna,29,de Havilland,0.77802247,False
+0302204,8,Cessna,8,Cessna,0.85850996,True
+2151013,8,Cessna,8,Cessna,0.7499643,True
+2107238,8,Cessna,29,de Havilland,0.53022844,False
+1382000,8,Cessna,8,Cessna,0.993359,True
+0523033,8,Cessna,8,Cessna,0.99609876,True
+0761960,8,Cessna,8,Cessna,0.9747663,True
+2067268,8,Cessna,8,Cessna,0.99961936,True
+0157278,8,Cessna,15,Fairchild,0.62236255,False
+2139351,8,Cessna,8,Cessna,0.99928373,True
+1031503,8,Cessna,8,Cessna,0.81697375,True
+1215875,8,Cessna,8,Cessna,0.9564932,True
+1340613,8,Cessna,8,Cessna,0.24433936,True
+1158325,8,Cessna,8,Cessna,0.99023634,True
+1926830,8,Cessna,8,Cessna,0.6582242,True
+0082500,8,Cessna,8,Cessna,0.50190425,True
+1767276,8,Cessna,8,Cessna,0.9999852,True
+2018768,8,Cessna,8,Cessna,0.8187297,True
+1927638,8,Cessna,8,Cessna,0.9973725,True
+2190740,8,Cessna,8,Cessna,0.9752163,True
+1861737,8,Cessna,8,Cessna,0.8328185,True
+1889566,8,Cessna,8,Cessna,0.98710096,True
+1381998,8,Cessna,8,Cessna,0.23101763,True
+1095184,8,Cessna,8,Cessna,0.98938155,True
+1796970,8,Cessna,8,Cessna,0.98758346,True
+1762803,8,Cessna,8,Cessna,0.98946595,True
+1046468,8,Cessna,3,Beechcraft,0.6190754,False
+2190848,8,Cessna,7,Canadair,0.4115535,False
+2266336,8,Cessna,8,Cessna,0.9836807,True
+1305611,8,Cessna,8,Cessna,0.5237941,True
+1967054,8,Cessna,8,Cessna,0.9852643,True
+1308404,8,Cessna,8,Cessna,0.95173913,True
+1807114,8,Cessna,8,Cessna,0.988518,True
+0796349,8,Cessna,29,de Havilland,0.71091306,False
+1806227,8,Cessna,8,Cessna,0.23311122,True
+1476061,8,Cessna,6,British Aerospace,0.9401794,False
+2228978,8,Cessna,8,Cessna,0.51719785,True
+2072231,8,Cessna,13,Embraer,0.3098057,False
+1561986,8,Cessna,8,Cessna,0.36913338,True
+1769000,8,Cessna,8,Cessna,0.9993711,True
+1468399,8,Cessna,7,Canadair,0.36495504,False
+0859229,8,Cessna,7,Canadair,0.7045921,False
+1304344,8,Cessna,8,Cessna,0.93350077,True
+1655252,8,Cessna,8,Cessna,0.63016605,True
+2013386,8,Cessna,8,Cessna,0.7276009,True
+1480422,8,Cessna,13,Embraer,0.6048586,False
+2161158,8,Cessna,8,Cessna,0.85828334,True
+1310123,8,Cessna,8,Cessna,0.9014571,True
+2135566,8,Cessna,8,Cessna,0.996046,True
+1124590,8,Cessna,3,Beechcraft,0.6573602,False
+0446944,8,Cessna,17,Gulfstream Aerospace,0.32288805,False
+1333183,8,Cessna,8,Cessna,0.8985303,True
+0901473,8,Cessna,8,Cessna,0.9470066,True
+1647665,8,Cessna,3,Beechcraft,0.6998534,False
+2255571,8,Cessna,8,Cessna,0.9577018,True
+1468400,8,Cessna,8,Cessna,0.94536966,True
+2116329,8,Cessna,8,Cessna,0.48779315,True
+0225634,8,Cessna,13,Embraer,0.2895326,False
+1363662,8,Cessna,8,Cessna,0.9301367,True
+2188604,8,Cessna,8,Cessna,0.90244395,True
+0880582,8,Cessna,8,Cessna,0.8488767,True
+1062970,8,Cessna,1,Airbus,0.6321081,False
+1040656,8,Cessna,8,Cessna,0.98089004,True
+1388499,8,Cessna,8,Cessna,0.9961993,True
+1336582,8,Cessna,8,Cessna,0.916055,True
+1321494,8,Cessna,3,Beechcraft,0.33965835,False
+1329158,8,Cessna,8,Cessna,0.82217646,True
+1963559,8,Cessna,8,Cessna,0.84029603,True
+2207610,8,Cessna,8,Cessna,0.98476636,True
+1508811,8,Cessna,8,Cessna,0.9376059,True
+2229401,8,Cessna,3,Beechcraft,0.5033869,False
+0741298,8,Cessna,8,Cessna,0.6229226,True
+0951126,8,Cessna,10,Dassault Aviation,0.9297792,False
+1768807,8,Cessna,8,Cessna,0.9051186,True
+2137161,8,Cessna,8,Cessna,0.8658015,True
+2234272,8,Cessna,8,Cessna,0.47408754,True
+1641833,8,Cessna,8,Cessna,0.9390225,True
+1608084,8,Cessna,8,Cessna,0.9295791,True
+1545982,8,Cessna,8,Cessna,0.97954893,True
+2175263,8,Cessna,8,Cessna,0.39518872,True
+1934357,8,Cessna,8,Cessna,0.9595845,True
+1362530,8,Cessna,8,Cessna,0.664209,True
+1032301,8,Cessna,8,Cessna,0.9430309,True
+1279709,8,Cessna,8,Cessna,0.9099946,True
+0126141,7,Canadair,7,Canadair,0.88543963,True
+2045488,7,Canadair,7,Canadair,0.6931094,True
+1230221,7,Canadair,7,Canadair,0.6427971,True
+1379044,7,Canadair,7,Canadair,0.9713175,True
+0781083,7,Canadair,7,Canadair,0.7415201,True
+1364299,7,Canadair,7,Canadair,0.73517776,True
+1240939,7,Canadair,7,Canadair,0.7671768,True
+2185923,7,Canadair,7,Canadair,0.79263353,True
+1275786,7,Canadair,7,Canadair,0.5979682,True
+2169120,7,Canadair,7,Canadair,0.995484,True
+0780417,7,Canadair,7,Canadair,0.9214847,True
+0571575,7,Canadair,7,Canadair,0.9562084,True
+2033052,7,Canadair,7,Canadair,0.64061457,True
+1069042,7,Canadair,7,Canadair,0.6470246,True
+0988971,7,Canadair,7,Canadair,0.9881479,True
+0683594,7,Canadair,7,Canadair,0.51234573,True
+0789676,7,Canadair,7,Canadair,0.76247996,True
+1223342,7,Canadair,7,Canadair,0.99726033,True
+0065328,7,Canadair,7,Canadair,0.37414807,True
+1468661,7,Canadair,7,Canadair,0.9416125,True
+1028854,7,Canadair,7,Canadair,0.68634945,True
+1023005,7,Canadair,7,Canadair,0.89286923,True
+1444712,7,Canadair,7,Canadair,0.9747303,True
+1853951,7,Canadair,7,Canadair,0.57376796,True
+0525849,7,Canadair,7,Canadair,0.87485814,True
+0909856,7,Canadair,8,Cessna,0.7182049,False
+1151616,7,Canadair,7,Canadair,0.613698,True
+1423648,7,Canadair,7,Canadair,0.25657907,True
+0705082,7,Canadair,21,McDonnell Douglas,0.38633996,False
+1158365,7,Canadair,7,Canadair,0.96303624,True
+1394145,7,Canadair,7,Canadair,0.9761782,True
+2213541,7,Canadair,8,Cessna,0.44977066,False
+1522559,7,Canadair,7,Canadair,0.852657,True
+0091257,21,McDonnell Douglas,21,McDonnell Douglas,0.98388416,True
+0043890,21,McDonnell Douglas,4,Boeing,0.41164404,False
+0065207,21,McDonnell Douglas,1,Airbus,0.33659887,False
+0678983,21,McDonnell Douglas,4,Boeing,0.98865825,False
+0536340,21,McDonnell Douglas,21,McDonnell Douglas,0.77694756,True
+0333816,21,McDonnell Douglas,4,Boeing,0.86980623,False
+0205769,21,McDonnell Douglas,4,Boeing,0.4578922,False
+0574287,21,McDonnell Douglas,21,McDonnell Douglas,0.90640676,True
+0923550,21,McDonnell Douglas,21,McDonnell Douglas,0.7159948,True
+1002749,21,McDonnell Douglas,21,McDonnell Douglas,0.4623405,True
+0063838,21,McDonnell Douglas,21,McDonnell Douglas,0.8693058,True
+1448066,21,McDonnell Douglas,1,Airbus,0.59310573,False
+0143351,21,McDonnell Douglas,4,Boeing,0.4923512,False
+0136174,21,McDonnell Douglas,21,McDonnell Douglas,0.6020897,True
+1363954,21,McDonnell Douglas,4,Boeing,0.9455058,False
+1314181,21,McDonnell Douglas,4,Boeing,0.790163,False
+0487317,21,McDonnell Douglas,4,Boeing,0.711642,False
+1089016,21,McDonnell Douglas,21,McDonnell Douglas,0.5191732,True
+0143354,21,McDonnell Douglas,4,Boeing,0.32204694,False
+0187248,21,McDonnell Douglas,4,Boeing,0.73256284,False
+1113208,21,McDonnell Douglas,21,McDonnell Douglas,0.5873655,True
+1190656,21,McDonnell Douglas,21,McDonnell Douglas,0.90497875,True
+0066521,21,McDonnell Douglas,1,Airbus,0.49486715,False
+0677579,21,McDonnell Douglas,21,McDonnell Douglas,0.6920144,True
+0901363,21,McDonnell Douglas,21,McDonnell Douglas,0.4606816,True
+1013524,21,McDonnell Douglas,21,McDonnell Douglas,0.574025,True
+1017202,21,McDonnell Douglas,4,Boeing,0.8503822,False
+0894213,21,McDonnell Douglas,4,Boeing,0.46278554,False
+0450544,21,McDonnell Douglas,4,Boeing,0.897259,False
+0536338,21,McDonnell Douglas,21,McDonnell Douglas,0.48510632,True
+0063059,21,McDonnell Douglas,21,McDonnell Douglas,0.7700382,True
+0568803,21,McDonnell Douglas,21,McDonnell Douglas,0.5693544,True
+0540272,21,McDonnell Douglas,1,Airbus,0.5629974,False
+2223262,12,Douglas Aircraft Company,12,Douglas Aircraft Company,0.99042577,True
+0632012,12,Douglas Aircraft Company,12,Douglas Aircraft Company,0.99977785,True
+0708633,12,Douglas Aircraft Company,12,Douglas Aircraft Company,0.53460675,True
+0525555,12,Douglas Aircraft Company,4,Boeing,0.7321088,False
+0539185,12,Douglas Aircraft Company,12,Douglas Aircraft Company,0.9900073,True
+0544833,12,Douglas Aircraft Company,12,Douglas Aircraft Company,0.9840704,True
+1036828,12,Douglas Aircraft Company,12,Douglas Aircraft Company,0.9992269,True
+1751866,12,Douglas Aircraft Company,12,Douglas Aircraft Company,0.6496149,True
+0547337,12,Douglas Aircraft Company,12,Douglas Aircraft Company,0.9984654,True
+0539191,12,Douglas Aircraft Company,12,Douglas Aircraft Company,0.94699377,True
+0548761,12,Douglas Aircraft Company,12,Douglas Aircraft Company,0.9999517,True
+1338570,12,Douglas Aircraft Company,12,Douglas Aircraft Company,0.8707148,True
+1744484,12,Douglas Aircraft Company,12,Douglas Aircraft Company,0.84349066,True
+1036827,12,Douglas Aircraft Company,12,Douglas Aircraft Company,0.702385,True
+0539189,12,Douglas Aircraft Company,12,Douglas Aircraft Company,0.99958426,True
+1236289,12,Douglas Aircraft Company,12,Douglas Aircraft Company,0.79839736,True
+1828039,12,Douglas Aircraft Company,8,Cessna,0.78308594,False
+0554722,12,Douglas Aircraft Company,12,Douglas Aircraft Company,0.9880155,True
+1139864,12,Douglas Aircraft Company,12,Douglas Aircraft Company,0.9982843,True
+0548499,12,Douglas Aircraft Company,12,Douglas Aircraft Company,0.4573218,True
+0554934,12,Douglas Aircraft Company,29,de Havilland,0.39140657,False
+0422856,12,Douglas Aircraft Company,4,Boeing,0.89538586,False
+0806578,12,Douglas Aircraft Company,12,Douglas Aircraft Company,0.9989046,True
+0767912,12,Douglas Aircraft Company,12,Douglas Aircraft Company,0.99987113,True
+0236037,12,Douglas Aircraft Company,12,Douglas Aircraft Company,0.964793,True
+1002746,12,Douglas Aircraft Company,12,Douglas Aircraft Company,0.993874,True
+0773531,12,Douglas Aircraft Company,12,Douglas Aircraft Company,0.9763407,True
+2223256,12,Douglas Aircraft Company,13,Embraer,0.25241545,False
+0563774,12,Douglas Aircraft Company,12,Douglas Aircraft Company,0.99014866,True
+0713823,12,Douglas Aircraft Company,4,Boeing,0.7534358,False
+1031443,12,Douglas Aircraft Company,12,Douglas Aircraft Company,0.9910465,True
+0551835,12,Douglas Aircraft Company,12,Douglas Aircraft Company,0.9864841,True
+0593819,12,Douglas Aircraft Company,12,Douglas Aircraft Company,0.6589965,True
+1274483,12,Douglas Aircraft Company,12,Douglas Aircraft Company,0.9826067,True
+1316035,12,Douglas Aircraft Company,12,Douglas Aircraft Company,0.47044668,True
+0725711,12,Douglas Aircraft Company,12,Douglas Aircraft Company,0.32638258,True
+0727631,12,Douglas Aircraft Company,12,Douglas Aircraft Company,0.9931201,True
+1292390,12,Douglas Aircraft Company,4,Boeing,0.5182121,False
+0619977,12,Douglas Aircraft Company,12,Douglas Aircraft Company,0.87534463,True
+0725666,12,Douglas Aircraft Company,12,Douglas Aircraft Company,0.99941695,True
+1762224,12,Douglas Aircraft Company,12,Douglas Aircraft Company,0.33056876,True
+0554928,12,Douglas Aircraft Company,12,Douglas Aircraft Company,0.8352105,True
+0554640,12,Douglas Aircraft Company,12,Douglas Aircraft Company,0.954272,True
+0548478,12,Douglas Aircraft Company,12,Douglas Aircraft Company,0.99961984,True
+0956802,12,Douglas Aircraft Company,12,Douglas Aircraft Company,0.9857838,True
+0563866,12,Douglas Aircraft Company,12,Douglas Aircraft Company,0.9965718,True
+2121969,12,Douglas Aircraft Company,12,Douglas Aircraft Company,0.3113538,True
+0576250,12,Douglas Aircraft Company,19,Lockheed Corporation,0.57221556,False
+0950429,12,Douglas Aircraft Company,4,Boeing,0.34515345,False
+0545058,12,Douglas Aircraft Company,12,Douglas Aircraft Company,0.9984737,True
+0538371,12,Douglas Aircraft Company,12,Douglas Aircraft Company,0.38105094,True
+1338873,12,Douglas Aircraft Company,12,Douglas Aircraft Company,0.99446917,True
+0554718,12,Douglas Aircraft Company,12,Douglas Aircraft Company,0.99428153,True
+1785545,12,Douglas Aircraft Company,12,Douglas Aircraft Company,0.9001549,True
+1456007,12,Douglas Aircraft Company,12,Douglas Aircraft Company,0.99030507,True
+1517850,12,Douglas Aircraft Company,12,Douglas Aircraft Company,0.9779791,True
+1937368,12,Douglas Aircraft Company,12,Douglas Aircraft Company,0.833448,True
+0730398,12,Douglas Aircraft Company,12,Douglas Aircraft Company,0.99886984,True
+0620009,12,Douglas Aircraft Company,12,Douglas Aircraft Company,0.9999558,True
+0102560,12,Douglas Aircraft Company,12,Douglas Aircraft Company,0.44054928,True
+1568883,12,Douglas Aircraft Company,12,Douglas Aircraft Company,0.95752835,True
+0547008,12,Douglas Aircraft Company,12,Douglas Aircraft Company,0.9961124,True
+0648034,12,Douglas Aircraft Company,12,Douglas Aircraft Company,0.94283444,True
+0438668,12,Douglas Aircraft Company,8,Cessna,0.32893136,False
+0901533,12,Douglas Aircraft Company,12,Douglas Aircraft Company,0.999464,True
+0539791,12,Douglas Aircraft Company,12,Douglas Aircraft Company,0.4908727,True
+1316960,12,Douglas Aircraft Company,22,Panavia,0.4610342,False
+1002431,12,Douglas Aircraft Company,4,Boeing,0.885918,False
+1428985,12,Douglas Aircraft Company,1,Airbus,0.8125016,False
+0765750,12,Douglas Aircraft Company,4,Boeing,0.9537659,False
+0640660,12,Douglas Aircraft Company,12,Douglas Aircraft Company,0.61014205,True
+1201877,12,Douglas Aircraft Company,4,Boeing,0.54751766,False
+0956798,12,Douglas Aircraft Company,4,Boeing,0.53380394,False
+0177063,12,Douglas Aircraft Company,4,Boeing,0.73610806,False
+1426920,12,Douglas Aircraft Company,4,Boeing,0.7983993,False
+0219265,12,Douglas Aircraft Company,1,Airbus,0.62615085,False
+0993951,12,Douglas Aircraft Company,4,Boeing,0.7228533,False
+1050604,12,Douglas Aircraft Company,1,Airbus,0.9746653,False
+1343589,12,Douglas Aircraft Company,12,Douglas Aircraft Company,0.675157,True
+0608863,12,Douglas Aircraft Company,12,Douglas Aircraft Company,0.9212324,True
+0395643,12,Douglas Aircraft Company,4,Boeing,0.7746302,False
+1349066,12,Douglas Aircraft Company,4,Boeing,0.79324096,False
+1818866,12,Douglas Aircraft Company,4,Boeing,0.9597687,False
+0092971,12,Douglas Aircraft Company,21,McDonnell Douglas,0.7135964,False
+1193567,12,Douglas Aircraft Company,4,Boeing,0.71525896,False
+0109630,12,Douglas Aircraft Company,4,Boeing,0.8126773,False
+0718917,12,Douglas Aircraft Company,12,Douglas Aircraft Company,0.77940094,True
+0987741,12,Douglas Aircraft Company,4,Boeing,0.86934346,False
+0901457,12,Douglas Aircraft Company,12,Douglas Aircraft Company,0.74583,True
+0880592,12,Douglas Aircraft Company,4,Boeing,0.8883195,False
+0721412,12,Douglas Aircraft Company,4,Boeing,0.8734182,False
+0065405,12,Douglas Aircraft Company,21,McDonnell Douglas,0.71466035,False
+0179069,12,Douglas Aircraft Company,1,Airbus,0.8846455,False
+1168800,12,Douglas Aircraft Company,21,McDonnell Douglas,0.6886761,False
+0989090,12,Douglas Aircraft Company,12,Douglas Aircraft Company,0.63475186,True
+0643700,12,Douglas Aircraft Company,4,Boeing,0.59453887,False
+0522981,12,Douglas Aircraft Company,4,Boeing,0.72011644,False
+0536312,12,Douglas Aircraft Company,4,Boeing,0.9546361,False
+1317750,12,Douglas Aircraft Company,19,Lockheed Corporation,0.6575216,False
+0694464,12,Douglas Aircraft Company,4,Boeing,0.3242481,False
+0133434,21,McDonnell Douglas,4,Boeing,0.8361891,False
+0248131,21,McDonnell Douglas,4,Boeing,0.8846572,False
+0477027,21,McDonnell Douglas,4,Boeing,0.9459466,False
+1329317,21,McDonnell Douglas,4,Boeing,0.49357387,False
+0116702,21,McDonnell Douglas,4,Boeing,0.90446323,False
+0062134,21,McDonnell Douglas,19,Lockheed Corporation,0.8088572,False
+1197204,21,McDonnell Douglas,21,McDonnell Douglas,0.875077,True
+1713266,21,McDonnell Douglas,21,McDonnell Douglas,0.9229832,True
+1377250,21,McDonnell Douglas,4,Boeing,0.8446028,False
+0143378,21,McDonnell Douglas,4,Boeing,0.95321006,False
+0564155,21,McDonnell Douglas,21,McDonnell Douglas,0.85728705,True
+0182190,21,McDonnell Douglas,4,Boeing,0.8403675,False
+0136193,21,McDonnell Douglas,21,McDonnell Douglas,0.26584572,True
+0907380,21,McDonnell Douglas,21,McDonnell Douglas,0.7857022,True
+0923548,21,McDonnell Douglas,21,McDonnell Douglas,0.7504572,True
+0441018,21,McDonnell Douglas,4,Boeing,0.7601726,False
+0064793,21,McDonnell Douglas,4,Boeing,0.47019875,False
+0108172,21,McDonnell Douglas,21,McDonnell Douglas,0.64711946,True
+1745942,21,McDonnell Douglas,4,Boeing,0.7665621,False
+0704547,21,McDonnell Douglas,4,Boeing,0.97923934,False
+0133438,21,McDonnell Douglas,4,Boeing,0.68753165,False
+1376993,21,McDonnell Douglas,29,de Havilland,0.30729622,False
+1707909,21,McDonnell Douglas,4,Boeing,0.9329871,False
+1312496,21,McDonnell Douglas,4,Boeing,0.59629655,False
+0457831,21,McDonnell Douglas,4,Boeing,0.8042149,False
+1776869,21,McDonnell Douglas,29,de Havilland,0.27580142,False
+1296942,21,McDonnell Douglas,21,McDonnell Douglas,0.59815395,True
+0551249,21,McDonnell Douglas,4,Boeing,0.84641206,False
+0813373,21,McDonnell Douglas,4,Boeing,0.6971724,False
+1190643,21,McDonnell Douglas,21,McDonnell Douglas,0.51978815,True
+1002382,21,McDonnell Douglas,4,Boeing,0.8185144,False
+0901518,21,McDonnell Douglas,21,McDonnell Douglas,0.94807935,True
+0409535,21,McDonnell Douglas,4,Boeing,0.994478,False
+0875346,21,McDonnell Douglas,4,Boeing,0.6820777,False
+0788163,29,de Havilland,29,de Havilland,0.95176476,True
+1529298,29,de Havilland,29,de Havilland,0.7855848,True
+1195235,29,de Havilland,29,de Havilland,0.9995296,True
+1499332,29,de Havilland,29,de Havilland,0.9725046,True
+0730318,29,de Havilland,29,de Havilland,0.9985201,True
+0885288,29,de Havilland,29,de Havilland,0.9992378,True
+1696301,29,de Havilland,29,de Havilland,0.987483,True
+1928769,29,de Havilland,29,de Havilland,0.68549436,True
+1706500,29,de Havilland,29,de Havilland,0.9139258,True
+2106391,29,de Havilland,29,de Havilland,0.79384637,True
+1553876,29,de Havilland,29,de Havilland,0.99943846,True
+2195297,29,de Havilland,29,de Havilland,0.9947372,True
+0911710,29,de Havilland,29,de Havilland,0.9620637,True
+2215054,29,de Havilland,29,de Havilland,0.9847578,True
+1934561,29,de Havilland,29,de Havilland,0.9942696,True
+1260718,29,de Havilland,29,de Havilland,0.7310504,True
+1744483,29,de Havilland,29,de Havilland,0.99978477,True
+1980186,29,de Havilland,29,de Havilland,0.9997186,True
+1384679,29,de Havilland,29,de Havilland,0.9506775,True
+1979290,29,de Havilland,29,de Havilland,0.4917352,True
+1302570,29,de Havilland,29,de Havilland,0.82263434,True
+1115130,29,de Havilland,29,de Havilland,0.99932635,True
+0877674,29,de Havilland,29,de Havilland,0.82218266,True
+1369785,29,de Havilland,29,de Havilland,0.99042916,True
+0914477,29,de Havilland,29,de Havilland,0.98617923,True
+1422217,29,de Havilland,29,de Havilland,0.9259903,True
+1001809,29,de Havilland,29,de Havilland,0.9512686,True
+1472410,29,de Havilland,12,Douglas Aircraft Company,0.26026306,False
+1767081,29,de Havilland,29,de Havilland,0.99346864,True
+1673535,29,de Havilland,29,de Havilland,0.9991399,True
+1928845,29,de Havilland,29,de Havilland,0.9987025,True
+1773158,29,de Havilland,29,de Havilland,0.99039197,True
+1979306,29,de Havilland,29,de Havilland,0.79101694,True
+1369769,29,de Havilland,29,de Havilland,0.85830414,True
+1622728,29,de Havilland,29,de Havilland,0.45758712,True
+2180329,29,de Havilland,29,de Havilland,0.9976991,True
+1773176,29,de Havilland,29,de Havilland,0.90637463,True
+0743270,29,de Havilland,29,de Havilland,0.6025207,True
+0981290,29,de Havilland,29,de Havilland,0.9867495,True
+2158197,29,de Havilland,29,de Havilland,0.43992049,True
+1674645,29,de Havilland,29,de Havilland,0.6623576,True
+2074174,29,de Havilland,26,Supermarine,0.5862956,False
+1382206,29,de Havilland,29,de Havilland,0.81597,True
+2199430,29,de Havilland,29,de Havilland,0.90973943,True
+1570575,29,de Havilland,29,de Havilland,0.99935323,True
+1915066,29,de Havilland,25,Saab,0.24602924,False
+1738367,29,de Havilland,29,de Havilland,0.9802356,True
+1570890,29,de Havilland,29,de Havilland,0.85551876,True
+2165387,29,de Havilland,29,de Havilland,0.767177,True
+1368002,29,de Havilland,29,de Havilland,0.9992767,True
+1513734,29,de Havilland,29,de Havilland,0.9957273,True
+1237798,29,de Havilland,29,de Havilland,0.8647224,True
+1591269,29,de Havilland,29,de Havilland,0.5485503,True
+1533267,29,de Havilland,29,de Havilland,0.992378,True
+1378086,29,de Havilland,29,de Havilland,0.82002056,True
+1523427,29,de Havilland,29,de Havilland,0.85986733,True
+1738373,29,de Havilland,29,de Havilland,0.9243859,True
+1191372,29,de Havilland,29,de Havilland,0.9439322,True
+1119476,29,de Havilland,29,de Havilland,0.63240695,True
+1177272,29,de Havilland,29,de Havilland,0.9744728,True
+0765178,29,de Havilland,29,de Havilland,0.9994722,True
+1376745,29,de Havilland,12,Douglas Aircraft Company,0.6135768,False
+1768028,29,de Havilland,29,de Havilland,0.98828214,True
+2152684,29,de Havilland,29,de Havilland,0.99890363,True
+1337995,29,de Havilland,29,de Havilland,0.599917,True
+1770257,29,de Havilland,29,de Havilland,0.83433247,True
+0076795,29,de Havilland,7,Canadair,0.89893126,False
+2005735,29,de Havilland,29,de Havilland,0.9938928,True
+0908027,29,de Havilland,12,Douglas Aircraft Company,0.48762813,False
+1043782,29,de Havilland,29,de Havilland,0.8218579,True
+2003458,29,de Havilland,29,de Havilland,0.84314346,True
+1053502,29,de Havilland,29,de Havilland,0.6843289,True
+1008467,29,de Havilland,29,de Havilland,0.26244408,True
+0303914,29,de Havilland,29,de Havilland,0.9574186,True
+1997544,29,de Havilland,29,de Havilland,0.68510693,True
+2004744,29,de Havilland,29,de Havilland,0.9934121,True
+2220794,29,de Havilland,29,de Havilland,0.9752855,True
+1992125,29,de Havilland,29,de Havilland,0.99773645,True
+0738985,29,de Havilland,29,de Havilland,0.9924459,True
+2066356,29,de Havilland,8,Cessna,0.62984896,False
+1252819,29,de Havilland,29,de Havilland,0.9564053,True
+0712752,29,de Havilland,29,de Havilland,0.5167546,True
+1173007,29,de Havilland,29,de Havilland,0.9178076,True
+0564318,29,de Havilland,8,Cessna,0.53810954,False
+0302877,29,de Havilland,29,de Havilland,0.7489612,True
+2006288,29,de Havilland,29,de Havilland,0.9511642,True
+0182103,29,de Havilland,29,de Havilland,0.8565571,True
+0338375,29,de Havilland,29,de Havilland,0.76521486,True
+1009081,29,de Havilland,29,de Havilland,0.994618,True
+1991742,29,de Havilland,29,de Havilland,0.95659554,True
+1977444,29,de Havilland,8,Cessna,0.2008656,False
+0857553,29,de Havilland,8,Cessna,0.982113,False
+2008338,29,de Havilland,29,de Havilland,0.9994935,True
+1999441,29,de Havilland,29,de Havilland,0.99994826,True
+2002994,29,de Havilland,29,de Havilland,0.99969685,True
+0913620,29,de Havilland,1,Airbus,0.25074467,False
+1992617,29,de Havilland,29,de Havilland,0.8344021,True
+0735947,29,de Havilland,29,de Havilland,0.3202345,True
+2005736,29,de Havilland,29,de Havilland,0.9996617,True
+0734890,29,de Havilland,29,de Havilland,0.9993231,True
+1338364,29,de Havilland,29,de Havilland,0.84160006,True
+0095379,29,de Havilland,29,de Havilland,0.5543402,True
+0167124,29,de Havilland,29,de Havilland,0.73152494,True
+0313722,29,de Havilland,29,de Havilland,0.83014435,True
+0949750,29,de Havilland,29,de Havilland,0.9944561,True
+0321703,29,de Havilland,29,de Havilland,0.97917044,True
+0218791,29,de Havilland,7,Canadair,0.7038088,False
+1257119,29,de Havilland,29,de Havilland,0.724245,True
+1533629,29,de Havilland,29,de Havilland,0.936819,True
+1222395,29,de Havilland,29,de Havilland,0.3215662,True
+1136120,29,de Havilland,29,de Havilland,0.78257763,True
+0091403,29,de Havilland,29,de Havilland,0.57103455,True
+1043797,29,de Havilland,29,de Havilland,0.6473262,True
+0192881,29,de Havilland,8,Cessna,0.5384991,False
+0299623,29,de Havilland,29,de Havilland,0.9675446,True
+1334566,29,de Havilland,0,ATR,0.6494182,False
+0576232,29,de Havilland,29,de Havilland,0.67422366,True
+0072491,29,de Havilland,29,de Havilland,0.67737764,True
+0210366,29,de Havilland,29,de Havilland,0.9774638,True
+1251898,29,de Havilland,29,de Havilland,0.54810846,True
+0302290,29,de Havilland,29,de Havilland,0.91234964,True
+1772163,29,de Havilland,29,de Havilland,0.9757829,True
+0114407,29,de Havilland,29,de Havilland,0.7303306,True
+1378720,29,de Havilland,11,Dornier,0.36014232,False
+1422135,29,de Havilland,29,de Havilland,0.9620785,True
+1534695,29,de Havilland,29,de Havilland,0.89546657,True
+0413384,29,de Havilland,2,Antonov,0.56202847,False
+0537423,29,de Havilland,29,de Havilland,0.4315751,True
+2118163,29,de Havilland,29,de Havilland,0.7505305,True
+1023006,29,de Havilland,11,Dornier,0.83513725,False
+1088366,29,de Havilland,29,de Havilland,0.38363495,True
+1043726,29,de Havilland,29,de Havilland,0.89651877,True
+0693515,29,de Havilland,29,de Havilland,0.36837974,True
+0229943,29,de Havilland,29,de Havilland,0.98162097,True
+1983628,29,de Havilland,29,de Havilland,0.8900395,True
+1300481,29,de Havilland,29,de Havilland,0.90251493,True
+1146067,29,de Havilland,29,de Havilland,0.74088365,True
+1351312,29,de Havilland,29,de Havilland,0.566585,True
+2009849,29,de Havilland,16,Fokker,0.67841864,False
+0066278,29,de Havilland,29,de Havilland,0.97196984,True
+1225610,29,de Havilland,29,de Havilland,0.8457799,True
+0688075,29,de Havilland,11,Dornier,0.27228868,False
+0799381,29,de Havilland,29,de Havilland,0.9894093,True
+0836152,29,de Havilland,17,Gulfstream Aerospace,0.309723,False
+1784213,29,de Havilland,0,ATR,0.84712243,False
+1291373,29,de Havilland,29,de Havilland,0.729938,True
+2032655,29,de Havilland,29,de Havilland,0.88560826,True
+2163949,29,de Havilland,29,de Havilland,0.9811788,True
+2213539,29,de Havilland,8,Cessna,0.22865835,False
+2256413,29,de Havilland,0,ATR,0.31621248,False
+1837424,29,de Havilland,16,Fokker,0.8854624,False
+2169125,29,de Havilland,29,de Havilland,0.8236488,True
+2147235,29,de Havilland,0,ATR,0.6508191,False
+0255361,29,de Havilland,25,Saab,0.5173769,False
+0485221,29,de Havilland,29,de Havilland,0.82119954,True
+0302924,29,de Havilland,16,Fokker,0.5724124,False
+1600892,29,de Havilland,16,Fokker,0.75486326,False
+0457863,29,de Havilland,0,ATR,0.3259335,False
+1053554,29,de Havilland,25,Saab,0.25505218,False
+0522866,29,de Havilland,29,de Havilland,0.9469111,True
+0413905,29,de Havilland,0,ATR,0.41715893,False
+1143419,29,de Havilland,29,de Havilland,0.9379744,True
+2219553,29,de Havilland,8,Cessna,0.5688633,False
+0256999,29,de Havilland,29,de Havilland,0.5314401,True
+1885840,29,de Havilland,4,Boeing,0.24630776,False
+1326471,29,de Havilland,16,Fokker,0.71723056,False
+1357567,24,Robin,24,Robin,0.63910204,True
+2231688,24,Robin,24,Robin,0.9829584,True
+2166979,24,Robin,24,Robin,0.9923556,True
+1592961,24,Robin,24,Robin,0.9956872,True
+1829314,24,Robin,24,Robin,0.9939266,True
+2003512,24,Robin,24,Robin,0.8437724,True
+2229409,24,Robin,24,Robin,0.80170745,True
+1928761,24,Robin,24,Robin,0.769093,True
+2074641,24,Robin,24,Robin,0.64232343,True
+1329269,24,Robin,24,Robin,0.99783105,True
+1295011,24,Robin,24,Robin,0.9968014,True
+2236569,24,Robin,24,Robin,0.9760177,True
+2162056,24,Robin,24,Robin,0.99697006,True
+1408685,24,Robin,24,Robin,0.9925135,True
+1276588,24,Robin,24,Robin,0.9932795,True
+2011071,24,Robin,24,Robin,0.9424968,True
+1378082,24,Robin,24,Robin,0.9616604,True
+1374699,24,Robin,24,Robin,0.9838688,True
+2083823,24,Robin,24,Robin,0.8517333,True
+1339197,24,Robin,24,Robin,0.98701745,True
+1423710,24,Robin,24,Robin,0.79955524,True
+1586850,24,Robin,24,Robin,0.97822726,True
+1385878,24,Robin,24,Robin,0.7465757,True
+1581524,24,Robin,1,Airbus,0.9771235,False
+1348956,24,Robin,24,Robin,0.9919018,True
+1521970,24,Robin,24,Robin,0.7453533,True
+1388205,24,Robin,24,Robin,0.985282,True
+1428350,24,Robin,24,Robin,0.9880576,True
+1398420,24,Robin,24,Robin,0.53918254,True
+1821967,24,Robin,24,Robin,0.95985526,True
+2030080,24,Robin,24,Robin,0.8793926,True
+1827450,24,Robin,24,Robin,0.9480686,True
+1625116,24,Robin,24,Robin,0.9376607,True
+2185964,24,Robin,24,Robin,0.9687025,True
+1270714,11,Dornier,11,Dornier,0.99335504,True
+1426175,11,Dornier,11,Dornier,0.8240158,True
+0155602,11,Dornier,11,Dornier,0.5695362,True
+1763667,11,Dornier,11,Dornier,0.98752266,True
+1092039,11,Dornier,11,Dornier,0.9488621,True
+0278439,11,Dornier,13,Embraer,0.40002728,False
+2236758,11,Dornier,11,Dornier,0.37738633,True
+0909855,11,Dornier,29,de Havilland,0.390559,False
+0517628,11,Dornier,0,ATR,0.20992519,False
+0077517,11,Dornier,6,British Aerospace,0.6039905,False
+0908026,11,Dornier,29,de Havilland,0.64147997,False
+0921985,11,Dornier,11,Dornier,0.94791096,True
+1549180,11,Dornier,11,Dornier,0.8841336,True
+1268480,11,Dornier,11,Dornier,0.9837996,True
+0838486,11,Dornier,11,Dornier,0.41099083,True
+1931138,11,Dornier,11,Dornier,0.9930716,True
+0326676,11,Dornier,0,ATR,0.8728044,False
+0761149,11,Dornier,11,Dornier,0.63248456,True
+1281620,11,Dornier,6,British Aerospace,0.80567,False
+2166855,11,Dornier,11,Dornier,0.98691016,True
+1535205,11,Dornier,11,Dornier,0.5803213,True
+0628815,11,Dornier,11,Dornier,0.9931926,True
+1152778,11,Dornier,11,Dornier,0.48905855,True
+1202541,11,Dornier,11,Dornier,0.73140746,True
+1052538,11,Dornier,11,Dornier,0.9332026,True
+0143367,11,Dornier,16,Fokker,0.8489196,False
+2134405,11,Dornier,11,Dornier,0.84152853,True
+0357874,11,Dornier,13,Embraer,0.2607587,False
+0574360,11,Dornier,0,ATR,0.42517596,False
+0690637,11,Dornier,11,Dornier,0.75332,True
+0517627,11,Dornier,29,de Havilland,0.8633818,False
+0796384,11,Dornier,11,Dornier,0.8851158,True
+1261329,11,Dornier,6,British Aerospace,0.59835035,False
+1591312,13,Embraer,13,Embraer,0.3897981,True
+1634373,13,Embraer,13,Embraer,0.99068695,True
+1579853,13,Embraer,1,Airbus,0.92640597,False
+1461218,13,Embraer,13,Embraer,0.6790866,True
+0998786,13,Embraer,1,Airbus,0.52509105,False
+2107061,13,Embraer,13,Embraer,0.6007005,True
+1943476,13,Embraer,13,Embraer,0.5324104,True
+2190977,13,Embraer,13,Embraer,0.997718,True
+1444748,13,Embraer,13,Embraer,0.91039115,True
+1312536,13,Embraer,1,Airbus,0.8776323,False
+0381609,13,Embraer,13,Embraer,0.8031761,True
+1296201,13,Embraer,13,Embraer,0.93677086,True
+1879121,13,Embraer,13,Embraer,0.92538935,True
+1901160,13,Embraer,13,Embraer,0.9442176,True
+1259554,13,Embraer,1,Airbus,0.70667624,False
+1966298,13,Embraer,13,Embraer,0.8670899,True
+1008903,13,Embraer,1,Airbus,0.5314724,False
+1714236,13,Embraer,13,Embraer,0.9522579,True
+1602628,13,Embraer,13,Embraer,0.78689957,True
+1676582,13,Embraer,4,Boeing,0.55147725,False
+0661734,13,Embraer,21,McDonnell Douglas,0.51828045,False
+2117298,13,Embraer,13,Embraer,0.98685545,True
+0713593,13,Embraer,1,Airbus,0.94201195,False
+0944994,13,Embraer,13,Embraer,0.4503544,True
+0642071,13,Embraer,13,Embraer,0.4930448,True
+1169979,13,Embraer,13,Embraer,0.69736487,True
+0962643,13,Embraer,4,Boeing,0.6820488,False
+1900937,13,Embraer,4,Boeing,0.730115,False
+1375264,13,Embraer,13,Embraer,0.915762,True
+0717995,13,Embraer,1,Airbus,0.9993549,False
+1953630,13,Embraer,13,Embraer,0.7918819,True
+2063913,13,Embraer,1,Airbus,0.960169,False
+0972415,13,Embraer,4,Boeing,0.7237687,False
+2241970,13,Embraer,13,Embraer,0.6773628,True
+1644649,13,Embraer,13,Embraer,0.99477416,True
+1088603,13,Embraer,1,Airbus,0.515346,False
+1776825,13,Embraer,13,Embraer,0.8902369,True
+2057962,13,Embraer,13,Embraer,0.96907055,True
+1926205,13,Embraer,13,Embraer,0.92979145,True
+2220612,13,Embraer,13,Embraer,0.95038366,True
+1647313,13,Embraer,13,Embraer,0.9528663,True
+1826956,13,Embraer,13,Embraer,0.93693805,True
+1364919,13,Embraer,13,Embraer,0.95677793,True
+2158858,13,Embraer,13,Embraer,0.53158695,True
+1529275,13,Embraer,13,Embraer,0.9865422,True
+1943358,13,Embraer,13,Embraer,0.9347484,True
+1535181,13,Embraer,13,Embraer,0.97127986,True
+2056248,13,Embraer,1,Airbus,0.68366367,False
+1860580,13,Embraer,4,Boeing,0.8980271,False
+1714026,13,Embraer,4,Boeing,0.49467456,False
+2264828,13,Embraer,13,Embraer,0.9605085,True
+1351213,13,Embraer,13,Embraer,0.60191923,True
+2113949,13,Embraer,13,Embraer,0.77989256,True
+1458030,13,Embraer,13,Embraer,0.9912998,True
+1806208,13,Embraer,1,Airbus,0.8699761,False
+1510217,13,Embraer,13,Embraer,0.99918383,True
+2200427,13,Embraer,13,Embraer,0.94440174,True
+1086833,13,Embraer,4,Boeing,0.96873826,False
+2182128,13,Embraer,13,Embraer,0.44636804,True
+1999292,13,Embraer,13,Embraer,0.90629816,True
+1586117,13,Embraer,4,Boeing,0.9622743,False
+2152231,13,Embraer,13,Embraer,0.5900482,True
+2187801,13,Embraer,13,Embraer,0.8844327,True
+1545068,13,Embraer,4,Boeing,0.30440494,False
+1759298,13,Embraer,13,Embraer,0.9374839,True
+2134406,13,Embraer,1,Airbus,0.9780699,False
+1018933,13,Embraer,13,Embraer,0.98041177,True
+1520357,13,Embraer,13,Embraer,0.6016886,True
+2137129,13,Embraer,13,Embraer,0.9938194,True
+1549035,13,Embraer,13,Embraer,0.9617552,True
+1981537,13,Embraer,21,McDonnell Douglas,0.46120548,False
+2044260,13,Embraer,13,Embraer,0.87783253,True
+2169104,13,Embraer,13,Embraer,0.6847194,True
+1922722,13,Embraer,1,Airbus,0.5593554,False
+1594758,13,Embraer,13,Embraer,0.5262642,True
+2195128,13,Embraer,13,Embraer,0.49120325,True
+1469699,13,Embraer,13,Embraer,0.99558383,True
+1801182,13,Embraer,13,Embraer,0.98402417,True
+1659671,13,Embraer,13,Embraer,0.5731289,True
+1841489,13,Embraer,13,Embraer,0.63708097,True
+2253635,13,Embraer,4,Boeing,0.6851371,False
+2114112,13,Embraer,13,Embraer,0.7731275,True
+2060949,13,Embraer,13,Embraer,0.7095386,True
+1420016,13,Embraer,13,Embraer,0.6828352,True
+1736148,13,Embraer,13,Embraer,0.9279368,True
+1788034,13,Embraer,4,Boeing,0.38977712,False
+2209714,13,Embraer,13,Embraer,0.9613982,True
+0939519,13,Embraer,21,McDonnell Douglas,0.9073791,False
+1971194,13,Embraer,13,Embraer,0.976994,True
+1330195,13,Embraer,13,Embraer,0.9924225,True
+1796759,13,Embraer,13,Embraer,0.83634967,True
+2156795,13,Embraer,1,Airbus,0.49293458,False
+1679201,13,Embraer,13,Embraer,0.63277286,True
+1398982,13,Embraer,13,Embraer,0.8992433,True
+1367016,13,Embraer,13,Embraer,0.96502674,True
+2259453,13,Embraer,13,Embraer,0.98692364,True
+2094472,13,Embraer,13,Embraer,0.8370001,True
+1912564,13,Embraer,13,Embraer,0.4719098,True
+1917223,13,Embraer,13,Embraer,0.93677026,True
+1687909,13,Embraer,13,Embraer,0.982569,True
+1594735,13,Embraer,13,Embraer,0.71900004,True
+1103348,13,Embraer,25,Saab,0.36293086,False
+0657816,13,Embraer,4,Boeing,0.78276944,False
+0881386,13,Embraer,25,Saab,0.9257733,False
+0850831,13,Embraer,13,Embraer,0.4050104,True
+0574357,13,Embraer,13,Embraer,0.88369477,True
+1966263,13,Embraer,25,Saab,0.5149924,False
+0911625,13,Embraer,13,Embraer,0.81891775,True
+1255661,13,Embraer,13,Embraer,0.76289856,True
+1347334,13,Embraer,13,Embraer,0.93446696,True
+2070644,13,Embraer,4,Boeing,0.5371218,False
+0573365,13,Embraer,13,Embraer,0.86894524,True
+0072617,13,Embraer,3,Beechcraft,0.4397125,False
+0275905,13,Embraer,13,Embraer,0.804569,True
+0338316,13,Embraer,13,Embraer,0.89761126,True
+1226558,13,Embraer,13,Embraer,0.6152712,True
+1776806,13,Embraer,13,Embraer,0.9760143,True
+1170134,13,Embraer,13,Embraer,0.48549753,True
+0091361,13,Embraer,13,Embraer,0.9311242,True
+0169635,13,Embraer,13,Embraer,0.6896699,True
+0400394,13,Embraer,16,Fokker,0.18371698,False
+0977345,13,Embraer,25,Saab,0.82518715,False
+1511412,13,Embraer,13,Embraer,0.79319775,True
+1149051,13,Embraer,13,Embraer,0.74990475,True
+0885624,13,Embraer,25,Saab,0.30216622,False
+0996456,13,Embraer,13,Embraer,0.47763395,True
+0334474,13,Embraer,13,Embraer,0.34903395,True
+0066281,13,Embraer,13,Embraer,0.83393747,True
+1407531,13,Embraer,25,Saab,0.6559229,False
+0067037,13,Embraer,25,Saab,0.47621202,False
+1253530,13,Embraer,4,Boeing,0.41798392,False
+0525387,13,Embraer,25,Saab,0.58639735,False
+1338346,13,Embraer,8,Cessna,0.48462978,False
+1847170,13,Embraer,13,Embraer,0.8561286,True
+0785251,13,Embraer,13,Embraer,0.88376,True
+1267455,13,Embraer,13,Embraer,0.9113714,True
+0625195,13,Embraer,13,Embraer,0.420563,True
+2167865,13,Embraer,13,Embraer,0.98323244,True
+0993482,13,Embraer,13,Embraer,0.9750216,True
+1328376,13,Embraer,13,Embraer,0.9931458,True
+1537569,13,Embraer,5,Bombardier Aerospace,0.74941576,False
+0708639,13,Embraer,13,Embraer,0.95808446,True
+1788041,13,Embraer,13,Embraer,0.7269686,True
+1601042,13,Embraer,13,Embraer,0.9874786,True
+1531429,13,Embraer,7,Canadair,0.9861714,False
+1276718,13,Embraer,13,Embraer,0.74553716,True
+1546826,13,Embraer,13,Embraer,0.9042456,True
+0313723,13,Embraer,13,Embraer,0.88822496,True
+1474763,13,Embraer,6,British Aerospace,0.54903674,False
+1486386,13,Embraer,13,Embraer,0.9679064,True
+1418270,13,Embraer,4,Boeing,0.54669446,False
+1898331,13,Embraer,13,Embraer,0.8457479,True
+0440148,13,Embraer,13,Embraer,0.80074155,True
+1850439,13,Embraer,13,Embraer,0.83704424,True
+1552844,13,Embraer,13,Embraer,0.98775953,True
+1689074,13,Embraer,13,Embraer,0.83076555,True
+0975833,13,Embraer,13,Embraer,0.90383524,True
+0249029,13,Embraer,13,Embraer,0.95769197,True
+1736110,13,Embraer,13,Embraer,0.9791397,True
+2160086,13,Embraer,13,Embraer,0.6413042,True
+1385706,13,Embraer,13,Embraer,0.9862223,True
+1445486,13,Embraer,13,Embraer,0.97975343,True
+2021346,13,Embraer,13,Embraer,0.98866653,True
+0619179,13,Embraer,13,Embraer,0.9807818,True
+0695328,13,Embraer,13,Embraer,0.9947349,True
+1090346,13,Embraer,13,Embraer,0.9856985,True
+1172651,13,Embraer,13,Embraer,0.5315158,True
+0958304,13,Embraer,13,Embraer,0.9715649,True
+1746035,13,Embraer,13,Embraer,0.51110023,True
+1935311,13,Embraer,4,Boeing,0.8376936,False
+1236292,13,Embraer,13,Embraer,0.7646471,True
+0062125,13,Embraer,13,Embraer,0.6981831,True
+0752805,13,Embraer,13,Embraer,0.58030313,True
+1014303,13,Embraer,13,Embraer,0.9498785,True
+0701145,13,Embraer,13,Embraer,0.85468477,True
+1676591,13,Embraer,13,Embraer,0.57300293,True
+2195119,13,Embraer,17,Gulfstream Aerospace,0.27305412,False
+1658584,13,Embraer,13,Embraer,0.7874186,True
+0907301,13,Embraer,7,Canadair,0.61503893,False
+1343003,13,Embraer,13,Embraer,0.6762003,True
+0109449,13,Embraer,7,Canadair,0.6254023,False
+0345784,13,Embraer,3,Beechcraft,0.27707076,False
+1519774,13,Embraer,7,Canadair,0.6411182,False
+0447766,13,Embraer,13,Embraer,0.8648579,True
+1482188,13,Embraer,13,Embraer,0.9782476,True
+0382232,13,Embraer,13,Embraer,0.66568,True
+1106865,13,Embraer,13,Embraer,0.83284813,True
+0709959,13,Embraer,21,McDonnell Douglas,0.33382866,False
+0699600,13,Embraer,4,Boeing,0.8772324,False
+1306976,13,Embraer,13,Embraer,0.8603785,True
+1062510,13,Embraer,13,Embraer,0.87116665,True
+1723821,13,Embraer,13,Embraer,0.99623823,True
+1156842,13,Embraer,1,Airbus,0.65329653,False
+0182730,13,Embraer,13,Embraer,0.25054944,True
+1739105,13,Embraer,4,Boeing,0.5887955,False
+0931966,13,Embraer,13,Embraer,0.9847512,True
+2253091,13,Embraer,13,Embraer,0.90136915,True
+0085153,13,Embraer,8,Cessna,0.4420654,False
+0950305,13,Embraer,7,Canadair,0.7326114,False
+0925498,13,Embraer,13,Embraer,0.9117847,True
+1376762,13,Embraer,4,Boeing,0.5961481,False
+0609174,13,Embraer,13,Embraer,0.85621,True
+1482335,13,Embraer,12,Douglas Aircraft Company,0.42804313,False
+1655564,13,Embraer,13,Embraer,0.95696163,True
+2080763,13,Embraer,13,Embraer,0.96959835,True
+0395611,13,Embraer,13,Embraer,0.9267823,True
+1137368,13,Embraer,13,Embraer,0.93154705,True
+2255569,13,Embraer,13,Embraer,0.42668074,True
+1896163,13,Embraer,13,Embraer,0.8152218,True
+1455184,13,Embraer,13,Embraer,0.9942264,True
+1602275,13,Embraer,13,Embraer,0.962333,True
+1053510,13,Embraer,13,Embraer,0.9945726,True
+1376737,13,Embraer,13,Embraer,0.9919911,True
+2173324,13,Embraer,13,Embraer,0.90624756,True
+1320584,13,Embraer,13,Embraer,0.53696287,True
+0779581,13,Embraer,13,Embraer,0.9501024,True
+1163997,13,Embraer,13,Embraer,0.9623882,True
+1763830,13,Embraer,13,Embraer,0.51516086,True
+1806212,13,Embraer,13,Embraer,0.6165319,True
+1895796,13,Embraer,13,Embraer,0.87601066,True
+1206417,13,Embraer,13,Embraer,0.9891311,True
+1465199,13,Embraer,13,Embraer,0.9254524,True
+1521727,13,Embraer,13,Embraer,0.8721389,True
+2079015,13,Embraer,7,Canadair,0.4104421,False
+1724870,13,Embraer,13,Embraer,0.995552,True
+1900829,13,Embraer,13,Embraer,0.9819379,True
+0404487,13,Embraer,13,Embraer,0.98497564,True
+2031391,13,Embraer,13,Embraer,0.89916223,True
+1670312,13,Embraer,13,Embraer,0.97421855,True
+1206352,13,Embraer,13,Embraer,0.9628325,True
+2080691,13,Embraer,10,Dassault Aviation,0.4667665,False
+1030353,13,Embraer,13,Embraer,0.99705446,True
+1992923,13,Embraer,13,Embraer,0.6182476,True
+1739390,14,Eurofighter,14,Eurofighter,0.9937557,True
+1469089,14,Eurofighter,14,Eurofighter,0.9419136,True
+2005574,14,Eurofighter,14,Eurofighter,0.9057538,True
+1085153,14,Eurofighter,14,Eurofighter,0.9213703,True
+1752996,14,Eurofighter,14,Eurofighter,0.99100024,True
+1901689,14,Eurofighter,21,McDonnell Douglas,0.8611321,False
+2024661,14,Eurofighter,14,Eurofighter,0.9330618,True
+1799133,14,Eurofighter,14,Eurofighter,0.96660143,True
+1454285,14,Eurofighter,14,Eurofighter,0.99237496,True
+0607514,14,Eurofighter,20,Lockheed Martin,0.33079076,False
+1499562,14,Eurofighter,14,Eurofighter,0.9842821,True
+1240217,14,Eurofighter,14,Eurofighter,0.93516755,True
+1940260,14,Eurofighter,20,Lockheed Martin,0.68352187,False
+1240216,14,Eurofighter,14,Eurofighter,0.77291423,True
+2105989,14,Eurofighter,14,Eurofighter,0.94920856,True
+0382062,14,Eurofighter,14,Eurofighter,0.4578012,True
+1357292,14,Eurofighter,14,Eurofighter,0.8283396,True
+1709263,14,Eurofighter,14,Eurofighter,0.79573077,True
+1317747,14,Eurofighter,14,Eurofighter,0.69232523,True
+1794569,14,Eurofighter,14,Eurofighter,0.973228,True
+1997801,14,Eurofighter,14,Eurofighter,0.9612115,True
+0368356,14,Eurofighter,22,Panavia,0.5881617,False
+1499880,14,Eurofighter,14,Eurofighter,0.7480427,True
+1265382,14,Eurofighter,14,Eurofighter,0.7168005,True
+1716063,14,Eurofighter,14,Eurofighter,0.97861606,True
+1757760,14,Eurofighter,6,British Aerospace,0.62724876,False
+2189411,14,Eurofighter,14,Eurofighter,0.95908487,True
+1267012,14,Eurofighter,14,Eurofighter,0.60465765,True
+2186726,14,Eurofighter,14,Eurofighter,0.9875519,True
+1698551,14,Eurofighter,14,Eurofighter,0.8304326,True
+2158616,14,Eurofighter,14,Eurofighter,0.92356336,True
+1720365,14,Eurofighter,14,Eurofighter,0.5670631,True
+2210227,14,Eurofighter,14,Eurofighter,0.9050818,True
+1333639,14,Eurofighter,20,Lockheed Martin,0.58347136,False
+1614884,20,Lockheed Martin,20,Lockheed Martin,0.872778,True
+1736085,20,Lockheed Martin,20,Lockheed Martin,0.99021786,True
+2118960,20,Lockheed Martin,20,Lockheed Martin,0.96420807,True
+0948007,20,Lockheed Martin,20,Lockheed Martin,0.99326986,True
+1362024,20,Lockheed Martin,20,Lockheed Martin,0.8267196,True
+1601600,20,Lockheed Martin,20,Lockheed Martin,0.95244133,True
+0737927,20,Lockheed Martin,20,Lockheed Martin,0.85043037,True
+0729054,20,Lockheed Martin,20,Lockheed Martin,0.6718034,True
+1375880,20,Lockheed Martin,20,Lockheed Martin,0.89570826,True
+1912107,20,Lockheed Martin,20,Lockheed Martin,0.81514615,True
+1499818,20,Lockheed Martin,20,Lockheed Martin,0.92867255,True
+1302868,20,Lockheed Martin,21,McDonnell Douglas,0.464374,False
+1611465,20,Lockheed Martin,20,Lockheed Martin,0.9082546,True
+1596547,20,Lockheed Martin,20,Lockheed Martin,0.9888011,True
+1859060,20,Lockheed Martin,20,Lockheed Martin,0.7711003,True
+0725553,20,Lockheed Martin,20,Lockheed Martin,0.9800874,True
+0895308,20,Lockheed Martin,20,Lockheed Martin,0.996689,True
+1367983,20,Lockheed Martin,20,Lockheed Martin,0.9234684,True
+1089047,20,Lockheed Martin,20,Lockheed Martin,0.97475237,True
+1255006,20,Lockheed Martin,14,Eurofighter,0.58836395,False
+0920469,20,Lockheed Martin,20,Lockheed Martin,0.9814767,True
+2114078,20,Lockheed Martin,20,Lockheed Martin,0.96570075,True
+1764575,20,Lockheed Martin,20,Lockheed Martin,0.97098225,True
+0747565,20,Lockheed Martin,20,Lockheed Martin,0.8686797,True
+1299189,20,Lockheed Martin,20,Lockheed Martin,0.87221915,True
+1764574,20,Lockheed Martin,6,British Aerospace,0.6069421,False
+1120190,20,Lockheed Martin,20,Lockheed Martin,0.89071965,True
+2118961,20,Lockheed Martin,20,Lockheed Martin,0.9921759,True
+1945975,20,Lockheed Martin,20,Lockheed Martin,0.9814995,True
+1253784,20,Lockheed Martin,20,Lockheed Martin,0.98962957,True
+1321941,20,Lockheed Martin,20,Lockheed Martin,0.9557759,True
+1372357,20,Lockheed Martin,20,Lockheed Martin,0.82343304,True
+1946049,20,Lockheed Martin,20,Lockheed Martin,0.9742543,True
+1810600,21,McDonnell Douglas,21,McDonnell Douglas,0.5877245,True
+0141433,21,McDonnell Douglas,21,McDonnell Douglas,0.36480796,True
+2118959,21,McDonnell Douglas,21,McDonnell Douglas,0.88224095,True
+1596394,21,McDonnell Douglas,21,McDonnell Douglas,0.86828905,True
+0780680,21,McDonnell Douglas,21,McDonnell Douglas,0.68189096,True
+1120498,21,McDonnell Douglas,21,McDonnell Douglas,0.43622148,True
+1768791,21,McDonnell Douglas,21,McDonnell Douglas,0.80911714,True
+1376226,21,McDonnell Douglas,21,McDonnell Douglas,0.9082089,True
+1371565,21,McDonnell Douglas,21,McDonnell Douglas,0.40243617,True
+1133481,21,McDonnell Douglas,22,Panavia,0.35098025,False
+2118958,21,McDonnell Douglas,21,McDonnell Douglas,0.9650947,True
+1804604,21,McDonnell Douglas,29,de Havilland,0.3438193,False
+1722177,21,McDonnell Douglas,21,McDonnell Douglas,0.81976295,True
+1931272,21,McDonnell Douglas,21,McDonnell Douglas,0.44589347,True
+1243068,21,McDonnell Douglas,20,Lockheed Martin,0.6966236,False
+1415519,21,McDonnell Douglas,21,McDonnell Douglas,0.6039138,True
+1357182,21,McDonnell Douglas,6,British Aerospace,0.33467057,False
+1818391,21,McDonnell Douglas,21,McDonnell Douglas,0.97834903,True
+0286125,21,McDonnell Douglas,21,McDonnell Douglas,0.39890248,True
+2038744,21,McDonnell Douglas,12,Douglas Aircraft Company,0.35327256,False
+1817155,21,McDonnell Douglas,29,de Havilland,0.41895208,False
+1592595,21,McDonnell Douglas,21,McDonnell Douglas,0.95106304,True
+0874976,21,McDonnell Douglas,1,Airbus,0.72217214,False
+1764706,21,McDonnell Douglas,21,McDonnell Douglas,0.88523954,True
+1600188,21,McDonnell Douglas,4,Boeing,0.37948018,False
+1125696,21,McDonnell Douglas,12,Douglas Aircraft Company,0.22004333,False
+1564413,21,McDonnell Douglas,21,McDonnell Douglas,0.9592801,True
+1369990,21,McDonnell Douglas,21,McDonnell Douglas,0.88887626,True
+1373011,21,McDonnell Douglas,21,McDonnell Douglas,0.989228,True
+0218834,21,McDonnell Douglas,21,McDonnell Douglas,0.9720282,True
+0890438,21,McDonnell Douglas,21,McDonnell Douglas,0.9412903,True
+1120136,21,McDonnell Douglas,29,de Havilland,0.1801584,False
+0440929,21,McDonnell Douglas,21,McDonnell Douglas,0.93657684,True
+1320915,10,Dassault Aviation,10,Dassault Aviation,0.9612462,True
+0757651,10,Dassault Aviation,10,Dassault Aviation,0.9995272,True
+1616391,10,Dassault Aviation,10,Dassault Aviation,0.99407935,True
+1258577,10,Dassault Aviation,21,McDonnell Douglas,0.43526265,False
+1973254,10,Dassault Aviation,10,Dassault Aviation,0.9969216,True
+1382002,10,Dassault Aviation,10,Dassault Aviation,0.8715588,True
+0973382,10,Dassault Aviation,10,Dassault Aviation,0.9954652,True
+1889569,10,Dassault Aviation,10,Dassault Aviation,0.9602022,True
+1158575,10,Dassault Aviation,10,Dassault Aviation,0.98299307,True
+1236365,10,Dassault Aviation,10,Dassault Aviation,0.9791326,True
+1046908,10,Dassault Aviation,8,Cessna,0.8922024,False
+1743336,10,Dassault Aviation,10,Dassault Aviation,0.9989779,True
+1201875,10,Dassault Aviation,10,Dassault Aviation,0.97227037,True
+1283645,10,Dassault Aviation,10,Dassault Aviation,0.68697584,True
+1095664,10,Dassault Aviation,10,Dassault Aviation,0.96985966,True
+1418775,10,Dassault Aviation,4,Boeing,0.49043792,False
+1938067,10,Dassault Aviation,10,Dassault Aviation,0.98119134,True
+2035396,10,Dassault Aviation,10,Dassault Aviation,0.98603606,True
+1223416,10,Dassault Aviation,10,Dassault Aviation,0.9992126,True
+2104253,10,Dassault Aviation,10,Dassault Aviation,0.86067617,True
+1355813,10,Dassault Aviation,7,Canadair,0.31237033,False
+2223316,10,Dassault Aviation,10,Dassault Aviation,0.97317386,True
+1425610,10,Dassault Aviation,10,Dassault Aviation,0.8962203,True
+1714324,10,Dassault Aviation,10,Dassault Aviation,0.78791857,True
+1364327,10,Dassault Aviation,10,Dassault Aviation,0.9911873,True
+0741747,10,Dassault Aviation,10,Dassault Aviation,0.9960304,True
+0841849,10,Dassault Aviation,4,Boeing,0.5305109,False
+0945365,10,Dassault Aviation,10,Dassault Aviation,0.96722275,True
+1942913,10,Dassault Aviation,27,Tupolev,0.4851133,False
+1236413,10,Dassault Aviation,10,Dassault Aviation,0.999343,True
+2178627,10,Dassault Aviation,10,Dassault Aviation,0.96896255,True
+0927431,10,Dassault Aviation,13,Embraer,0.63034153,False
+0440127,10,Dassault Aviation,10,Dassault Aviation,0.8891109,True
+2137097,10,Dassault Aviation,10,Dassault Aviation,0.96780664,True
+1344355,10,Dassault Aviation,10,Dassault Aviation,0.8780107,True
+1533873,10,Dassault Aviation,10,Dassault Aviation,0.9859087,True
+2227042,10,Dassault Aviation,10,Dassault Aviation,0.9921537,True
+0759487,10,Dassault Aviation,10,Dassault Aviation,0.9972594,True
+2123950,10,Dassault Aviation,10,Dassault Aviation,0.94854325,True
+0944920,10,Dassault Aviation,10,Dassault Aviation,0.9972601,True
+1601176,10,Dassault Aviation,10,Dassault Aviation,0.99120796,True
+0624127,10,Dassault Aviation,22,Panavia,0.55492103,False
+0553608,10,Dassault Aviation,10,Dassault Aviation,0.9969459,True
+1258704,10,Dassault Aviation,10,Dassault Aviation,0.99651575,True
+1390758,10,Dassault Aviation,8,Cessna,0.8520007,False
+1838164,10,Dassault Aviation,10,Dassault Aviation,0.6614845,True
+1260868,10,Dassault Aviation,10,Dassault Aviation,0.9888903,True
+1498794,10,Dassault Aviation,10,Dassault Aviation,0.983946,True
+1251098,10,Dassault Aviation,4,Boeing,0.28466302,False
+1918575,10,Dassault Aviation,10,Dassault Aviation,0.98051846,True
+1386248,10,Dassault Aviation,10,Dassault Aviation,0.9890609,True
+1758584,10,Dassault Aviation,10,Dassault Aviation,0.91891897,True
+1870831,10,Dassault Aviation,10,Dassault Aviation,0.9934621,True
+1493116,10,Dassault Aviation,10,Dassault Aviation,0.8986486,True
+1723914,10,Dassault Aviation,10,Dassault Aviation,0.96171874,True
+1126453,10,Dassault Aviation,10,Dassault Aviation,0.7130696,True
+1391897,10,Dassault Aviation,10,Dassault Aviation,0.9932886,True
+1026502,10,Dassault Aviation,10,Dassault Aviation,0.6990321,True
+0822350,10,Dassault Aviation,10,Dassault Aviation,0.9949102,True
+1935338,10,Dassault Aviation,10,Dassault Aviation,0.99651635,True
+1539226,10,Dassault Aviation,10,Dassault Aviation,0.7029255,True
+0547319,10,Dassault Aviation,10,Dassault Aviation,0.99813265,True
+1231579,10,Dassault Aviation,10,Dassault Aviation,0.9807749,True
+1353412,10,Dassault Aviation,10,Dassault Aviation,0.7446363,True
+0489925,10,Dassault Aviation,21,McDonnell Douglas,0.518201,False
+1430016,10,Dassault Aviation,10,Dassault Aviation,0.9763529,True
+1206825,10,Dassault Aviation,10,Dassault Aviation,0.8296122,True
+2266079,16,Fokker,16,Fokker,0.70618206,True
+1541506,16,Fokker,16,Fokker,0.88727,True
+0706174,16,Fokker,4,Boeing,0.772572,False
+0065294,16,Fokker,1,Airbus,0.45292816,False
+1455403,16,Fokker,16,Fokker,0.94646484,True
+1358045,16,Fokker,16,Fokker,0.8664437,True
+0980397,16,Fokker,16,Fokker,0.9142574,True
+1296872,16,Fokker,16,Fokker,0.9391437,True
+0123337,16,Fokker,4,Boeing,0.5837543,False
+1448036,16,Fokker,16,Fokker,0.90986603,True
+1779674,16,Fokker,16,Fokker,0.7503586,True
+0184352,16,Fokker,16,Fokker,0.33934662,True
+1564786,16,Fokker,7,Canadair,0.8854671,False
+0337125,16,Fokker,18,Ilyushin,0.5982073,False
+1348803,16,Fokker,21,McDonnell Douglas,0.24821845,False
+0995426,16,Fokker,21,McDonnell Douglas,0.8413096,False
+1236355,16,Fokker,4,Boeing,0.62437695,False
+0573392,16,Fokker,16,Fokker,0.7187833,True
+2031381,16,Fokker,21,McDonnell Douglas,0.5820984,False
+2166443,16,Fokker,16,Fokker,0.6173284,True
+1449580,16,Fokker,16,Fokker,0.43981734,True
+0134602,16,Fokker,21,McDonnell Douglas,0.56114453,False
+0944174,16,Fokker,7,Canadair,0.3712012,False
+1559632,16,Fokker,16,Fokker,0.9880262,True
+2007888,16,Fokker,16,Fokker,0.92132074,True
+1288743,16,Fokker,4,Boeing,0.9790522,False
+1457085,16,Fokker,4,Boeing,0.41436914,False
+1294505,16,Fokker,16,Fokker,0.44929668,True
+1355825,16,Fokker,16,Fokker,0.8096756,True
+0879141,16,Fokker,21,McDonnell Douglas,0.6966584,False
+1115393,16,Fokker,16,Fokker,0.8337227,True
+1208469,16,Fokker,16,Fokker,0.84629756,True
+0688081,16,Fokker,16,Fokker,0.8310455,True
+2259848,16,Fokker,16,Fokker,0.3257877,True
+1730963,16,Fokker,29,de Havilland,0.87461185,False
+0458625,16,Fokker,25,Saab,0.32958764,False
+1578336,16,Fokker,16,Fokker,0.9634517,True
+0487379,16,Fokker,16,Fokker,0.95813316,True
+1407349,16,Fokker,16,Fokker,0.9317491,True
+0952377,16,Fokker,29,de Havilland,0.9687538,False
+0744239,16,Fokker,16,Fokker,0.438411,True
+0497539,16,Fokker,16,Fokker,0.9092743,True
+0384109,16,Fokker,29,de Havilland,0.7502404,False
+1539458,16,Fokker,16,Fokker,0.26280212,True
+1891657,16,Fokker,16,Fokker,0.8797166,True
+0923501,16,Fokker,16,Fokker,0.98479456,True
+0561949,16,Fokker,16,Fokker,0.9972108,True
+1036873,16,Fokker,16,Fokker,0.99531245,True
+0115064,16,Fokker,21,McDonnell Douglas,0.58147717,False
+0067031,16,Fokker,16,Fokker,0.38638237,True
+1115299,16,Fokker,16,Fokker,0.7212599,True
+0225206,16,Fokker,29,de Havilland,0.80029863,False
+0550328,16,Fokker,16,Fokker,0.99396086,True
+1312101,16,Fokker,13,Embraer,0.30208403,False
+0143349,16,Fokker,16,Fokker,0.99654895,True
+0114414,16,Fokker,16,Fokker,0.6827413,True
+0901515,16,Fokker,16,Fokker,0.9310987,True
+2097522,16,Fokker,16,Fokker,0.5210634,True
+0576234,16,Fokker,16,Fokker,0.6738075,True
+0945369,16,Fokker,21,McDonnell Douglas,0.37332046,False
+1117094,16,Fokker,29,de Havilland,0.49791417,False
+1204728,16,Fokker,1,Airbus,0.25843585,False
+2175631,16,Fokker,16,Fokker,0.96643716,True
+0856823,16,Fokker,16,Fokker,0.95612156,True
+0892223,16,Fokker,29,de Havilland,0.66277784,False
+1127319,16,Fokker,16,Fokker,0.4327751,True
+1206350,16,Fokker,16,Fokker,0.8494675,True
+2243379,16,Fokker,16,Fokker,0.9916962,True
+0428259,16,Fokker,16,Fokker,0.5710939,True
+1313340,16,Fokker,16,Fokker,0.98506397,True
+1007850,16,Fokker,16,Fokker,0.96919113,True
+1825883,16,Fokker,16,Fokker,0.3788224,True
+0064919,16,Fokker,16,Fokker,0.8944645,True
+1560605,16,Fokker,16,Fokker,0.99864215,True
+1385467,16,Fokker,16,Fokker,0.4935967,True
+1000027,16,Fokker,16,Fokker,0.9454065,True
+1314535,16,Fokker,16,Fokker,0.9980083,True
+0761965,16,Fokker,16,Fokker,0.6870174,True
+1997674,16,Fokker,16,Fokker,0.90272194,True
+1103350,16,Fokker,16,Fokker,0.99602073,True
+1107750,16,Fokker,16,Fokker,0.99153477,True
+1261752,16,Fokker,16,Fokker,0.93734086,True
+0955770,16,Fokker,16,Fokker,0.9979259,True
+0848172,16,Fokker,27,Tupolev,0.45214772,False
+0078141,16,Fokker,16,Fokker,0.9188769,True
+1409946,16,Fokker,16,Fokker,0.9186224,True
+0445578,16,Fokker,16,Fokker,0.99458414,True
+0792175,16,Fokker,16,Fokker,0.6347152,True
+1640693,16,Fokker,16,Fokker,0.9080221,True
+1092252,16,Fokker,16,Fokker,0.9771426,True
+0443952,16,Fokker,16,Fokker,0.76027554,True
+1503577,16,Fokker,16,Fokker,0.44060737,True
+1129248,16,Fokker,16,Fokker,0.99827766,True
+0870094,16,Fokker,16,Fokker,0.6091045,True
+0901157,16,Fokker,16,Fokker,0.98869085,True
+0325518,16,Fokker,4,Boeing,0.6063501,False
+0070035,16,Fokker,16,Fokker,0.54183483,True
+2078845,16,Fokker,16,Fokker,0.9847307,True
+0973158,16,Fokker,16,Fokker,0.987375,True
+1163454,16,Fokker,16,Fokker,0.7980465,True
+1824491,5,Bombardier Aerospace,5,Bombardier Aerospace,0.9637697,True
+0497788,5,Bombardier Aerospace,5,Bombardier Aerospace,0.9579503,True
+1218932,5,Bombardier Aerospace,5,Bombardier Aerospace,0.9520676,True
+2003239,5,Bombardier Aerospace,5,Bombardier Aerospace,0.9923908,True
+1811490,5,Bombardier Aerospace,17,Gulfstream Aerospace,0.51507723,False
+1619900,5,Bombardier Aerospace,5,Bombardier Aerospace,0.48521367,True
+0984408,5,Bombardier Aerospace,5,Bombardier Aerospace,0.29437602,True
+1898513,5,Bombardier Aerospace,13,Embraer,0.4382571,False
+1524818,5,Bombardier Aerospace,5,Bombardier Aerospace,0.5648447,True
+0457845,5,Bombardier Aerospace,7,Canadair,0.4959366,False
+2127891,5,Bombardier Aerospace,5,Bombardier Aerospace,0.83584726,True
+2006677,5,Bombardier Aerospace,5,Bombardier Aerospace,0.880887,True
+2088437,5,Bombardier Aerospace,5,Bombardier Aerospace,0.93839777,True
+1158131,5,Bombardier Aerospace,13,Embraer,0.5069836,False
+1291218,5,Bombardier Aerospace,7,Canadair,0.74513245,False
+1930872,5,Bombardier Aerospace,5,Bombardier Aerospace,0.66820145,True
+0923416,5,Bombardier Aerospace,5,Bombardier Aerospace,0.62261975,True
+1037466,5,Bombardier Aerospace,5,Bombardier Aerospace,0.83567077,True
+2057960,5,Bombardier Aerospace,10,Dassault Aviation,0.3410181,False
+1823327,5,Bombardier Aerospace,5,Bombardier Aerospace,0.43430954,True
+1922919,5,Bombardier Aerospace,5,Bombardier Aerospace,0.8438958,True
+1883938,5,Bombardier Aerospace,5,Bombardier Aerospace,0.98738366,True
+0708626,5,Bombardier Aerospace,7,Canadair,0.39199758,False
+1413237,5,Bombardier Aerospace,5,Bombardier Aerospace,0.69463605,True
+2091951,5,Bombardier Aerospace,13,Embraer,0.8065512,False
+1210469,5,Bombardier Aerospace,5,Bombardier Aerospace,0.8101047,True
+0880314,5,Bombardier Aerospace,5,Bombardier Aerospace,0.86119,True
+1973455,5,Bombardier Aerospace,5,Bombardier Aerospace,0.9682283,True
+2054780,5,Bombardier Aerospace,7,Canadair,0.71836287,False
+1624196,5,Bombardier Aerospace,4,Boeing,0.4788541,False
+1083206,5,Bombardier Aerospace,5,Bombardier Aerospace,0.87549126,True
+1812931,5,Bombardier Aerospace,5,Bombardier Aerospace,0.9823292,True
+1200888,5,Bombardier Aerospace,5,Bombardier Aerospace,0.73657155,True
+1685202,17,Gulfstream Aerospace,17,Gulfstream Aerospace,0.54270536,True
+1645736,17,Gulfstream Aerospace,17,Gulfstream Aerospace,0.6123928,True
+0918179,17,Gulfstream Aerospace,17,Gulfstream Aerospace,0.8631388,True
+1125617,17,Gulfstream Aerospace,17,Gulfstream Aerospace,0.36559105,True
+1081565,17,Gulfstream Aerospace,5,Bombardier Aerospace,0.4511991,False
+1698699,17,Gulfstream Aerospace,17,Gulfstream Aerospace,0.7362987,True
+0492490,17,Gulfstream Aerospace,21,McDonnell Douglas,0.27181727,False
+1354235,17,Gulfstream Aerospace,4,Boeing,0.28289267,False
+1903311,17,Gulfstream Aerospace,6,British Aerospace,0.8049392,False
+1425231,17,Gulfstream Aerospace,17,Gulfstream Aerospace,0.9069888,True
+1500676,17,Gulfstream Aerospace,17,Gulfstream Aerospace,0.9435861,True
+1565325,17,Gulfstream Aerospace,17,Gulfstream Aerospace,0.5367577,True
+0958065,17,Gulfstream Aerospace,17,Gulfstream Aerospace,0.78954434,True
+1622762,17,Gulfstream Aerospace,17,Gulfstream Aerospace,0.8332712,True
+2180164,17,Gulfstream Aerospace,7,Canadair,0.8525165,False
+1173014,17,Gulfstream Aerospace,17,Gulfstream Aerospace,0.99497,True
+0606801,17,Gulfstream Aerospace,17,Gulfstream Aerospace,0.44159088,True
+1985180,17,Gulfstream Aerospace,17,Gulfstream Aerospace,0.39249521,True
+2106207,17,Gulfstream Aerospace,17,Gulfstream Aerospace,0.9831313,True
+1066524,17,Gulfstream Aerospace,17,Gulfstream Aerospace,0.73373824,True
+0764239,17,Gulfstream Aerospace,17,Gulfstream Aerospace,0.35268027,True
+2023598,17,Gulfstream Aerospace,17,Gulfstream Aerospace,0.63253814,True
+1362533,17,Gulfstream Aerospace,17,Gulfstream Aerospace,0.83847964,True
+1455400,17,Gulfstream Aerospace,17,Gulfstream Aerospace,0.80961806,True
+1088415,17,Gulfstream Aerospace,17,Gulfstream Aerospace,0.96160066,True
+0543870,17,Gulfstream Aerospace,7,Canadair,0.87175363,False
+1686317,17,Gulfstream Aerospace,7,Canadair,0.46941125,False
+0890827,17,Gulfstream Aerospace,17,Gulfstream Aerospace,0.88345915,True
+1385093,17,Gulfstream Aerospace,17,Gulfstream Aerospace,0.97218746,True
+2160088,17,Gulfstream Aerospace,17,Gulfstream Aerospace,0.9899268,True
+2099873,17,Gulfstream Aerospace,13,Embraer,0.48963666,False
+1425707,17,Gulfstream Aerospace,17,Gulfstream Aerospace,0.98952055,True
+1614686,17,Gulfstream Aerospace,17,Gulfstream Aerospace,0.9029072,True
+0795231,17,Gulfstream Aerospace,17,Gulfstream Aerospace,0.62660116,True
+2211444,17,Gulfstream Aerospace,17,Gulfstream Aerospace,0.12046807,True
+1400629,17,Gulfstream Aerospace,17,Gulfstream Aerospace,0.16207632,True
+0965713,17,Gulfstream Aerospace,17,Gulfstream Aerospace,0.43532163,True
+1300002,17,Gulfstream Aerospace,17,Gulfstream Aerospace,0.57438576,True
+1636521,17,Gulfstream Aerospace,13,Embraer,0.56623894,False
+1806210,17,Gulfstream Aerospace,13,Embraer,0.5003556,False
+0422472,17,Gulfstream Aerospace,17,Gulfstream Aerospace,0.92169976,True
+2223311,17,Gulfstream Aerospace,17,Gulfstream Aerospace,0.90944695,True
+1663379,17,Gulfstream Aerospace,7,Canadair,0.58334523,False
+1619270,17,Gulfstream Aerospace,17,Gulfstream Aerospace,0.8660348,True
+1272698,17,Gulfstream Aerospace,17,Gulfstream Aerospace,0.82160497,True
+1771969,17,Gulfstream Aerospace,17,Gulfstream Aerospace,0.7361217,True
+1950559,17,Gulfstream Aerospace,17,Gulfstream Aerospace,0.9665862,True
+0093510,17,Gulfstream Aerospace,17,Gulfstream Aerospace,0.8106414,True
+0071754,17,Gulfstream Aerospace,17,Gulfstream Aerospace,0.9333358,True
+1471641,17,Gulfstream Aerospace,17,Gulfstream Aerospace,0.26337087,True
+1047407,17,Gulfstream Aerospace,17,Gulfstream Aerospace,0.9547902,True
+1658586,17,Gulfstream Aerospace,17,Gulfstream Aerospace,0.7692453,True
+1077924,17,Gulfstream Aerospace,17,Gulfstream Aerospace,0.85584384,True
+2139678,17,Gulfstream Aerospace,17,Gulfstream Aerospace,0.98143446,True
+1921656,17,Gulfstream Aerospace,17,Gulfstream Aerospace,0.6711186,True
+0497629,17,Gulfstream Aerospace,17,Gulfstream Aerospace,0.53222823,True
+1244306,17,Gulfstream Aerospace,17,Gulfstream Aerospace,0.59621304,True
+1546282,17,Gulfstream Aerospace,13,Embraer,0.25061977,False
+1244687,17,Gulfstream Aerospace,6,British Aerospace,0.38294962,False
+1091663,17,Gulfstream Aerospace,17,Gulfstream Aerospace,0.70719635,True
+0759316,17,Gulfstream Aerospace,5,Bombardier Aerospace,0.395372,False
+0498138,17,Gulfstream Aerospace,17,Gulfstream Aerospace,0.28492206,True
+0447762,17,Gulfstream Aerospace,17,Gulfstream Aerospace,0.903668,True
+0396507,17,Gulfstream Aerospace,13,Embraer,0.38887176,False
+2030079,17,Gulfstream Aerospace,17,Gulfstream Aerospace,0.9271965,True
+1063148,17,Gulfstream Aerospace,17,Gulfstream Aerospace,0.9275646,True
+0492487,17,Gulfstream Aerospace,17,Gulfstream Aerospace,0.9025372,True
+1244766,6,British Aerospace,6,British Aerospace,0.69850504,True
+1376413,6,British Aerospace,6,British Aerospace,0.997122,True
+1969071,6,British Aerospace,6,British Aerospace,0.9793337,True
+1745999,6,British Aerospace,6,British Aerospace,0.98702335,True
+0680033,6,British Aerospace,12,Douglas Aircraft Company,0.548817,False
+1711730,6,British Aerospace,6,British Aerospace,0.5130073,True
+1560108,6,British Aerospace,6,British Aerospace,0.98526436,True
+2160566,6,British Aerospace,22,Panavia,0.25862968,False
+1779625,6,British Aerospace,6,British Aerospace,0.99680835,True
+1912356,6,British Aerospace,6,British Aerospace,0.982541,True
+2169747,6,British Aerospace,6,British Aerospace,0.9950623,True
+1754180,6,British Aerospace,6,British Aerospace,0.98695564,True
+1105223,6,British Aerospace,6,British Aerospace,0.79585874,True
+2228412,6,British Aerospace,6,British Aerospace,0.9938352,True
+2065885,6,British Aerospace,6,British Aerospace,0.978959,True
+1567619,6,British Aerospace,6,British Aerospace,0.9851658,True
+1203397,6,British Aerospace,29,de Havilland,0.47291213,False
+1088411,6,British Aerospace,6,British Aerospace,0.9266956,True
+1203398,6,British Aerospace,6,British Aerospace,0.9984884,True
+1736173,6,British Aerospace,6,British Aerospace,0.9978896,True
+1258663,6,British Aerospace,6,British Aerospace,0.98917633,True
+2178477,6,British Aerospace,6,British Aerospace,0.98952556,True
+2163696,6,British Aerospace,6,British Aerospace,0.9973156,True
+1258557,6,British Aerospace,6,British Aerospace,0.9686816,True
+0681463,6,British Aerospace,6,British Aerospace,0.7758438,True
+1244757,6,British Aerospace,6,British Aerospace,0.9991647,True
+1280976,6,British Aerospace,6,British Aerospace,0.83545405,True
+2171897,6,British Aerospace,6,British Aerospace,0.9957301,True
+1570911,6,British Aerospace,6,British Aerospace,0.99891317,True
+0903057,6,British Aerospace,6,British Aerospace,0.7563213,True
+1780364,6,British Aerospace,1,Airbus,0.7777029,False
+1634646,6,British Aerospace,6,British Aerospace,0.6353286,True
+1759330,6,British Aerospace,6,British Aerospace,0.99002075,True
+0065838,18,Ilyushin,18,Ilyushin,0.99678016,True
+0523183,18,Ilyushin,18,Ilyushin,0.98701173,True
+0950056,18,Ilyushin,18,Ilyushin,0.76707464,True
+0523246,18,Ilyushin,18,Ilyushin,0.9023118,True
+0522938,18,Ilyushin,18,Ilyushin,0.9992067,True
+1869891,18,Ilyushin,18,Ilyushin,0.9863811,True
+0127650,18,Ilyushin,18,Ilyushin,0.6583118,True
+1654785,18,Ilyushin,19,Lockheed Corporation,0.41621634,False
+1240215,18,Ilyushin,18,Ilyushin,0.8502647,True
+0809559,18,Ilyushin,4,Boeing,0.37747434,False
+1446340,18,Ilyushin,18,Ilyushin,0.9572649,True
+0195016,18,Ilyushin,18,Ilyushin,0.7400572,True
+0523110,18,Ilyushin,18,Ilyushin,0.96899474,True
+0577856,18,Ilyushin,18,Ilyushin,0.9776028,True
+1623084,18,Ilyushin,18,Ilyushin,0.9558839,True
+0973255,18,Ilyushin,18,Ilyushin,0.96842176,True
+1476163,18,Ilyushin,18,Ilyushin,0.68527615,True
+0902147,18,Ilyushin,18,Ilyushin,0.6930014,True
+0756076,18,Ilyushin,18,Ilyushin,0.6613402,True
+0523228,18,Ilyushin,18,Ilyushin,0.8795784,True
+0447776,18,Ilyushin,18,Ilyushin,0.9271693,True
+0869721,18,Ilyushin,18,Ilyushin,0.94311225,True
+0979926,18,Ilyushin,21,McDonnell Douglas,0.331232,False
+1869890,18,Ilyushin,18,Ilyushin,0.92793477,True
+1283846,18,Ilyushin,18,Ilyushin,0.9270007,True
+0812685,18,Ilyushin,18,Ilyushin,0.9194734,True
+1594759,18,Ilyushin,18,Ilyushin,0.41362175,True
+2117431,18,Ilyushin,18,Ilyushin,0.79433143,True
+1725715,18,Ilyushin,18,Ilyushin,0.9587316,True
+1459176,18,Ilyushin,18,Ilyushin,0.9814967,True
+0913985,18,Ilyushin,18,Ilyushin,0.9741572,True
+0523093,18,Ilyushin,18,Ilyushin,0.8350081,True
+0993066,18,Ilyushin,18,Ilyushin,0.94623023,True
+1398527,18,Ilyushin,18,Ilyushin,0.99473983,True
+1164431,19,Lockheed Corporation,4,Boeing,0.6815451,False
+0677585,19,Lockheed Corporation,4,Boeing,0.9602759,False
+0482820,19,Lockheed Corporation,19,Lockheed Corporation,0.9843007,True
+0061401,19,Lockheed Corporation,4,Boeing,0.37574467,False
+0909293,19,Lockheed Corporation,1,Airbus,0.81082505,False
+0923566,19,Lockheed Corporation,21,McDonnell Douglas,0.5297744,False
+0065387,19,Lockheed Corporation,21,McDonnell Douglas,0.8312475,False
+0851668,19,Lockheed Corporation,1,Airbus,0.81220764,False
+0127508,19,Lockheed Corporation,4,Boeing,0.4917031,False
+0851323,19,Lockheed Corporation,19,Lockheed Corporation,0.99544984,True
+0875300,19,Lockheed Corporation,19,Lockheed Corporation,0.5225727,True
+1879800,19,Lockheed Corporation,4,Boeing,0.6837689,False
+0677582,19,Lockheed Corporation,4,Boeing,0.98363197,False
+0814401,19,Lockheed Corporation,19,Lockheed Corporation,0.9621512,True
+1880976,19,Lockheed Corporation,6,British Aerospace,0.43746534,False
+0396497,19,Lockheed Corporation,19,Lockheed Corporation,0.9434398,True
+0103331,19,Lockheed Corporation,4,Boeing,0.63243,False
+0808778,19,Lockheed Corporation,19,Lockheed Corporation,0.9297539,True
+0356128,19,Lockheed Corporation,4,Boeing,0.48395014,False
+1345582,19,Lockheed Corporation,19,Lockheed Corporation,0.96437055,True
+0174920,19,Lockheed Corporation,4,Boeing,0.9207227,False
+0114397,19,Lockheed Corporation,1,Airbus,0.8467227,False
+1530572,19,Lockheed Corporation,19,Lockheed Corporation,0.4316999,True
+1084453,19,Lockheed Corporation,1,Airbus,0.80679893,False
+0149342,19,Lockheed Corporation,1,Airbus,0.4565569,False
+1192640,19,Lockheed Corporation,19,Lockheed Corporation,0.5210754,True
+0875308,19,Lockheed Corporation,19,Lockheed Corporation,0.9009537,True
+0220011,19,Lockheed Corporation,21,McDonnell Douglas,0.9130885,False
+0807408,19,Lockheed Corporation,19,Lockheed Corporation,0.89311266,True
+1707732,19,Lockheed Corporation,4,Boeing,0.8859924,False
+0089346,19,Lockheed Corporation,4,Boeing,0.9685762,False
+2084966,19,Lockheed Corporation,4,Boeing,0.50767475,False
+0350210,19,Lockheed Corporation,1,Airbus,0.9653045,False
+2241569,21,McDonnell Douglas,4,Boeing,0.50591713,False
+0980197,21,McDonnell Douglas,1,Airbus,0.88093746,False
+0812098,21,McDonnell Douglas,4,Boeing,0.94575495,False
+0813852,21,McDonnell Douglas,1,Airbus,0.9110821,False
+0950331,21,McDonnell Douglas,1,Airbus,0.602427,False
+0467409,21,McDonnell Douglas,21,McDonnell Douglas,0.40231356,True
+2107060,21,McDonnell Douglas,7,Canadair,0.6184805,False
+2009833,21,McDonnell Douglas,21,McDonnell Douglas,0.98722535,True
+0668320,21,McDonnell Douglas,4,Boeing,0.87154186,False
+1083205,21,McDonnell Douglas,21,McDonnell Douglas,0.41615444,True
+1226609,21,McDonnell Douglas,21,McDonnell Douglas,0.68405807,True
+0871198,21,McDonnell Douglas,21,McDonnell Douglas,0.98774534,True
+0996676,21,McDonnell Douglas,21,McDonnell Douglas,0.5344473,True
+0487353,21,McDonnell Douglas,21,McDonnell Douglas,0.77754647,True
+1647701,21,McDonnell Douglas,19,Lockheed Corporation,0.4020528,False
+0457822,21,McDonnell Douglas,1,Airbus,0.72329795,False
+0944945,21,McDonnell Douglas,21,McDonnell Douglas,0.77136207,True
+2221709,21,McDonnell Douglas,27,Tupolev,0.26026317,False
+0275804,21,McDonnell Douglas,4,Boeing,0.7710781,False
+0130594,21,McDonnell Douglas,21,McDonnell Douglas,0.45693877,True
+0894211,21,McDonnell Douglas,21,McDonnell Douglas,0.99038285,True
+1048572,21,McDonnell Douglas,1,Airbus,0.34373707,False
+2211315,21,McDonnell Douglas,21,McDonnell Douglas,0.59503037,True
+1338572,21,McDonnell Douglas,4,Boeing,0.729188,False
+0395603,21,McDonnell Douglas,4,Boeing,0.83280414,False
+0950117,21,McDonnell Douglas,21,McDonnell Douglas,0.6978361,True
+1227422,21,McDonnell Douglas,21,McDonnell Douglas,0.5128208,True
+1053311,21,McDonnell Douglas,21,McDonnell Douglas,0.88075876,True
+1122540,21,McDonnell Douglas,4,Boeing,0.53325444,False
+1031465,21,McDonnell Douglas,21,McDonnell Douglas,0.9950712,True
+0276024,21,McDonnell Douglas,21,McDonnell Douglas,0.9140303,True
+0901378,21,McDonnell Douglas,21,McDonnell Douglas,0.70153046,True
+0066530,21,McDonnell Douglas,4,Boeing,0.9395954,False
+2013771,21,McDonnell Douglas,21,McDonnell Douglas,0.5651335,True
+0338178,21,McDonnell Douglas,27,Tupolev,0.39494383,False
+0929790,21,McDonnell Douglas,21,McDonnell Douglas,0.9153054,True
+1355228,21,McDonnell Douglas,21,McDonnell Douglas,0.90233004,True
+1469839,21,McDonnell Douglas,21,McDonnell Douglas,0.83249396,True
+1310046,21,McDonnell Douglas,21,McDonnell Douglas,0.7585153,True
+1373071,21,McDonnell Douglas,4,Boeing,0.8199167,False
+1221605,21,McDonnell Douglas,21,McDonnell Douglas,0.97656703,True
+1149056,21,McDonnell Douglas,21,McDonnell Douglas,0.98123735,True
+0255360,21,McDonnell Douglas,4,Boeing,0.41799602,False
+0921024,21,McDonnell Douglas,21,McDonnell Douglas,0.9581833,True
+0176138,21,McDonnell Douglas,21,McDonnell Douglas,0.9749015,True
+0955444,21,McDonnell Douglas,21,McDonnell Douglas,0.9129546,True
+0171387,21,McDonnell Douglas,27,Tupolev,0.7725284,False
+0447810,21,McDonnell Douglas,27,Tupolev,0.4184108,False
+0233762,21,McDonnell Douglas,21,McDonnell Douglas,0.47863004,True
+1996875,21,McDonnell Douglas,21,McDonnell Douglas,0.74835026,True
+2248944,21,McDonnell Douglas,21,McDonnell Douglas,0.90386254,True
+2116518,21,McDonnell Douglas,21,McDonnell Douglas,0.83795106,True
+0222915,21,McDonnell Douglas,13,Embraer,0.5610549,False
+0167802,21,McDonnell Douglas,21,McDonnell Douglas,0.45113927,True
+0151656,21,McDonnell Douglas,21,McDonnell Douglas,0.39191473,True
+1251237,21,McDonnell Douglas,21,McDonnell Douglas,0.9854231,True
+0950436,21,McDonnell Douglas,21,McDonnell Douglas,0.9771857,True
+1113446,21,McDonnell Douglas,21,McDonnell Douglas,0.9963355,True
+1467698,21,McDonnell Douglas,21,McDonnell Douglas,0.9809373,True
+0979472,21,McDonnell Douglas,21,McDonnell Douglas,0.9773752,True
+0132979,21,McDonnell Douglas,21,McDonnell Douglas,0.46968248,True
+0328522,21,McDonnell Douglas,27,Tupolev,0.48805878,False
+1705400,21,McDonnell Douglas,21,McDonnell Douglas,0.9772679,True
+0821363,21,McDonnell Douglas,21,McDonnell Douglas,0.76014274,True
+1291370,21,McDonnell Douglas,21,McDonnell Douglas,0.99439853,True
+1386647,21,McDonnell Douglas,21,McDonnell Douglas,0.70393914,True
+0866586,21,McDonnell Douglas,21,McDonnell Douglas,0.92279255,True
+2194203,21,McDonnell Douglas,21,McDonnell Douglas,0.5810722,True
+1589252,21,McDonnell Douglas,21,McDonnell Douglas,0.46724176,True
+0255295,21,McDonnell Douglas,4,Boeing,0.3086934,False
+0742025,21,McDonnell Douglas,21,McDonnell Douglas,0.8408472,True
+2021840,21,McDonnell Douglas,7,Canadair,0.54164433,False
+0977340,21,McDonnell Douglas,0,ATR,0.3238719,False
+1783575,21,McDonnell Douglas,21,McDonnell Douglas,0.8611469,True
+0756253,21,McDonnell Douglas,21,McDonnell Douglas,0.73524183,True
+1026719,21,McDonnell Douglas,21,McDonnell Douglas,0.8032187,True
+1197109,21,McDonnell Douglas,21,McDonnell Douglas,0.8558579,True
+0078427,21,McDonnell Douglas,5,Bombardier Aerospace,0.46950063,False
+1426711,21,McDonnell Douglas,21,McDonnell Douglas,0.6782579,True
+1194590,21,McDonnell Douglas,21,McDonnell Douglas,0.93632066,True
+0984407,21,McDonnell Douglas,21,McDonnell Douglas,0.9940644,True
+0880568,21,McDonnell Douglas,21,McDonnell Douglas,0.77365404,True
+1099443,21,McDonnell Douglas,21,McDonnell Douglas,0.51597106,True
+1551551,21,McDonnell Douglas,21,McDonnell Douglas,0.9798647,True
+1283328,21,McDonnell Douglas,21,McDonnell Douglas,0.81594086,True
+0487359,21,McDonnell Douglas,21,McDonnell Douglas,0.9442933,True
+0874951,21,McDonnell Douglas,21,McDonnell Douglas,0.961148,True
+1519495,21,McDonnell Douglas,21,McDonnell Douglas,0.92849,True
+0337279,21,McDonnell Douglas,16,Fokker,0.5545474,False
+1063410,21,McDonnell Douglas,21,McDonnell Douglas,0.8734282,True
+2115316,21,McDonnell Douglas,7,Canadair,0.41568264,False
+0817414,21,McDonnell Douglas,21,McDonnell Douglas,0.6963326,True
+0136383,21,McDonnell Douglas,21,McDonnell Douglas,0.63355464,True
+1292318,21,McDonnell Douglas,21,McDonnell Douglas,0.9978046,True
+0174941,21,McDonnell Douglas,21,McDonnell Douglas,0.9831024,True
+0866092,21,McDonnell Douglas,4,Boeing,0.8285567,False
+0435307,21,McDonnell Douglas,4,Boeing,0.8039757,False
+0114427,21,McDonnell Douglas,21,McDonnell Douglas,0.9585932,True
+0716452,21,McDonnell Douglas,21,McDonnell Douglas,0.99054176,True
+0197002,21,McDonnell Douglas,4,Boeing,0.51749223,False
+1543498,21,McDonnell Douglas,7,Canadair,0.5579693,False
+0275792,21,McDonnell Douglas,4,Boeing,0.6940563,False
+0227589,21,McDonnell Douglas,21,McDonnell Douglas,0.4223917,True
+0175704,21,McDonnell Douglas,21,McDonnell Douglas,0.81240076,True
+0184347,21,McDonnell Douglas,21,McDonnell Douglas,0.925154,True
+0092378,21,McDonnell Douglas,21,McDonnell Douglas,0.9790724,True
+0979579,21,McDonnell Douglas,21,McDonnell Douglas,0.97972655,True
+1073029,21,McDonnell Douglas,21,McDonnell Douglas,0.7884957,True
+1256035,21,McDonnell Douglas,21,McDonnell Douglas,0.8684853,True
+1670091,21,McDonnell Douglas,21,McDonnell Douglas,0.99490887,True
+1133482,21,McDonnell Douglas,21,McDonnell Douglas,0.894845,True
+0765747,21,McDonnell Douglas,27,Tupolev,0.4518675,False
+1745932,21,McDonnell Douglas,21,McDonnell Douglas,0.8019477,True
+1429165,21,McDonnell Douglas,21,McDonnell Douglas,0.96799,True
+1218930,21,McDonnell Douglas,21,McDonnell Douglas,0.97935003,True
+0259164,21,McDonnell Douglas,21,McDonnell Douglas,0.93401664,True
+0174041,21,McDonnell Douglas,21,McDonnell Douglas,0.9761562,True
+0699510,21,McDonnell Douglas,21,McDonnell Douglas,0.7696902,True
+1284591,21,McDonnell Douglas,21,McDonnell Douglas,0.95150673,True
+0257374,21,McDonnell Douglas,16,Fokker,0.7876479,False
+0363591,21,McDonnell Douglas,21,McDonnell Douglas,0.96208173,True
+2210238,21,McDonnell Douglas,21,McDonnell Douglas,0.9906324,True
+0524796,21,McDonnell Douglas,21,McDonnell Douglas,0.44588947,True
+1154577,21,McDonnell Douglas,21,McDonnell Douglas,0.82930654,True
+1302093,21,McDonnell Douglas,21,McDonnell Douglas,0.76809764,True
+1091650,21,McDonnell Douglas,4,Boeing,0.83336467,False
+1602022,21,McDonnell Douglas,21,McDonnell Douglas,0.8538209,True
+0733747,21,McDonnell Douglas,21,McDonnell Douglas,0.6047264,True
+1950564,21,McDonnell Douglas,21,McDonnell Douglas,0.92825437,True
+1917856,21,McDonnell Douglas,13,Embraer,0.70239913,False
+1283508,21,McDonnell Douglas,21,McDonnell Douglas,0.99725753,True
+1315760,21,McDonnell Douglas,21,McDonnell Douglas,0.7689865,True
+2237178,21,McDonnell Douglas,21,McDonnell Douglas,0.59658414,True
+0738976,15,Fairchild,15,Fairchild,0.9555814,True
+0573469,15,Fairchild,15,Fairchild,0.52243495,True
+1090725,15,Fairchild,15,Fairchild,0.49152815,True
+0873946,15,Fairchild,8,Cessna,0.7466181,False
+1634013,15,Fairchild,15,Fairchild,0.9641075,True
+1769898,15,Fairchild,3,Beechcraft,0.92908067,False
+1135124,15,Fairchild,15,Fairchild,0.9683847,True
+0573366,15,Fairchild,15,Fairchild,0.92388123,True
+0312409,15,Fairchild,8,Cessna,0.63831514,False
+0312438,15,Fairchild,25,Saab,0.434536,False
+0262656,15,Fairchild,15,Fairchild,0.6839169,True
+0447752,15,Fairchild,15,Fairchild,0.6884568,True
+1059772,15,Fairchild,15,Fairchild,0.65692425,True
+0979622,15,Fairchild,15,Fairchild,0.72881514,True
+0824980,15,Fairchild,29,de Havilland,0.3110359,False
+1225993,15,Fairchild,15,Fairchild,0.993737,True
+1136155,15,Fairchild,15,Fairchild,0.93252367,True
+1620007,15,Fairchild,15,Fairchild,0.8299347,True
+0334277,15,Fairchild,15,Fairchild,0.8389883,True
+2188372,15,Fairchild,15,Fairchild,0.9687949,True
+1155023,15,Fairchild,15,Fairchild,0.82867694,True
+0068810,15,Fairchild,15,Fairchild,0.7527804,True
+0523019,15,Fairchild,15,Fairchild,0.51395357,True
+2116114,15,Fairchild,15,Fairchild,0.77419907,True
+1575768,15,Fairchild,25,Saab,0.4457371,False
+1146074,15,Fairchild,3,Beechcraft,0.5580665,False
+1546042,15,Fairchild,15,Fairchild,0.8226988,True
+0074462,15,Fairchild,23,Piper,0.34820402,False
+0359779,15,Fairchild,15,Fairchild,0.6998789,True
+0347785,15,Fairchild,15,Fairchild,0.9434104,True
+0921760,15,Fairchild,15,Fairchild,0.95218456,True
+0640534,15,Fairchild,15,Fairchild,0.87693506,True
+0573942,15,Fairchild,15,Fairchild,0.99165523,True
+1790920,15,Fairchild,15,Fairchild,0.9856962,True
+2186731,3,Beechcraft,3,Beechcraft,0.98930675,True
+1265817,3,Beechcraft,3,Beechcraft,0.9961133,True
+2072258,3,Beechcraft,3,Beechcraft,0.29616526,True
+1420123,3,Beechcraft,3,Beechcraft,0.996181,True
+1058210,3,Beechcraft,3,Beechcraft,0.9222447,True
+1158360,3,Beechcraft,3,Beechcraft,0.8016651,True
+1103635,3,Beechcraft,3,Beechcraft,0.9937388,True
+1316268,3,Beechcraft,8,Cessna,0.80329907,False
+1501746,3,Beechcraft,3,Beechcraft,0.9993912,True
+0953562,3,Beechcraft,13,Embraer,0.47306025,False
+1425043,3,Beechcraft,3,Beechcraft,0.9977913,True
+1144972,3,Beechcraft,3,Beechcraft,0.9434069,True
+1797935,3,Beechcraft,3,Beechcraft,0.9900367,True
+1426173,3,Beechcraft,3,Beechcraft,0.9578071,True
+1571390,3,Beechcraft,3,Beechcraft,0.680844,True
+1689606,3,Beechcraft,3,Beechcraft,0.8096341,True
+1366119,3,Beechcraft,3,Beechcraft,0.9895941,True
+0118439,3,Beechcraft,3,Beechcraft,0.8542616,True
+2091946,3,Beechcraft,3,Beechcraft,0.99595046,True
+1800296,3,Beechcraft,3,Beechcraft,0.5004723,True
+1237648,3,Beechcraft,3,Beechcraft,0.93915707,True
+1823272,3,Beechcraft,3,Beechcraft,0.99542135,True
+1620836,3,Beechcraft,3,Beechcraft,0.9979316,True
+2247510,3,Beechcraft,3,Beechcraft,0.9539167,True
+1009344,3,Beechcraft,3,Beechcraft,0.992234,True
+1163471,3,Beechcraft,3,Beechcraft,0.4987137,True
+2137721,3,Beechcraft,3,Beechcraft,0.94694,True
+1925943,3,Beechcraft,3,Beechcraft,0.9631321,True
+1584040,3,Beechcraft,3,Beechcraft,0.895938,True
+1782799,3,Beechcraft,3,Beechcraft,0.5099555,True
+1193562,3,Beechcraft,3,Beechcraft,0.9575694,True
+1471860,3,Beechcraft,3,Beechcraft,0.67467886,True
+1356910,3,Beechcraft,5,Bombardier Aerospace,0.30494946,False
+1673633,23,Piper,23,Piper,0.80378246,True
+2262617,23,Piper,23,Piper,0.9511145,True
+1646253,23,Piper,23,Piper,0.5867959,True
+0996666,23,Piper,23,Piper,0.88861,True
+0779048,23,Piper,8,Cessna,0.87205833,False
+0879367,23,Piper,24,Robin,0.6318228,False
+1188309,23,Piper,23,Piper,0.99559855,True
+1928766,23,Piper,23,Piper,0.8319604,True
+1254806,23,Piper,23,Piper,0.62759584,True
+0100263,23,Piper,1,Airbus,0.38747296,False
+1231580,23,Piper,23,Piper,0.8418671,True
+1534326,23,Piper,24,Robin,0.74998623,False
+1490907,23,Piper,25,Saab,0.6827818,False
+0885590,23,Piper,23,Piper,0.57255775,True
+2153672,23,Piper,9,Cirrus Aircraft,0.5428052,False
+0192630,23,Piper,21,McDonnell Douglas,0.76631266,False
+1374624,23,Piper,23,Piper,0.8459185,True
+1398419,23,Piper,23,Piper,0.8652658,True
+1465113,23,Piper,23,Piper,0.8708699,True
+1667002,23,Piper,23,Piper,0.568853,True
+1739709,23,Piper,23,Piper,0.9028149,True
+1066879,23,Piper,8,Cessna,0.37566307,False
+1216713,23,Piper,23,Piper,0.6103792,True
+1090095,23,Piper,8,Cessna,0.54196,False
+1451197,23,Piper,24,Robin,0.5500833,False
+1307739,23,Piper,23,Piper,0.64314276,True
+1282206,23,Piper,23,Piper,0.44811308,True
+1581472,23,Piper,23,Piper,0.9637862,True
+1010412,23,Piper,23,Piper,0.4540672,True
+0509495,23,Piper,8,Cessna,0.48632747,False
+1646930,23,Piper,23,Piper,0.9541756,True
+1767221,23,Piper,8,Cessna,0.45602396,False
+1292176,23,Piper,23,Piper,0.93988407,True
+2233941,9,Cirrus Aircraft,9,Cirrus Aircraft,0.9979481,True
+1560399,9,Cirrus Aircraft,9,Cirrus Aircraft,0.976518,True
+1658296,9,Cirrus Aircraft,9,Cirrus Aircraft,0.50243473,True
+2037389,9,Cirrus Aircraft,9,Cirrus Aircraft,0.9712271,True
+2144149,9,Cirrus Aircraft,9,Cirrus Aircraft,0.9487507,True
+1605922,9,Cirrus Aircraft,9,Cirrus Aircraft,0.9998318,True
+2148743,9,Cirrus Aircraft,9,Cirrus Aircraft,0.94606215,True
+2123466,9,Cirrus Aircraft,9,Cirrus Aircraft,0.94857144,True
+1771266,9,Cirrus Aircraft,9,Cirrus Aircraft,0.9797578,True
+1323647,9,Cirrus Aircraft,9,Cirrus Aircraft,0.7486794,True
+1627409,9,Cirrus Aircraft,9,Cirrus Aircraft,0.3505903,True
+1538918,9,Cirrus Aircraft,9,Cirrus Aircraft,0.995977,True
+1927265,9,Cirrus Aircraft,9,Cirrus Aircraft,0.95265627,True
+1673599,9,Cirrus Aircraft,23,Piper,0.4633602,False
+1625091,9,Cirrus Aircraft,9,Cirrus Aircraft,0.91186035,True
+2265511,9,Cirrus Aircraft,9,Cirrus Aircraft,0.9190717,True
+2018707,9,Cirrus Aircraft,9,Cirrus Aircraft,0.99634004,True
+1636570,9,Cirrus Aircraft,9,Cirrus Aircraft,0.9386296,True
+1849793,9,Cirrus Aircraft,9,Cirrus Aircraft,0.9789548,True
+1168408,9,Cirrus Aircraft,9,Cirrus Aircraft,0.8776415,True
+1598048,9,Cirrus Aircraft,9,Cirrus Aircraft,0.8346295,True
+2072464,9,Cirrus Aircraft,29,de Havilland,0.29736772,False
+2065042,9,Cirrus Aircraft,9,Cirrus Aircraft,0.990837,True
+1853950,9,Cirrus Aircraft,9,Cirrus Aircraft,0.9395865,True
+1979665,9,Cirrus Aircraft,9,Cirrus Aircraft,0.44362193,True
+2177217,9,Cirrus Aircraft,9,Cirrus Aircraft,0.99932194,True
+1476645,9,Cirrus Aircraft,9,Cirrus Aircraft,0.97750765,True
+2006049,9,Cirrus Aircraft,9,Cirrus Aircraft,0.4519348,True
+1465151,9,Cirrus Aircraft,9,Cirrus Aircraft,0.9726766,True
+1658839,9,Cirrus Aircraft,9,Cirrus Aircraft,0.93083596,True
+2151715,9,Cirrus Aircraft,8,Cessna,0.452728,False
+1713365,9,Cirrus Aircraft,9,Cirrus Aircraft,0.9395914,True
+1468767,9,Cirrus Aircraft,9,Cirrus Aircraft,0.8452926,True
+2143595,9,Cirrus Aircraft,9,Cirrus Aircraft,0.9944441,True
+2094478,25,Saab,25,Saab,0.79675907,True
+0492491,25,Saab,25,Saab,0.4659934,True
+1748171,25,Saab,25,Saab,0.9872649,True
+1538520,25,Saab,8,Cessna,0.6289514,False
+0127634,25,Saab,25,Saab,0.89623326,True
+1476428,25,Saab,25,Saab,0.8264343,True
+1191125,25,Saab,25,Saab,0.9945992,True
+2127890,25,Saab,25,Saab,0.7300209,True
+2136389,25,Saab,25,Saab,0.98117226,True
+0749032,25,Saab,25,Saab,0.9420832,True
+0936826,25,Saab,25,Saab,0.7208838,True
+1338706,25,Saab,25,Saab,0.9852836,True
+1122577,25,Saab,25,Saab,0.98169005,True
+1383369,25,Saab,25,Saab,0.99328995,True
+1187417,25,Saab,25,Saab,0.95946836,True
+0343276,25,Saab,25,Saab,0.9162077,True
+1818869,25,Saab,25,Saab,0.9805964,True
+0967849,25,Saab,25,Saab,0.49615666,True
+1271556,25,Saab,25,Saab,0.65034246,True
+2057425,25,Saab,25,Saab,0.8765864,True
+0788134,25,Saab,25,Saab,0.94613427,True
+0936113,25,Saab,25,Saab,0.99785787,True
+2218842,25,Saab,25,Saab,0.88829684,True
+1597800,25,Saab,25,Saab,0.32230455,True
+0939487,25,Saab,25,Saab,0.67361754,True
+0920052,25,Saab,25,Saab,0.983226,True
+1386609,25,Saab,13,Embraer,0.3009324,False
+0257281,25,Saab,25,Saab,0.92748576,True
+1912967,25,Saab,25,Saab,0.97878563,True
+1818870,25,Saab,25,Saab,0.98062205,True
+1162919,25,Saab,13,Embraer,0.7381746,False
+1290986,25,Saab,25,Saab,0.71621895,True
+1219250,25,Saab,25,Saab,0.6456215,True
+1149058,25,Saab,25,Saab,0.7225809,True
+1807121,25,Saab,25,Saab,0.91436493,True
+1343264,25,Saab,12,Douglas Aircraft Company,0.6222524,False
+0174870,25,Saab,25,Saab,0.8730838,True
+1092262,25,Saab,25,Saab,0.93314594,True
+0095325,25,Saab,25,Saab,0.9893022,True
+2119896,25,Saab,25,Saab,0.48973465,True
+1425386,25,Saab,25,Saab,0.87156856,True
+0184349,25,Saab,15,Fairchild,0.6224043,False
+0345877,25,Saab,25,Saab,0.75306743,True
+0174021,25,Saab,4,Boeing,0.8702596,False
+0202465,25,Saab,4,Boeing,0.79453343,False
+0447764,25,Saab,25,Saab,0.8129994,True
+0488490,25,Saab,25,Saab,0.8909065,True
+0255288,25,Saab,25,Saab,0.97092605,True
+1540063,25,Saab,25,Saab,0.88048625,True
+0143371,25,Saab,25,Saab,0.8566773,True
+1762143,25,Saab,25,Saab,0.5242931,True
+1351194,25,Saab,25,Saab,0.58435565,True
+1571407,25,Saab,25,Saab,0.96900403,True
+1407502,25,Saab,16,Fokker,0.37286812,False
+1008788,25,Saab,4,Boeing,0.25277632,False
+2031661,25,Saab,25,Saab,0.974552,True
+0960098,25,Saab,12,Douglas Aircraft Company,0.45789903,False
+1895028,25,Saab,25,Saab,0.9815673,True
+1827565,25,Saab,25,Saab,0.9652345,True
+1334600,25,Saab,25,Saab,0.99356234,True
+0097765,25,Saab,25,Saab,0.5092971,True
+0977245,25,Saab,25,Saab,0.9304152,True
+0973105,25,Saab,0,ATR,0.4292638,False
+0842128,25,Saab,4,Boeing,0.86726224,False
+0339425,25,Saab,25,Saab,0.6169347,True
+1136122,25,Saab,25,Saab,0.7220958,True
+1743122,26,Supermarine,26,Supermarine,0.98047763,True
+2211016,26,Supermarine,12,Douglas Aircraft Company,0.6916668,False
+0880060,26,Supermarine,8,Cessna,0.48613408,False
+1578664,26,Supermarine,26,Supermarine,0.9344347,True
+2043684,26,Supermarine,26,Supermarine,0.642533,True
+2156226,26,Supermarine,26,Supermarine,0.9540164,True
+1832165,26,Supermarine,26,Supermarine,0.96760285,True
+0881972,26,Supermarine,1,Airbus,0.94398284,False
+1967993,26,Supermarine,26,Supermarine,0.92404956,True
+1180306,26,Supermarine,26,Supermarine,0.993807,True
+1117178,26,Supermarine,26,Supermarine,0.7109462,True
+2131704,26,Supermarine,26,Supermarine,0.8785315,True
+1106369,26,Supermarine,26,Supermarine,0.48782662,True
+0877086,26,Supermarine,26,Supermarine,0.6841768,True
+1887787,26,Supermarine,26,Supermarine,0.8293993,True
+1135019,26,Supermarine,26,Supermarine,0.96894944,True
+1237253,26,Supermarine,26,Supermarine,0.9445173,True
+2151483,26,Supermarine,26,Supermarine,0.9544706,True
+1898052,26,Supermarine,21,McDonnell Douglas,0.3969733,False
+1485890,26,Supermarine,26,Supermarine,0.98613364,True
+2046587,26,Supermarine,26,Supermarine,0.56903857,True
+1859259,26,Supermarine,26,Supermarine,0.76531386,True
+1251385,26,Supermarine,26,Supermarine,0.6030743,True
+0881971,26,Supermarine,26,Supermarine,0.99181587,True
+1723907,26,Supermarine,26,Supermarine,0.99642414,True
+1167955,26,Supermarine,26,Supermarine,0.69688404,True
+2041565,26,Supermarine,8,Cessna,0.41180497,False
+0912525,26,Supermarine,8,Cessna,0.4218571,False
+0881964,26,Supermarine,26,Supermarine,0.9934244,True
+1244763,26,Supermarine,26,Supermarine,0.7992076,True
+1384345,26,Supermarine,26,Supermarine,0.45229995,True
+2106824,26,Supermarine,26,Supermarine,0.95623446,True
+0717614,26,Supermarine,12,Douglas Aircraft Company,0.86221534,False
+1859059,26,Supermarine,26,Supermarine,0.996974,True
+1611099,22,Panavia,22,Panavia,0.9890448,True
+1280040,22,Panavia,22,Panavia,0.99804085,True
+1125997,22,Panavia,26,Supermarine,0.3975504,False
+1927270,22,Panavia,22,Panavia,0.34164461,True
+1374697,22,Panavia,22,Panavia,0.97640103,True
+1115161,22,Panavia,20,Lockheed Martin,0.48682472,False
+1045405,22,Panavia,19,Lockheed Corporation,0.59555805,False
+1961222,22,Panavia,22,Panavia,0.9935045,True
+2162821,22,Panavia,22,Panavia,0.9618679,True
+0691437,22,Panavia,19,Lockheed Corporation,0.5368141,False
+1750220,22,Panavia,22,Panavia,0.83788407,True
+2118955,22,Panavia,22,Panavia,0.7796252,True
+1588762,22,Panavia,22,Panavia,0.9016661,True
+2118872,22,Panavia,22,Panavia,0.9104005,True
+2031890,22,Panavia,22,Panavia,0.5648981,True
+1240010,22,Panavia,22,Panavia,0.87003577,True
+1611095,22,Panavia,19,Lockheed Corporation,0.5641553,False
+1940190,22,Panavia,22,Panavia,0.8641369,True
+1266018,22,Panavia,22,Panavia,0.99109906,True
+1376307,22,Panavia,22,Panavia,0.99858236,True
+1715547,22,Panavia,22,Panavia,0.982992,True
+0877084,22,Panavia,22,Panavia,0.77833843,True
+0749198,22,Panavia,20,Lockheed Martin,0.31496096,False
+1614885,22,Panavia,22,Panavia,0.9935541,True
+1966899,22,Panavia,22,Panavia,0.9372804,True
+0749197,22,Panavia,22,Panavia,0.97920907,True
+0648036,22,Panavia,20,Lockheed Martin,0.47256684,False
+2118873,22,Panavia,22,Panavia,0.9860765,True
+1564418,22,Panavia,22,Panavia,0.19643918,True
+1979664,22,Panavia,22,Panavia,0.69808763,True
+1349345,22,Panavia,22,Panavia,0.8742986,True
+1060704,22,Panavia,22,Panavia,0.82307214,True
+2080681,22,Panavia,22,Panavia,0.4935855,True
+0829813,27,Tupolev,27,Tupolev,0.96611917,True
+0523278,27,Tupolev,27,Tupolev,0.499206,True
+1590457,27,Tupolev,4,Boeing,0.40674588,False
+0523139,27,Tupolev,27,Tupolev,0.94022524,True
+1140416,27,Tupolev,27,Tupolev,0.98963577,True
+1297059,27,Tupolev,27,Tupolev,0.92633265,True
+1083282,27,Tupolev,4,Boeing,0.6771904,False
+0677638,27,Tupolev,27,Tupolev,0.8298599,True
+0974359,27,Tupolev,4,Boeing,0.2340535,False
+0063293,27,Tupolev,27,Tupolev,0.39087698,True
+1061208,27,Tupolev,4,Boeing,0.69924,False
+1351441,27,Tupolev,4,Boeing,0.45897755,False
+0923714,27,Tupolev,27,Tupolev,0.9935169,True
+0522967,27,Tupolev,27,Tupolev,0.99118114,True
+1691610,27,Tupolev,27,Tupolev,0.9706673,True
+0836257,27,Tupolev,27,Tupolev,0.7325985,True
+0894205,27,Tupolev,27,Tupolev,0.930719,True
+0958066,27,Tupolev,27,Tupolev,0.9949839,True
+0094396,27,Tupolev,27,Tupolev,0.86224663,True
+0719053,27,Tupolev,29,de Havilland,0.7217186,False
+0738982,27,Tupolev,27,Tupolev,0.7554201,True
+0522975,27,Tupolev,27,Tupolev,0.999223,True
+0693457,27,Tupolev,4,Boeing,0.50147325,False
+0324987,27,Tupolev,27,Tupolev,0.9582227,True
+0504826,27,Tupolev,13,Embraer,0.7937061,False
+1594717,27,Tupolev,27,Tupolev,0.99858874,True
+0522969,27,Tupolev,27,Tupolev,0.98075336,True
+0659112,27,Tupolev,27,Tupolev,0.6259816,True
+1619881,27,Tupolev,5,Bombardier Aerospace,0.74287295,False
+0066418,27,Tupolev,27,Tupolev,0.99430734,True
+0551251,27,Tupolev,27,Tupolev,0.71663815,True
+0195009,27,Tupolev,7,Canadair,0.27071223,False
+0845036,27,Tupolev,4,Boeing,0.6677859,False
+1940728,27,Tupolev,27,Tupolev,0.99393636,True
+0066405,27,Tupolev,27,Tupolev,0.93459886,True
+1412918,27,Tupolev,4,Boeing,0.46524018,False
+0582362,27,Tupolev,27,Tupolev,0.990697,True
+0808929,27,Tupolev,27,Tupolev,0.7225729,True
+0907404,27,Tupolev,27,Tupolev,0.2218056,True
+0523052,27,Tupolev,27,Tupolev,0.96035624,True
+0903662,27,Tupolev,4,Boeing,0.7501289,False
+0064200,27,Tupolev,3,Beechcraft,0.36759156,False
+0879893,27,Tupolev,27,Tupolev,0.9391234,True
+0836159,27,Tupolev,27,Tupolev,0.7679369,True
+0983420,27,Tupolev,27,Tupolev,0.5010806,True
+1204567,27,Tupolev,27,Tupolev,0.8884151,True
+0337964,27,Tupolev,27,Tupolev,0.54456747,True
+1298949,27,Tupolev,27,Tupolev,0.9855504,True
+0184897,27,Tupolev,27,Tupolev,0.99789256,True
+1177961,27,Tupolev,4,Boeing,0.6590418,False
+0229256,27,Tupolev,21,McDonnell Douglas,0.20542583,False
+0523189,27,Tupolev,27,Tupolev,0.9890715,True
+1415738,27,Tupolev,27,Tupolev,0.9976083,True
+1388984,27,Tupolev,27,Tupolev,0.96656036,True
+1273293,27,Tupolev,27,Tupolev,0.9774943,True
+0391828,27,Tupolev,4,Boeing,0.5433927,False
+1481131,27,Tupolev,27,Tupolev,0.9468315,True
+2007881,27,Tupolev,27,Tupolev,0.96027786,True
+0255359,27,Tupolev,1,Airbus,0.22759096,False
+0384438,27,Tupolev,27,Tupolev,0.62725085,True
+0979615,27,Tupolev,27,Tupolev,0.8576992,True
+0984879,27,Tupolev,4,Boeing,0.45950806,False
+0522973,27,Tupolev,27,Tupolev,0.59081197,True
+0066406,27,Tupolev,27,Tupolev,0.9430717,True
+0936117,27,Tupolev,27,Tupolev,0.78342533,True
+1185509,27,Tupolev,1,Airbus,0.96208656,False
+1633282,27,Tupolev,27,Tupolev,0.76630485,True
+0800390,28,Yakovlev,4,Boeing,0.73683983,False
+1320565,28,Yakovlev,28,Yakovlev,0.8581904,True
+0923499,28,Yakovlev,21,McDonnell Douglas,0.5888021,False
+1298910,28,Yakovlev,21,McDonnell Douglas,0.29176715,False
+0523227,28,Yakovlev,28,Yakovlev,0.9748731,True
+0973160,28,Yakovlev,27,Tupolev,0.3271993,False
+0104604,28,Yakovlev,16,Fokker,0.58826715,False
+0198448,28,Yakovlev,28,Yakovlev,0.8767316,True
+1616362,28,Yakovlev,21,McDonnell Douglas,0.5594597,False
+1296580,28,Yakovlev,16,Fokker,0.29722986,False
+1051041,28,Yakovlev,28,Yakovlev,0.58141696,True
+0906979,28,Yakovlev,28,Yakovlev,0.75692874,True
+0457162,28,Yakovlev,28,Yakovlev,0.4151262,True
+2158992,28,Yakovlev,28,Yakovlev,0.75162536,True
+0198446,28,Yakovlev,27,Tupolev,0.57328486,False
+0944176,28,Yakovlev,28,Yakovlev,0.5532913,True
+1176955,28,Yakovlev,7,Canadair,0.4968337,False
+0784557,28,Yakovlev,28,Yakovlev,0.75016236,True
+0197892,28,Yakovlev,28,Yakovlev,0.9095735,True
+1695906,28,Yakovlev,28,Yakovlev,0.69542885,True
+1544178,28,Yakovlev,28,Yakovlev,0.38149464,True
+0445606,28,Yakovlev,28,Yakovlev,0.5462863,True
+1885835,28,Yakovlev,28,Yakovlev,0.6550573,True
+0784479,28,Yakovlev,28,Yakovlev,0.42231116,True
+0725715,28,Yakovlev,28,Yakovlev,0.42424306,True
+1430022,28,Yakovlev,28,Yakovlev,0.5268953,True
+0995387,28,Yakovlev,28,Yakovlev,0.73449135,True
+0487393,28,Yakovlev,28,Yakovlev,0.6284329,True
+0383400,28,Yakovlev,21,McDonnell Douglas,0.23409016,False
+1117062,28,Yakovlev,28,Yakovlev,0.8385948,True
+0329381,28,Yakovlev,17,Gulfstream Aerospace,0.46384966,False
+0523192,28,Yakovlev,27,Tupolev,0.9323256,False
+0810303,28,Yakovlev,28,Yakovlev,0.59136075,True

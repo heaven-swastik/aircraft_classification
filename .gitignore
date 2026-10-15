@@ -1,0 +1,19 @@
+# dataset and image cache
+fgvc-aircraft-2013b/
+fgvc-aircraft*.tar.gz
+aircraft_cache/
+
+# trained weights (attached to a GitHub release instead)
+*.pt
+*.pth
+
+# outputs of the notebook that are not tracked
+aircraft_outputs/
+*.zip
+
+# python / notebooks
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+.DS_Store
